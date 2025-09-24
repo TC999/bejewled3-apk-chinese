@@ -669,41 +669,41 @@
   <!-- Board::GetTooltipText:9759 -->
   <String id="127">引爆器</String>
   <!-- Board::GetTooltipText:9764 -->
-  <String id="128">Click to detonate all Special Gems on the board.</String>
+  <String id="128">点击可引爆棋盘上所有特殊宝石。</String>
   <!-- Board::GetTooltipText:9765 -->
-  <String id="129">SCRAMBLER</String>
+  <String id="129">打乱器</String>
   <!-- Board::GetTooltipText:9770 -->
-  <String id="130">Click to scramble all Gems on the board.</String>
+  <String id="130">点击可打乱棋盘上所有宝石。</String>
   <!-- Board::GetTooltipText:9771 -->
-  <String id="131">COIN</String>
+  <String id="131">硬币</String>
   <!-- Board::GetTooltipText:9776 -->
-  <String id="132">Clear this Gem to collect the coin inside! Save money to buy Boosts!</String>
+  <String id="132">消除此宝石可收集内部的硬币！存钱购买强化道具！</String>
   <!-- Board::GetTooltipText:9777 -->
-  <String id="133">BUTTERFLIES</String>
+  <String id="133">蝴蝶</String>
   <!-- Board::GetTooltipText:9782 -->
-  <String id="134">Match butterflies with like-colored Gems to free them.</String>
+  <String id="134">将蝴蝶与相同颜色的宝石匹配以释放它们。</String>
   <!-- Board::GetTooltipText:9783 -->
-  <String id="135">TIME GEM</String>
+  <String id="135">时间宝石</String>
   <!-- Board::GetTooltipText:9788 -->
-  <String id="136">Match this Gem to add %s seconds to the clock!</String>
+  <String id="136">匹配此宝石可为时钟增加 %s 秒！</String>
   <!-- Board::GetTooltipText:9789 -->
-  <String id="137">TIME BOMB</String>
+  <String id="137">定时炸弹</String>
   <!-- Board::GetTooltipText:9795 -->
-  <String id="138">Match this Gem before the counter reaches zero!</String>
+  <String id="138">在计数器归零时匹配此宝石！</String>
   <!-- Board::GetTooltipText:9796 -->
-  <String id="139">LEVEL&cr;COMPLETE</String>
+  <String id="139">关卡&cr;完成</String>
   <!-- Board::UpdateGame:10373 -->
-  <String id="140">GET READY</String>
+  <String id="140">准备开始</String>
   <!-- Board::DoUpdate:11547 -->
-  <String id="141">GO!</String>
+  <String id="141">开始！</String>
   <!-- Board::DoUpdate:11559 -->
   <String id="3569">%s</String>
   <!-- Board::DrawHUDText:13830 -->
-  <String id="3232">Level %s</String>
+  <String id="3232">第 %s 关</String>
   <!-- Board::DrawHUDText:13848 -->
-  <String id="142">GEMS</String>
+  <String id="142">宝石</String>
   <!-- Board::DrawCountPopups:14329 -->
-  <String id="143">CASCADES</String>
+  <String id="143">连锁</String>
   <!-- Board::DrawCountPopups:14387 -->
   <String id="144">x%d</String>
   <!-- Board::DrawPointMultiplier:14467 -->
@@ -711,210 +711,210 @@
   <!-- Board::DrawPointMultiplier:14477 -->
   <String id="146">x%d</String>
   <!-- Board::DrawPointMultiplier:14489 -->
-  <String id="147">PAUSED</String>
+  <String id="147">已暂停</String>
   <!-- Board::DrawPauseText:14748 -->
   <String id="148">%d:%02d</String>
   <!-- Board::DrawTimer:15290 -->
-  <String id="3234">SPEED</String>
+  <String id="3234">速度</String>
   <!-- Board::DrawGameElements:15516 -->
   <String id="3235">+%d</String>
   <!-- Board::DrawGameElements:15527 -->
   <String id="151">%d:%02d</String>
   <!-- Board::DrawGameElements:15831 -->
-  <String id="3236">RESTART GAME?</String>
+  <String id="3236">重启游戏？</String>
   <!-- Board::RestartGameRequest:17743 -->
-  <String id="3237">Abandon the current game and start again? Your current game will be lost.</String>
+  <String id="3237">放弃当前游戏并重新开始？您当前的游戏进度将会丢失。</String>
   <!-- Board::RestartGameRequest:17744 -->
-  <String id="3238">RESTART GAME</String>
+  <String id="3238">重启游戏</String>
   <!-- Board::RestartGameRequest:17752 -->
-  <String id="3239">CANCEL</String>
+  <String id="3239">取消</String>
   <!-- Board::RestartGameRequest:17756 -->
   <String id="157">%s of %s</String>
   <!-- Board::DrawScore:18063 -->
   <!-- File:      ButterflyBoard.cpp -->
-  <String id="3672">GAME OVER</String>
+  <String id="3672">游戏结束</String>
   <!-- ButterflyBoard::GameOverAnnounce:948 -->
-  <String id="158">x%d COMBO</String>
+  <String id="158">x%d 连击</String>
   <!-- ButterflyBoard::AddPoints:1077 -->
   <!-- File:      ButterflyEndLevelDialog.cpp -->
-  <String id="159">Butterflies Freed</String>
+  <String id="159">释放的蝴蝶</String>
   <!-- ButterflyEndLevelDialog::DrawStatsLabels:28 -->
-  <String id="160">Best Move</String>
+  <String id="160">最佳移动</String>
   <!-- ButterflyEndLevelDialog::DrawStatsLabels:29 -->
-  <String id="161">Best Butterfly Combo</String>
+  <String id="161">最佳蝴蝶连击</String>
   <!-- ButterflyEndLevelDialog::DrawStatsLabels:30 -->
-  <String id="162">Total Time</String>
+  <String id="162">总时间</String>
   <!-- ButterflyEndLevelDialog::DrawStatsLabels:31 -->
   <String id="163">%d:%02d</String>
   <!-- ButterflyEndLevelDialog::DrawStatsText:40 -->
   <!-- File:      ChangePictureDialog.cpp -->
-  <String id="3240">SELECT PICTURE</String>
+  <String id="3240">选择图片</String>
   <!-- Line 13 -->
-  <String id="3241">Choose from Library</String>
+  <String id="3241">从库中选择</String>
   <!-- Line 37 -->
-  <String id="3242">Take picture using camera</String>
+  <String id="3242">使用相机拍照</String>
   <!-- Line 44 -->
   <!-- File:      ClassicBoard.cpp -->
-  <String id="164">NO MORE&cr;MOVES</String>
+  <String id="164">无更多&cr;移动</String>
   <!-- ClassicBoard::GameOverAnnounce:172 -->
   <!-- File:      ClassicEndLevelDialog.cpp -->
-  <String id="165">Level Achieved</String>
+  <String id="165">达成关卡</String>
   <!-- ClassicEndLevelDialog::DrawStatsLabels:26 -->
-  <String id="166">Best Move</String>
+  <String id="166">最佳移动</String>
   <!-- ClassicEndLevelDialog::DrawStatsLabels:27 -->
-  <String id="167">Longest Cascade</String>
+  <String id="167">最长连锁</String>
   <!-- ClassicEndLevelDialog::DrawStatsLabels:28 -->
-  <String id="168">Total Time</String>
+  <String id="168">总时间</String>
   <!-- ClassicEndLevelDialog::DrawStatsLabels:29 -->
   <String id="169">%d:%02d</String>
   <!-- ClassicEndLevelDialog::DrawStatsText:38 -->
   <!-- File:      CreditsMenu.cpp -->
-  <String id="3243">CREDITS</String>
+  <String id="3243">制作人员</String>
   <!-- Line 41 -->
-  <String id="3244">BACK</String>
+  <String id="3244">返回</String>
   <!-- Line 61 -->
   <String id="3570">Bejeweled© 2018 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</String>
   <!-- CreditsMenu::ButtonDepress:181 -->
-  <String id="3800">Android Team</String>
-  <String id="3801">Production</String>
+  <String id="3800">Android 团队</String>
+  <String id="3801">制作</String>
   <String id="3802">Tanya Emmert,Farah Nasreen,Suresh Manthena,Cristina Rocha,Arjun Balaram.</String>
-  <String id="3803">Programming</String>
+  <String id="3803">编程</String>
   <String id="3804">Yash Dhadiwal,Praveen Reddy KV,Vijay Kumar R,Bharathi Pothuganti,Gaurav Dhadiwal,Ilango Balakrishnan</String>
-  <String id="3805">Quality Assurance</String>
+  <String id="3805">质量保证</String>
   <String id="3806">Keith Laverty,Venkata Krishna KV,Pradeep Kasoju,Kiranmayee Pendyala,Abraham Jayasheelan Gandham,Rohit Singari,Jees Joy Zacharia,Deepak Bhat,Sanjay Darapureddy,Rajasekhar Varma</String>
-  <String id="3807">Special Thanks</String>
+  <String id="3807">特别感谢</String>
   <String id="3808">Phil Bolus,Somu Thevar,Akhila Reddy Suram,Mohd.Abdul Nadeem,Deepak Kumar Saka</String>
 
-  <String id="3245">iOS Team</String>
+  <String id="3245">iOS 团队</String>
   <!-- CreditsMenu::ButtonDepress:189 -->
-  <String id="3246">Production</String>
+  <String id="3246">制作</String>
   <!-- CreditsMenu::ButtonDepress:191 -->
-  <String id="3247">Game Design</String>
+  <String id="3247">游戏设计</String>
   <!-- CreditsMenu::ButtonDepress:193 -->
   <String id="3266">David Bishop,Antubel Moreda,Kevin O&apos;Hara</String>
   <!-- CreditsMenu::ButtonDepress:194 -->
-  <String id="3248">Programming</String>
+  <String id="3248">编程</String>
   <!-- CreditsMenu::ButtonDepress:195 -->
   <String id="3267">Neil Donnelly,Yang Han,Stuart Johnson,Alanna Kelly,Robert Lester,Paolo Maninetti,Paul O&apos;Donnell,PJ O&apos;Halloran,Christian Schinkoethe,Narinder Singh Basran</String>
   <!-- CreditsMenu::ButtonDepress:196 -->
-  <String id="3249">Art</String>
+  <String id="3249">美术</String>
   <!-- CreditsMenu::ButtonDepress:197 -->
-  <String id="3250">Writing</String>
+  <String id="3250">文案</String>
   <!-- CreditsMenu::ButtonDepress:199 -->
   <String id="3269">David Bishop,Borja Guillan,Antubel Moreda</String>
   <!-- CreditsMenu::ButtonDepress:200 -->
-  <String id="3251">Quality Assurance</String>
+  <String id="3251">质量保证</String>
   <!-- CreditsMenu::ButtonDepress:201 -->
   <String id="3270">Adam Beck,David Cain,Didier Canovas,David Cleaveley,Aaron Collum,Colm Gallagher,Stephen Geddes,Kar Hay Ho,Brian Lelas,Keith Laverty,Carlos Losada,Philip Plunkett,Ildefonso Ranchal,Carl Sidebotham,Viacheslav Zakhariev</String>
   <!-- CreditsMenu::ButtonDepress:202 -->
-  <String id="3252">Localization</String>
+  <String id="3252">本地化</String>
   <!-- CreditsMenu::ButtonDepress:203 -->
   <String id="3271">Antonio Asensio Pérez,Karl Byrne,Mark Coffey,Jean De Merey,Shinobu Koiwa,Anthony Mackey,Silvie McCullough,John Paul Newman,Lorenzo Penati,Jessica Schuster,Jonathon Young</String>
   <!-- CreditsMenu::ButtonDepress:204 -->
-  <String id="3253">Special Thanks</String>
+  <String id="3253">特别感谢</String>
   <!-- CreditsMenu::ButtonDepress:205 -->
   <String id="3272">Ed Allard,Sharon Archbold,Sameer Baroova,Aoife Brennan,Paul Breslin,Bob Chamberlain,John Coleman,Valeria Colnaghi,Giordano Contestabile,Meriem Djazouli,Meredith Dorrance,Eddie Dowse,Plamen Dragozov,Brian Fiete,Kieran Gleeson,John Halloran,Gillian Hayes,Heather Hazen,Nicole LeMaster,Linda McGee,Cormac Mulhall,Kate O&apos;Brien,Cathy Orr,Stiw Puljic,Marie-Alana Ragan,Guillaume Richard,David Roberts,Jennifer Staunton,Andrew Stein,John Vechey,David Ward,Ember Wardrop</String>
   <!-- CreditsMenu::ButtonDepress:206 -->
-  <String id="3254">PC/Mac Team</String>
+  <String id="3254">PC/Mac 团队</String>
   <!-- CreditsMenu::ButtonDepress:207 -->
-  <String id="3255">Production</String>
+  <String id="3255">制作</String>
   <!-- CreditsMenu::ButtonDepress:209 -->
   <String id="3273">Michael Guillory,Jason Kapalka,Sukhbir Sidhu</String>
   <!-- CreditsMenu::ButtonDepress:210 -->
-  <String id="3256">Game Design</String>
+  <String id="3256">游戏设计</String>
   <!-- CreditsMenu::ButtonDepress:211 -->
   <String id="3274">Brian Fiete,Jason Kapalka,Josh Langley,Jeremy Bilas</String>
   <!-- CreditsMenu::ButtonDepress:212 -->
-  <String id="3257">Programming</String>
+  <String id="3257">编程</String>
   <!-- CreditsMenu::ButtonDepress:213 -->
   <String id="3275">Jeremy Bilas,Brian Fiete,Chris Hargrove,Josh Langley,Joe Mobley,Matt Scott,Jacob VanWingen</String>
   <!-- CreditsMenu::ButtonDepress:214 -->
-  <String id="3258">Art</String>
+  <String id="3258">美术</String>
   <!-- CreditsMenu::ButtonDepress:215 -->
   <String id="3276">Jim Abraham,Misael Armendariz,Gene Blakefield,Marcia Broderick,Tysen Henderson,Matt Holmberg,Jordan Kotzebue,Josh Langley,Derek McCaughan,Bill Olmstead,Rick Schmitz,Rich Werner</String>
   <!-- CreditsMenu::ButtonDepress:216 -->
-  <String id="3259">Audio</String>
+  <String id="3259">音频</String>
   <!-- CreditsMenu::ButtonDepress:217 -->
   <String id="3277">Alexander Brandon (Funky Rustic),Peter Hajba,Gregory Hinde,Jason Kapalka,Zachary Throne</String>
   <!-- CreditsMenu::ButtonDepress:218 -->
-  <String id="3260">Writing</String>
+  <String id="3260">文案</String>
   <!-- CreditsMenu::ButtonDepress:219 -->
   <String id="3278">Stephen Notley</String>
   <!-- CreditsMenu::ButtonDepress:220 -->
-  <String id="3261">Quality Assurance</String>
+  <String id="3261">质量保证</String>
   <!-- CreditsMenu::ButtonDepress:221 -->
   <String id="3279">Sharon Bruhn,David Chan,Bob Church,David Cole,Bill Dennes,Jon Fleming,Michael Guillory,Abigail Houghton,Ed Miller,Mike Racioppi,DJ Stiner,Chad Zoellner</String>
   <!-- CreditsMenu::ButtonDepress:222 -->
-  <String id="3262">Localization</String>
+  <String id="3262">本地化</String>
   <!-- CreditsMenu::ButtonDepress:223 -->
-  <String id="3263">Release Management</String>
+  <String id="3263">发布管理</String>
   <!-- CreditsMenu::ButtonDepress:225 -->
   <String id="3281">Irene Cheung,Daniel Landeck,Eric Olson,Nick Tomilson</String>
   <!-- CreditsMenu::ButtonDepress:226 -->
-  <String id="3264">Special Thanks</String>
+  <String id="3264">特别感谢</String>
   <!-- CreditsMenu::ButtonDepress:227 -->
   <String id="3282">Ed Allard,Yvette Camacho,Garth Chouteau,Leigh Daughtridge,Glenn Drover,Cristina Estrada-Eligio,Liz Harris,Amy Hevron,Curtis Kuhn,Nicole LeMaster,Kong Lu,Cathy Orr,Kelley Poston,Ron Powers,David Roberts,Ben Rotholtz,John Vechey,Eve Warmflash,Paula Wong,PopCap Beta Testers</String>
   <!-- CreditsMenu::ButtonDepress:228 -->
-  <String id="3283">Thank you for playing!</String>
+  <String id="3283">感谢您的游玩！</String>
   <!-- CreditsMenu::ButtonDepress:231 -->
   <!-- File:      DigBoard.cpp -->
-  <String id="170">+%d SECOND MEGA BONUS</String>
+  <String id="170">+%d 秒超级奖励</String>
   <!-- DigBoard::DoTimeBonus:424 -->
-  <String id="171">+%d SECOND BONUS</String>
+  <String id="171">+%d 秒奖励</String>
   <!-- DigBoard::DoTimeBonus:434 -->
   <!-- File:      DigGoal.cpp -->
-  <String id="542">CLEARED!</String>
+  <String id="542">已清除！</String>
   <!-- DigGoal::DrawDigBarAnim:3518 -->
-  <String id="544">ALL CLEAR</String>
+  <String id="544">全部清除</String>
   <!-- DigGoal::DrawDigBarAnim:3537 -->
-  <String id="184">ARTIFACT</String>
+  <String id="184">宝物</String>
   <!-- DigGoal::GetTooltipText:5038 -->
-  <String id="185">Uncover this object for bonus points.</String>
+  <String id="185">揭示此物体以获得奖励分数。</String>
   <!-- DigGoal::GetTooltipText:5039 -->
-  <String id="186">GOLD</String>
+  <String id="186">黄金</String>
   <!-- DigGoal::GetTooltipText:5048 -->
-  <String id="187">Dig up gold to score points.</String>
+  <String id="187">挖掘黄金以获得分数。</String>
   <!-- DigGoal::GetTooltipText:5049 -->
-  <String id="188">DIAMONDS</String>
+  <String id="188">钻石</String>
   <!-- DigGoal::GetTooltipText:5054 -->
-  <String id="189">Dig up diamonds to score points.</String>
+  <String id="189">挖掘钻石以获得分数。</String>
   <!-- DigGoal::GetTooltipText:5055 -->
-  <String id="190">HYPERCUBE</String>
+  <String id="190">超级立方体</String>
   <!-- DigGoal::GetTooltipText:5065 -->
-  <String id="191">Uncover this buried Hypercube in order to use it.</String>
+  <String id="191">揭示这个被掩埋的超级立方体以使用它。</String>
   <!-- DigGoal::GetTooltipText:5066 -->
-  <String id="192">DIRT</String>
+  <String id="192">泥土</String>
   <!-- DigGoal::GetTooltipText:5075 -->
-  <String id="193">Match a Gem adjacent to this block to break it up.</String>
+  <String id="193">匹配此方块相邻的宝石以破坏它。</String>
   <!-- DigGoal::GetTooltipText:5076 -->
-  <String id="194">ROCKS</String>
+  <String id="194">岩石</String>
   <!-- DigGoal::GetTooltipText:5082 -->
-  <String id="195">Match 2 Gems adjacent to this block to break it up.</String>
+  <String id="195">匹配此方块相邻的2颗宝石以破坏它。</String>
   <!-- DigGoal::GetTooltipText:5083 -->
-  <String id="196">STONES</String>
+  <String id="196">石块</String>
   <!-- DigGoal::GetTooltipText:5089 -->
-  <String id="197">Match 3 Gems adjacent to this block to break it up.</String>
+  <String id="197">匹配此方块相邻的3颗宝石以破坏它。</String>
   <!-- DigGoal::GetTooltipText:5090 -->
-  <String id="198">DARK ROCK</String>
+  <String id="198">暗岩</String>
   <!-- DigGoal::GetTooltipText:5096 -->
-  <String id="199">This block can be destroyed only by blasting it with Special Gems.</String>
+  <String id="199">此方块只能通过使用特殊宝石爆炸来摧毁。</String>
   <!-- DigGoal::GetTooltipText:5097 -->
-  <String id="200">BOULDER</String>
+  <String id="200">巨砾</String>
   <!-- DigGoal::GetTooltipText:5103 -->
-  <String id="201">Match 4 Gems adjacent to this block to break it up.</String>
+  <String id="201">匹配此方块相邻的4颗宝石以破坏它。</String>
   <!-- DigGoal::GetTooltipText:5104 -->
-  <String id="202">BOULDER</String>
+  <String id="202">巨砾</String>
   <!-- DigGoal::GetTooltipText:5111 -->
-  <String id="203">Match Multiple Gems adjacent to this block to break it up.</String>
+  <String id="203">匹配此方块相邻的多颗宝石以破坏它。</String>
   <!-- DigGoal::GetTooltipText:5112 -->
   <!-- File:      DigGoalEndLevelDialog.cpp -->
-  <String id="204">Max Depth</String>
+  <String id="204">最大深度</String>
   <!-- DigGoalEndLevelDialog::DrawStatsLabels:82 -->
-  <String id="205">Total Time</String>
+  <String id="205">总时间</String>
   <!-- DigGoalEndLevelDialog::DrawStatsLabels:83 -->
-  <String id="206">Best Move</String>
+  <String id="206">最佳移动</String>
   <!-- DigGoalEndLevelDialog::DrawStatsLabels:84 -->
-  <String id="207">Best Treasure</String>
+  <String id="207">最佳宝藏</String>
   <!-- DigGoalEndLevelDialog::DrawStatsLabels:85 -->
   <String id="208">%s m</String>
   <!-- DigGoalEndLevelDialog::DrawStatsText:106 -->
@@ -922,25 +922,25 @@
   <!-- DigGoalEndLevelDialog::DrawStatsText:108 -->
   <String id="210">$%s</String>
   <!-- DigGoalEndLevelDialog::DrawStatsText:110 -->
-  <String id="211">No Treasures</String>
+  <String id="211">无宝藏</String>
   <!-- DigGoalEndLevelDialog::DrawStatsText:113 -->
   <String id="212">$%s</String>
   <!-- DigGoalEndLevelDialog::DrawStatsText:125 -->
   <String id="213">(%s)</String>
   <!-- DigGoalEndLevelDialog::DrawStatsText:126 -->
-  <String id="214">Treasure Found:</String>
+  <String id="214">发现宝物：</String>
   <!-- DigGoalEndLevelDialog::DrawFrames:161 -->
-  <String id="215">Gold Collected</String>
+  <String id="215">收集的黄金</String>
   <!-- DigGoalEndLevelDialog::Update:205 -->
-  <String id="216">Diamonds Collected</String>
+  <String id="216">收集的钻石</String>
   <!-- DigGoalEndLevelDialog::Update:205 -->
-  <String id="217">Artifacts Collected</String>
+  <String id="217">收集的宝物</String>
   <!-- DigGoalEndLevelDialog::Update:205 -->
   <String id="218">$%s</String>
   <!-- DigGoalEndLevelDialog::Update:209 -->
   <String id="219">$%s</String>
   <!-- DigGoalEndLevelDialog::Update:220 -->
-  <String id="220">Treasure Excavated:</String>
+  <String id="220">挖掘的宝物：</String>
   <!-- DigGoalEndLevelDialog::Draw:276 -->
   <String id="221">$%s</String>
   <!-- DigGoalEndLevelDialog::Draw:284 -->
@@ -949,41 +949,41 @@
   <String id="222">%d%%</String>
   <!-- DigGoalEndLevelDialog::Draw:336 -->
   <!-- File:      EditProfileDialog.cpp -->
-  <String id="3284">Choose a profile picture:</String>
+  <String id="3284">选择头像：</String>
   <!-- Line 52 -->
-  <String id="3285">EDIT NAME</String>
+  <String id="3285">编辑名字</String>
   <!-- Line 68 -->
-  <String id="3571">CANCEL</String>
+  <String id="3571">取消</String>
   <!-- Line 96 -->
-  <String id="3572">Player</String>
+  <String id="3572">玩家</String>
   <!-- EditProfileDialog::Show:237 -->
-  <String id="83">ENTER NAME</String>
+  <String id="83">输入名字</String>
   <!-- EditProfileDialog::ButtonDepress:404 -->
-  <String id="84">You must enter your name!</String>
+  <String id="84">您必须输入您的名字！</String>
   <!-- EditProfileDialog::ButtonDepress:404 -->
-  <String id="85">OK</String>
+  <String id="85">确定</String>
   <!-- EditProfileDialog::ButtonDepress:404 -->
-  <String id="3573">CONTINUE</String>
+  <String id="3573">继续</String>
   <!-- EditProfileDialog::SetupForFirstShow:475 -->
-  <String id="3286">CONTINUE</String>
+  <String id="3286">继续</String>
   <!-- EditProfileDialog::SetupForFirstShow:480 -->
-  <String id="3574">Enter your name and select a picture to create a new player</String>
+  <String id="3574">输入您的名字并选择头像以创建新玩家</String>
   <!-- EditProfileDialog::SetupForFirstShow:485 -->
-  <String id="3287">EDIT PROFILE</String>
+  <String id="3287">编辑个人资料</String>
   <!-- EditProfileDialog::SetupForFirstShow:504 -->
-  <String id="3288">BACK</String>
+  <String id="3288">返回</String>
   <!-- EditProfileDialog::SetupForFirstShow:505 -->
-  <String id="3575">EDIT PLAYER</String>
+  <String id="3575">编辑玩家</String>
   <!-- EditProfileDialog::SetupForFirstShow:509 -->
-  <String id="3673">WELCOME TO BEJEWELED HD!</String>
+  <String id="3673">欢迎来到宝石迷阵HD！</String>
   <!-- EditProfileDialog::SetupForFirstShow:509 -->
-  <String id="3576">SAVE</String>
+  <String id="3576">保存</String>
   <!-- EditProfileDialog::SetupForFirstShow:511 -->
-  <String id="3577">Tap on your name to edit it or change your picture by selecting a new one</String>
+  <String id="3577">点击您的名字进行编辑，或选择新头像更换图片</String>
   <!-- EditProfileDialog::SetupForFirstShow:517 -->
-  <String id="3674">EDIT PROFILE</String>
+  <String id="3674">编辑个人资料</String>
   <!-- EditProfileDialog::SetupForFirstShow:541 -->
-  <String id="3675">OK</String>
+  <String id="3675">确定</String>
   <!-- EditProfileDialog::SetupForFirstShow:543 -->
   <!-- File:      EndLevelDialog.cpp -->
   <String id="230">x %d</String>
