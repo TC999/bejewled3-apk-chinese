@@ -1755,61 +1755,61 @@
   <!-- StatsTab::Draw:258 -->
   <String id="461">^0099FF^蓝色</String>
   <!-- StatsTab::Draw:259 -->
-  <String id="462">Zen Mode High Score:&cr;</String>
+  <String id="462">禅模式最高分：&cr;</String>
   <!-- StatsTab::Draw:290 -->
-  <String id="463">Quest Mode Completion:&cr;</String>
+  <String id="463">任务模式完成度：&cr;</String>
   <!-- StatsTab::Draw:291 -->
   <String id="464">%s%%</String>
   <!-- StatsTab::Draw:308 -->
-  <String id="465">All-Time Best Move:&cr;</String>
+  <String id="465">历史最佳移动：&cr;</String>
   <!-- StatsTab::Draw:316 -->
-  <String id="466">Total Time Played:</String>
+  <String id="466">总游戏时间：</String>
   <!-- StatsTab::Draw:317 -->
-  <String id="572">%i second</String>
+  <String id="572">%i 秒</String>
   <!-- StatsTab::Draw:326 -->
-  <String id="595">%i seconds</String>
+  <String id="595">%i 秒</String>
   <!-- StatsTab::Draw:328 -->
-  <String id="573">%i minute</String>
+  <String id="573">%i 分钟</String>
   <!-- StatsTab::Draw:335 -->
-  <String id="596">%i minutes</String>
+  <String id="596">%i 分钟</String>
   <!-- StatsTab::Draw:337 -->
-  <String id="574">%.1f hours</String>
+  <String id="574">%.1f 小时</String>
   <!-- StatsTab::Draw:341 -->
   <String id="471">&nbsp;pts&cr;</String>
   <!-- StatsTab::Draw:347 -->
-  <String id="472">High Scores</String>
+  <String id="472">最高分</String>
   <!-- RecordsScreen::RecordsScreen:369 -->
-  <String id="473">Badges</String>
+  <String id="473">徽章</String>
   <!-- RecordsScreen::RecordsScreen:370 -->
-  <String id="474">Stats</String>
+  <String id="474">统计</String>
   <!-- RecordsScreen::RecordsScreen:371 -->
   <!-- File:      RubyReaperBoard.cpp -->
-  <String id="475">Collect 30 red gems before time runs out! Clear yellow gems to gain more time.</String>
+  <String id="475">在时间耗尽前收集30颗红色宝石！消除黄色宝石可获得更多时间。</String>
   <!-- RubyReaperBoard::RubyReaperBoard:6 -->
   <!-- File:      SecretMenu.cpp -->
-  <String id="476">Back</String>
+  <String id="476">返回</String>
   <!-- SecretMenu::InitWidgets:22 -->
-  <String id="477">SECRET GAMES</String>
+  <String id="477">隐藏游戏</String>
   <!-- SecretMenu::Draw:57 -->
   <!-- File:      SpeedBoard.cpp -->
-  <String id="478">TIME UP</String>
+  <String id="478">时间到</String>
   <!-- SpeedBoard::GameOverAnnounce:283 -->
-  <String id="479">+%d sec</String>
+  <String id="479">+%d 秒</String>
   <!-- SpeedBoard::PieceTallied:346 -->
-  <String id="480">TIME UP</String>
+  <String id="480">时间到</String>
   <!-- SpeedBoard::GameOver:559 -->
   <String id="481">+%d:%02d</String>
   <!-- SpeedBoard::DrawFrame2:1073 -->
-  <String id="482">Last Hurrah</String>
+  <String id="482">最后一搏</String>
   <!-- SpeedBoard::DrawFrame2:1112 -->
   <!-- File:      SpeedEndLevelDialog.cpp -->
-  <String id="483">Highest Multiplier</String>
+  <String id="483">最高倍数</String>
   <!-- SpeedEndLevelDialog::DrawStatsLabels:26 -->
-  <String id="484">Best Move</String>
+  <String id="484">最佳移动</String>
   <!-- SpeedEndLevelDialog::DrawStatsLabels:27 -->
-  <String id="485">Longest Cascade</String>
+  <String id="485">最长连锁</String>
   <!-- SpeedEndLevelDialog::DrawStatsLabels:28 -->
-  <String id="486">Total Time</String>
+  <String id="486">总时间</String>
   <!-- SpeedEndLevelDialog::DrawStatsLabels:29 -->
   <String id="487">x%d</String>
   <!-- SpeedEndLevelDialog::DrawStatsText:34 -->
