@@ -1815,110 +1815,110 @@
   <!-- SpeedEndLevelDialog::DrawStatsText:34 -->
   <String id="488">%d:%02d</String>
   <!-- SpeedEndLevelDialog::DrawStatsText:38 -->
-  <String id="489">FLAME x%d</String>
+  <String id="489">火焰 x%d</String>
   <!-- SpeedEndLevelDialog::Draw:75 -->
-  <String id="490">STAR x%d</String>
+  <String id="490">星星 x%d</String>
   <!-- SpeedEndLevelDialog::Draw:76 -->
-  <String id="491">HYPER x%d</String>
+  <String id="491">超级 x%d</String>
   <!-- SpeedEndLevelDialog::Draw:77 -->
-  <String id="492">TIME +%d:%02d</String>
+  <String id="492">时间 +%d:%02d</String>
   <!-- SpeedEndLevelDialog::Draw:78 -->
-  <String id="493">SPEED</String>
+  <String id="493">速度</String>
   <!-- SpeedEndLevelDialog::Draw:80 -->
-  <String id="494">SPECIAL</String>
+  <String id="494">特殊</String>
   <!-- SpeedEndLevelDialog::Draw:81 -->
-  <String id="495">MATCHES</String>
+  <String id="495">匹配数</String>
   <!-- SpeedEndLevelDialog::Draw:82 -->
   <String id="496">%dk</String>
   <!-- SpeedEndLevelDialog::Draw:119 -->
-  <String id="497">Last</String>
+  <String id="497">最后</String>
   <!-- SpeedEndLevelDialog::Draw:138 -->
   <String id="498">x%d</String>
   <!-- SpeedEndLevelDialog::Draw:138 -->
   <!-- File:      StatsMenu.cpp -->
-  <String id="3439">STATS</String>
+  <String id="3439">统计</String>
   <!-- Line 32 -->
-  <String id="3440">BACK</String>
+  <String id="3440">返回</String>
   <!-- Line 41 -->
-  <String id="3496">Gems Matched:</String>
+  <String id="3496">匹配宝石：</String>
   <!-- StatsMenu::ButtonDepress:189 -->
-  <String id="3497">Flame Gems:</String>
+  <String id="3497">火焰宝石：</String>
   <!-- StatsMenu::ButtonDepress:194 -->
-  <String id="3498">Star Gems:</String>
+  <String id="3498">星星宝石：</String>
   <!-- StatsMenu::ButtonDepress:199 -->
-  <String id="3499">Hypercubes:</String>
+  <String id="3499">超级方块：</String>
   <!-- StatsMenu::ButtonDepress:204 -->
-  <String id="3500">Favorite Gem Color:</String>
+  <String id="3500">最喜欢的宝石颜色：</String>
   <!-- StatsMenu::ButtonDepress:213 -->
-  <String id="3441">Current Zen Score:</String>
+  <String id="3441">当前禅模式分数：</String>
   <!-- StatsMenu::ButtonDepress:232 -->
-  <String id="3501">All-Time Best Move:&cr;</String>
+  <String id="3501">历史最佳移动：&cr;</String>
   <!-- StatsMenu::ButtonDepress:242 -->
-  <String id="3502">Total Time Played:</String>
+  <String id="3502">总游戏时间：</String>
   <!-- StatsMenu::ButtonDepress:247 -->
-  <String id="3503">N/A</String>
+  <String id="3503">无数据</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:373 -->
-  <String id="3504">Red</String>
+  <String id="3504">红色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:376 -->
-  <String id="3505">White</String>
+  <String id="3505">白色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:377 -->
-  <String id="3506">Green</String>
+  <String id="3506">绿色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:378 -->
-  <String id="3507">Yellow</String>
+  <String id="3507">黄色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:379 -->
-  <String id="3508">Purple</String>
+  <String id="3508">紫色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:380 -->
-  <String id="3509">Orange</String>
+  <String id="3509">橙色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:381 -->
-  <String id="3510">Blue</String>
+  <String id="3510">蓝色</String>
   <!-- StatsMenuContainer::GetFavouriteGemColour:382 -->
   <!-- File:      TimeLimitBoard.cpp -->
-  <String id="499">+%d SECOND BONUS</String>
+  <String id="499">+%d 秒奖励</String>
   <!-- TimeLimitBoard::DoQuestBonus:58 -->
-  <String id="500">-%d SECONDS PENALTY</String>
+  <String id="500">-%d 秒惩罚</String>
   <!-- TimeLimitBoard::DoQuestPenalty:67 -->
   <!-- File:      UnlockDialog.cpp -->
-  <String id="501">New Mode Unlocked</String>
+  <String id="501">新模式已解锁</String>
   <!-- Line 17 -->
-  <String id="502">OK</String>
+  <String id="502">确定</String>
   <!-- Line 22 -->
-  <String id="503">You Have Unlocked a New Mode:</String>
+  <String id="503">您已解锁新模式：</String>
   <!-- UnlockDialog::Draw:45 -->
-  <String id="504">Now available on the game menu.</String>
+  <String id="504">现已在游戏菜单中可用。</String>
   <!-- UnlockDialog::Draw:51 -->
   <!-- File:      UserSelectionDialog.cpp -->
-  <String id="505">SELECT A USER</String>
+  <String id="505">选择用户</String>
   <!-- Line 15 -->
-  <String id="508">(Add A New User)</String>
+  <String id="508">(添加新用户)</String>
   <!-- UserSelectionDialog::ResetListWidget:100 -->
   <!-- File:      WelcomeDialog.cpp -->
-  <String id="511">Enter your name.</String>
+  <String id="511">输入您的名字。</String>
   <!-- Line 28 -->
   <!-- File:      ZenBoard.cpp -->
-  <String id="512">MAX SCORE</String>
+  <String id="512">最高分</String>
   <!-- ZenBoard::DrawScore:191 -->
-  <String id="513">Zen Options</String>
+  <String id="513">禅模式选项</String>
   <!-- ZenBoard::Update:1208 -->
-  <String id="514">Customize your Zen experience here!</String>
+  <String id="514">在此自定义您的禅模式体验！</String>
   <!-- ZenBoard::Update:1208 -->
-  <String id="3442">ZEN OPTIONS</String>
+  <String id="3442">禅模式选项</String>
   <!-- ZenBoard::InitUI:1321 -->
-  <String id="3700">ZEN EFFECTS</String>
+  <String id="3700">禅模式效果</String>
   <!-- ZenBoard::InitUI:1322 -->
   <!-- File:      ZenInfoDialog.cpp -->
-  <String id="3443">ZEN</String>
+  <String id="3443">禅模式</String>
   <!-- Line 20 -->
-  <String id="3444">CONTINUE</String>
+  <String id="3444">继续</String>
   <!-- Line 20 -->
-  <String id="3445">Relax as you play this endless mode</String>
+  <String id="3445">在这个无尽模式中放松身心</String>
   <!-- Line 48 -->
-  <String id="3446">Chill out with soothing ambient sounds</String>
+  <String id="3446">在舒缓的环境音效中放松</String>
   <!-- Line 55 -->
-  <String id="3447">Boost your brain with positive mantras</String>
+  <String id="3447">通过积极的口号提升脑力</String>
   <!-- Line 63 -->
-  <String id="3448">Release stress with breathing modulation</String>
+  <String id="3448">通过呼吸调节释放压力</String>
   <!-- Line 71 -->
-  <String id="3449">Headphones are recommended</String>
+  <String id="3449">建议使用耳机</String>
   <!-- Line 79 -->
   <!-- File:      ZenOptionsDialog.cpp -->
   <String id="515">Enable</String>
