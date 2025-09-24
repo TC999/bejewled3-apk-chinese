@@ -1553,101 +1553,101 @@
   <!-- PokerBoard::DrawOverlay:574 -->
   <String id="379">+%s</String>
   <!-- PokerBoard::DrawOverlay:591 -->
-  <String id="384">SAFE!</String>
+  <String id="384">安全！</String>
   <!-- PokerBoard::Update:1360 -->
-  <String id="385">No Score</String>
+  <String id="385">无分数</String>
   <!-- PokerBoard::TallyScore:1614 -->
-  <String id="386">PAIR</String>
+  <String id="386">对子</String>
   <!-- PokerBoard::UpdateTooltip:1831 -->
-  <String id="387">SPECTRUM</String>
+  <String id="387">彩虹</String>
   <!-- PokerBoard::UpdateTooltip:1832 -->
-  <String id="388">2 PAIR</String>
+  <String id="388">两对</String>
   <!-- PokerBoard::UpdateTooltip:1833 -->
-  <String id="389">3 OF A KIND</String>
+  <String id="389">三条</String>
   <!-- PokerBoard::UpdateTooltip:1834 -->
-  <String id="390">FULL HOUSE</String>
+  <String id="390">葫芦</String>
   <!-- PokerBoard::UpdateTooltip:1835 -->
-  <String id="391">4 OF A KIND</String>
+  <String id="391">四条</String>
   <!-- PokerBoard::UpdateTooltip:1836 -->
-  <String id="392">FLUSH</String>
+  <String id="392">同花</String>
   <!-- PokerBoard::UpdateTooltip:1837 -->
-  <String id="393">A hand containing two matching cards.</String>
+  <String id="393">包含两张相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1842 -->
-  <String id="394">A hand consisting of no matching cards.</String>
+  <String id="394">没有相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1843 -->
-  <String id="395">A hand containing two pairs of matching cards.</String>
+  <String id="395">包含两对相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1844 -->
-  <String id="396">A hand containing three matching cards.</String>
+  <String id="396">包含三张相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1845 -->
-  <String id="397">A hand containing a set of two and a set of three matching cards.</String>
+  <String id="397">包含一组两张和一组三张相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1846 -->
-  <String id="398">A hand containing four matching cards.</String>
+  <String id="398">包含四张相同卡片的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1847 -->
-  <String id="399">A hand in which all five cards are the same.</String>
+  <String id="399">所有五张卡片都相同的手牌。</String>
   <!-- PokerBoard::UpdateTooltip:1848 -->
-  <String id="400">&cr;&cr;^FF5555^Avoid this hand, or try your luck against the Skull Coin!</String>
+  <String id="400">&cr;&cr;^FF5555^避开这手牌，或与骷髅硬币碰运气！</String>
   <!-- PokerBoard::UpdateTooltip:1854 -->
-  <String id="568">SKULL ELIMINATOR</String>
+  <String id="568">骷髅消除器</String>
   <!-- PokerBoard::UpdateTooltip:1870 -->
-  <String id="3426">Fill this bar by scoring the best hands possible. When full, it will eliminate a Skull from the scoreboard.</String>
+  <String id="3426">通过尽可能获得最佳牌型来填充此条。满时，它将从计分板上消除一个骷髅。</String>
   <!-- PokerBoard::UpdateTooltip:1870 -->
   <!-- File:      PokerEndLevelDialog.cpp -->
-  <String id="401">Best Hand</String>
+  <String id="401">最佳牌型</String>
   <!-- PokerEndLevelDialog::DrawStatsLabels:40 -->
-  <String id="402">Number of Hands</String>
+  <String id="402">牌型数量</String>
   <!-- PokerEndLevelDialog::DrawStatsLabels:41 -->
-  <String id="403">Skulls Busted</String>
+  <String id="403">击碎骷髅</String>
   <!-- PokerEndLevelDialog::DrawStatsLabels:42 -->
-  <String id="404">Skull Coin Flips</String>
+  <String id="404">骷髅硬币翻转</String>
   <!-- PokerEndLevelDialog::DrawStatsLabels:43 -->
-  <String id="405">Pair</String>
+  <String id="405">对子</String>
   <!-- PokerEndLevelDialog::Draw:124 -->
-  <String id="406">Spectrum</String>
+  <String id="406">彩虹</String>
   <!-- PokerEndLevelDialog::Draw:125 -->
-  <String id="407">Two Pair</String>
+  <String id="407">两对</String>
   <!-- PokerEndLevelDialog::Draw:126 -->
-  <String id="408">3 of a Kind</String>
+  <String id="408">三条</String>
   <!-- PokerEndLevelDialog::Draw:127 -->
-  <String id="409">Full House</String>
+  <String id="409">葫芦</String>
   <!-- PokerEndLevelDialog::Draw:128 -->
-  <String id="410">4 of a Kind</String>
+  <String id="410">四条</String>
   <!-- PokerEndLevelDialog::Draw:129 -->
-  <String id="411">Flush</String>
+  <String id="411">同花</String>
   <!-- PokerEndLevelDialog::Draw:130 -->
   <!-- File:      Profile.cpp -->
-  <String id="412">There is already a user named %s</String>
+  <String id="412">已经有一个名为%s的用户</String>
   <!-- Profile::CreateProfile:951 -->
-  <String id="413">SAME NAME</String>
+  <String id="413">相同名字</String>
   <!-- Profile::CreateProfile:952 -->
-  <String id="414">OK</String>
+  <String id="414">确定</String>
   <!-- Profile::CreateProfile:952 -->
   <!-- File:      ProfileMenu.cpp -->
-  <String id="3427">EDIT PROFILE</String>
+  <String id="3427">编辑个人资料</String>
   <!-- ProfileMenuBase::HideCompleted:164 -->
-  <String id="3428">BACK</String>
+  <String id="3428">返回</String>
   <!-- ProfileMenuBase::HideCompleted:170 -->
-  <String id="3429">STATS</String>
+  <String id="3429">统计</String>
   <!-- ProfileMenu::Hide:592 -->
-  <String id="3430">TOP SCORES</String>
+  <String id="3430">最高分</String>
   <!-- ProfileMenu::Hide:593 -->
-  <String id="3431">BADGES</String>
+  <String id="3431">徽章</String>
   <!-- ProfileMenu::Hide:594 -->
-  <String id="3612">BADGES</String>
+  <String id="3612">徽章</String>
   <!-- ProfileMenuContainer::GetSectionHeading:773 -->
-  <String id="3613">STATS</String>
+  <String id="3613">统计</String>
   <!-- ProfileMenuContainer::GetSectionHeading:777 -->
-  <String id="3614">%s TOP SCORES</String>
+  <String id="3614">%s 最高分</String>
   <!-- ProfileMenuContainer::GetSectionHeading:785 -->
-  <String id="3699">ELITE BADGES</String>
+  <String id="3699">精英徽章</String>
   <!-- ProfileMenuContainer::GetSectionHeading:820 -->
-  <String id="3432">STATS</String>
+  <String id="3432">统计</String>
   <!-- ProfileMenuButton::Draw:943 -->
-  <String id="3433">TOP SCORES</String>
+  <String id="3433">最高分</String>
   <!-- ProfileMenuButtonStats::LinkUpAssets:1265 -->
   <!-- File:      QuestBoard.cpp -->
-  <String id="415">&cr;^FFD0FF^- more -</String>
+  <String id="415">&cr;^FFD0FF^- 更多 -</String>
   <!-- QuestBoard::DrawMenuWidget:686 -->
-  <String id="416">&cr;^FF80FF^- more -</String>
+  <String id="416">&cr;^FF80FF^- 更多 -</String>
   <!-- QuestBoard::DrawMenuWidget:688 -->
   <String id="417">QUEST&cr;COMPLETED</String>
   <!-- QuestBoard::Update:1058 -->
@@ -1669,91 +1669,91 @@
   <!-- QuestMenu::Update:1072 -->
   <String id="423">There are still %d quests to complete!</String>
   <!-- QuestMenu::Update:1073 -->
-  <String id="424">There is still %d quest to complete!</String>
+  <String id="424">还有%d个任务待完成！</String>
   <!-- QuestMenu::Update:1073 -->
-  <String id="425">Complete quests to restore the&cr;Lost Relics of Bejeweled</String>
+  <String id="425">完成任务以恢复&cr;宝石迷阵的失落遗物</String>
   <!-- QuestMenu::Draw:1222 -->
   <String id="426">%d%%</String>
   <!-- QuestMenu::Draw:1249 -->
   <!-- File:      RankBarWidget.cpp -->
-  <String id="427">Rank: %d</String>
+  <String id="427">等级: %d</String>
   <!-- RankBarWidget::Draw:310 -->
-  <String id="3615">Rank %d: %s</String>
+  <String id="3615">等级 %d: %s</String>
   <!-- RankBarWidget::GetRankName:408 -->
   <!-- File:      RankUpDialog.cpp -->
-  <String id="429">RANK UP</String>
+  <String id="429">升级</String>
   <!-- Line 13 -->
-  <String id="3069">CONTINUE</String>
+  <String id="3069">继续</String>
   <!-- Line 31 -->
-  <String id="431">You have been promoted to:</String>
+  <String id="431">你已晋升为：</String>
   <!-- Line 55 -->
   <!-- File:      RateGameDialog.cpp -->
-  <String id="3434">LOVE BEJEWELED?</String>
+  <String id="3434">喜欢宝石迷阵吗？</String>
   <!-- Line 17 -->
-  <String id="3435">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <String id="3435">我们认为宝石迷阵是一款精品游戏！请给它评分让我们知道您的想法！</String>
   <!-- Line 18 -->
-  <String id="3436">RATE NOW!</String>
+  <String id="3436">立即评分！</String>
   <!-- Line 25 -->
-  <String id="3437">NO</String>
+  <String id="3437">否</String>
   <!-- Line 29 -->
-  <String id="3438">LATER</String>
+  <String id="3438">稍后</String>
   <!-- Line 33 -->
   <!-- File:      RecordsScreen.cpp -->
-  <String id="434">Classic</String>
+  <String id="434">经典</String>
   <!-- HighScoresTab::HighScoresTab:50 -->
-  <String id="435">Lightning</String>
+  <String id="435">闪电</String>
   <!-- HighScoresTab::HighScoresTab:51 -->
-  <String id="436">Poker</String>
+  <String id="436">扑克</String>
   <!-- HighScoresTab::HighScoresTab:52 -->
-  <String id="437">Butterflies</String>
+  <String id="437">蝴蝶</String>
   <!-- HighScoresTab::HighScoresTab:53 -->
-  <String id="438">Ice Storm</String>
+  <String id="438">冰风暴</String>
   <!-- HighScoresTab::HighScoresTab:54 -->
-  <String id="439">Diamond Mine</String>
+  <String id="439">钻石矿场</String>
   <!-- HighScoresTab::HighScoresTab:55 -->
-  <String id="440">CLASSIC</String>
+  <String id="440">经典</String>
   <!-- HighScoresTab::Draw:87 -->
-  <String id="441">LIGHTNING</String>
+  <String id="441">闪电</String>
   <!-- HighScoresTab::Draw:88 -->
-  <String id="442">POKER</String>
+  <String id="442">扑克</String>
   <!-- HighScoresTab::Draw:89 -->
-  <String id="443">BUTTERFLIES</String>
+  <String id="443">蝴蝶</String>
   <!-- HighScoresTab::Draw:90 -->
-  <String id="444">ICE STORM</String>
+  <String id="444">冰风暴</String>
   <!-- HighScoresTab::Draw:91 -->
-  <String id="445">DIAMOND MINE</String>
+  <String id="445">钻石矿场</String>
   <!-- HighScoresTab::Draw:92 -->
-  <String id="446">Player</String>
+  <String id="446">玩家</String>
   <!-- HighScoresTab::Draw:108 -->
-  <String id="447">Points</String>
+  <String id="447">分数</String>
   <!-- HighScoresTab::Draw:109 -->
   <String id="448">%d.</String>
   <!-- HighScoresTab::Draw:135 -->
-  <String id="449">Gems Matched:&cr;</String>
+  <String id="449">匹配宝石：&cr;</String>
   <!-- StatsTab::Draw:241 -->
-  <String id="450">Flame Gems:&cr;</String>
+  <String id="450">火焰宝石：&cr;</String>
   <!-- StatsTab::Draw:242 -->
-  <String id="451">Star Gems:&cr;</String>
+  <String id="451">星星宝石：&cr;</String>
   <!-- StatsTab::Draw:243 -->
-  <String id="452">Hypercubes:&cr;</String>
+  <String id="452">超级方块：&cr;</String>
   <!-- StatsTab::Draw:244 -->
-  <String id="453">Favorite Gem Color:</String>
+  <String id="453">最喜欢的宝石颜色：</String>
   <!-- StatsTab::Draw:245 -->
-  <String id="454">N/A</String>
+  <String id="454">无数据</String>
   <!-- StatsTab::Draw:249 -->
-  <String id="455">^FF0000^Red</String>
+  <String id="455">^FF0000^红色</String>
   <!-- StatsTab::Draw:253 -->
-  <String id="456">^FFFFFF^White</String>
+  <String id="456">^FFFFFF^白色</String>
   <!-- StatsTab::Draw:254 -->
-  <String id="457">^00FF00^Green</String>
+  <String id="457">^00FF00^绿色</String>
   <!-- StatsTab::Draw:255 -->
-  <String id="458">^FFFF00^Yellow</String>
+  <String id="458">^FFFF00^黄色</String>
   <!-- StatsTab::Draw:256 -->
-  <String id="459">^FF00FF^Purple</String>
+  <String id="459">^FF00FF^紫色</String>
   <!-- StatsTab::Draw:257 -->
-  <String id="460">^FF9900^Orange</String>
+  <String id="460">^FF9900^橙色</String>
   <!-- StatsTab::Draw:258 -->
-  <String id="461">^0099FF^Blue</String>
+  <String id="461">^0099FF^蓝色</String>
   <!-- StatsTab::Draw:259 -->
   <String id="462">Zen Mode High Score:&cr;</String>
   <!-- StatsTab::Draw:290 -->
