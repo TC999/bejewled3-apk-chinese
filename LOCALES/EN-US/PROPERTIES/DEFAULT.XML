@@ -1108,168 +1108,168 @@
   <!-- File:      GiftGameDialog.cpp -->
   <String id="3334">赠送此应用</String>
   <!-- Line 18 -->
-  <String id="3335">OK</String>
+  <String id="3335">确定</String>
   <!-- Line 25 -->
-  <String id="3336">No Thanks</String>
+  <String id="3336">不用了，谢谢</String>
   <!-- Line 29 -->
   <!-- File:      HelpDialog.cpp -->
-  <String id="3337">HELP</String>
+  <String id="3337">帮助</String>
   <!-- HelpWindow::PlayAnimation:276 -->
-  <String id="3579">HOW TO PLAY</String>
+  <String id="3579">如何游戏</String>
   <!-- HelpWindow::PlayAnimation:282 -->
-  <String id="3338">Swipe for more help</String>
+  <String id="3338">滑动获取更多帮助</String>
   <!-- HelpWindow::PlayAnimation:295 -->
-  <String id="3339">Help</String>
+  <String id="3339">帮助</String>
   <!-- HelpWindow::PlayAnimation:306 -->
-  <String id="3341">PLAY</String>
+  <String id="3341">开始游戏</String>
   <!-- HelpDialog::SetHelpDialogState:414 -->
-  <String id="3342">BACK</String>
+  <String id="3342">返回</String>
   <!-- HelpDialog::SetHelpDialogState:419 -->
-  <String id="243">Score as many points as possible until there are no more moves.</String>
+  <String id="243">在无更多移动之前获得尽可能多的分数。</String>
   <!-- HelpDialog::SetupHelp:550 -->
-  <String id="244">Swap adjacent gems to make rows of three.</String>
+  <String id="244">交换相邻的宝石以形成三个的行。</String>
   <!-- HelpDialog::SetupHelp:554 -->
-  <String id="245">Match 4 or more gems to create Special Gems.</String>
+  <String id="245">匹配4个或更多宝石以创建特殊宝石。</String>
   <!-- HelpDialog::SetupHelp:558 -->
-  <String id="246">Make an L or T match to create a Star Gem!</String>
+  <String id="246">创建L或T形匹配以创建星形宝石！</String>
   <!-- HelpDialog::SetupHelp:562 -->
-  <String id="248">Extra time is added to your next round, where point values increase!</String>
+  <String id="248">额外时间将添加到您的下一轮，其中分值增加！</String>
   <!-- HelpDialog::SetupHelp:575 -->
-  <String id="249">Make matches quickly for a Speed Bonus. Max it out for Blazing Speed!</String>
+  <String id="249">快速匹配以获得速度奖励。最大化以获得极速！</String>
   <!-- HelpDialog::SetupHelp:579 -->
-  <String id="250">Match butterfly gems with like colored gems to release them.</String>
+  <String id="250">将蝴蝶宝石与相同颜色的宝石匹配以释放它们。</String>
   <!-- HelpDialog::SetupHelp:588 -->
-  <String id="251">Don&apos;t let any of the butterflies reach the spider!</String>
+  <String id="251">不要让任何蝴蝶到达蜘蛛！</String>
   <!-- HelpDialog::SetupHelp:592 -->
-  <String id="252">Make poker hands with gem matches.</String>
+  <String id="252">用宝石匹配制作扑克手牌。</String>
   <!-- HelpDialog::SetupHelp:601 -->
-  <String id="253">When Skulls appear, try to avoid the hands that they occupy.</String>
+  <String id="253">当头骨出现时，尽量避开它们占据的位置。</String>
   <!-- HelpDialog::SetupHelp:605 -->
-  <String id="254">Remove Skulls by filling the Eliminator bar. &nbsp;Better hands fill it faster.</String>
+  <String id="254">通过填充消除器栏移除头骨。更好的手牌会更快填充它。</String>
   <!-- HelpDialog::SetupHelp:609 -->
-  <String id="255">Score as many points as you can before the ice reaches the top!</String>
+  <String id="255">在冰到达顶部前尽可能获得更多分数！</String>
   <!-- HelpDialog::SetupHelp:614 -->
-  <String id="256">Make matches to push down the rising ice columns.</String>
+  <String id="256">进行匹配以向下推起上升的冰柱。</String>
   <!-- HelpDialog::SetupHelp:618 -->
-  <String id="257">Make vertical matches to smash ice columns and earn mega bonus points.</String>
+  <String id="257">创建垂直匹配以击碎冰柱并获得大量奖励分数。</String>
   <!-- HelpDialog::SetupHelp:622 -->
-  <String id="258">Clearing ice fills the blue meter and increases your score multiplier.</String>
+  <String id="258">清除冰会填充蓝色计量表并增加您的分数乘数。</String>
   <!-- HelpDialog::SetupHelp:626 -->
-  <String id="259">Make matches directly next to the ground to dig down.</String>
+  <String id="259">直接在地面旁边进行匹配以向下挖掘。</String>
   <!-- HelpDialog::SetupHelp:634 -->
-  <String id="260">Clear all ground tiles down to the white line to advance.</String>
+  <String id="260">清除所有地面瓷砖直到白线以推进关卡。</String>
   <!-- HelpDialog::SetupHelp:638 -->
-  <String id="261">Make matches next to gold, gems and artifacts to earn points.</String>
+  <String id="261">在黄金、宝石和文物旁边进行匹配以获得分数。</String>
   <!-- HelpDialog::SetupHelp:642 -->
   <!-- File:      HighScoreMgr.cpp -->
-  <String id="263">Failed to read high score file!&cr;Please contact Customer Suppport at http://www.popcap.com/support.</String>
+  <String id="263">无法读取高分文件！&cr;请联系客户支持，网址：http://www.popcap.com/support。</String>
   <!-- HighScoreMgr::Load:96 -->
-  <String id="264">Failed to create high score file!&cr;&cr;%s&cr;&cr;Please contact Customer Support at http://www.popcap.com/support.</String>
+  <String id="264">无法创建高分文件！&cr;&cr;%s&cr;&cr;请联系客户支持，网址：http://www.popcap.com/support。</String>
   <!-- HighScoreMgr::Save:146 -->
   <!-- File:      HighScoresMenu.cpp -->
-  <String id="3343">TOP SCORES</String>
+  <String id="3343">最高分</String>
   <!-- Line 46 -->
-  <String id="3344">Swipe for more scores</String>
+  <String id="3344">滑动查看更多分数</String>
   <!-- Line 56 -->
-  <String id="3345">BACK</String>
+  <String id="3345">返回</String>
   <!-- Line 97 -->
   <!-- File:      HighScoresWidget.cpp -->
-  <String id="3346">TOP SCORES</String>
+  <String id="3346">最高分</String>
   <!-- Line 30 -->
   <!-- File:      HintDialog.cpp -->
-  <String id="3580">CONTINUE</String>
+  <String id="3580">继续</String>
   <!-- TextContainer::~TextContainer:65 -->
-  <String id="266">REPLAY</String>
+  <String id="266">重玩</String>
   <!-- TextContainer::~TextContainer:91 -->
   <!-- File:      InfernoBoard.cpp -->
-  <String id="549">COOL&nbsp;</String>
+  <String id="549">酷&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1805 -->
-  <String id="550">CHILL&nbsp;</String>
+  <String id="550">冷静&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1806 -->
-  <String id="551">FROSTY&nbsp;</String>
+  <String id="551">严寒&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1807 -->
-  <String id="552">ICY&nbsp;</String>
+  <String id="552">冰冻&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1808 -->
-  <String id="553">GLACIAL&nbsp;</String>
+  <String id="553">冰川&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1809 -->
-  <String id="554">POLAR&nbsp;</String>
+  <String id="554">极地&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1810 -->
-  <String id="555">ARCTIC&nbsp;</String>
+  <String id="555">北极&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1811 -->
-  <String id="556">SUB ZERO&nbsp;</String>
+  <String id="556">绝对零度&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1812 -->
-  <String id="557">ICE ICE&nbsp;</String>
+  <String id="557">冰冰凉&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1813 -->
-  <String id="558">MAX&nbsp;</String>
+  <String id="558">最大&nbsp;</String>
   <!-- InfernoBoard::IncrementColCleared:1814 -->
-  <String id="559">%sCOMBO</String>
+  <String id="559">%s连击</String>
   <!-- InfernoBoard::IncrementColCleared:1817 -->
   <String id="560">%dx</String>
   <!-- InfernoBoard::IncrementColCleared:1821 -->
-  <String id="561">MULTIPLIER %dx</String>
+  <String id="561">乘数 %dx</String>
   <!-- InfernoBoard::RefreshMultiplierText:3359 -->
   <!-- File:      InfernoEndLevelDialog.cpp -->
-  <String id="271">Highest Multiplier</String>
+  <String id="271">最高乘数</String>
   <!-- InfernoEndLevelDialog::DrawStatsLabels:21 -->
-  <String id="272">Best Column Combo</String>
+  <String id="272">最佳列连击</String>
   <!-- InfernoEndLevelDialog::DrawStatsLabels:22 -->
-  <String id="273">Columns Crushed</String>
+  <String id="273">粉碎的列</String>
   <!-- InfernoEndLevelDialog::DrawStatsLabels:23 -->
-  <String id="274">Total Time</String>
+  <String id="274">总时间</String>
   <!-- InfernoEndLevelDialog::DrawStatsLabels:24 -->
   <String id="275">x%d</String>
   <!-- InfernoEndLevelDialog::DrawStatsText:29 -->
   <String id="276">%d:%02d</String>
   <!-- InfernoEndLevelDialog::DrawStatsText:33 -->
-  <String id="277">FLAME x%d</String>
+  <String id="277">火焰 x%d</String>
   <!-- InfernoEndLevelDialog::Draw:63 -->
-  <String id="278">STAR x%d</String>
+  <String id="278">星星 x%d</String>
   <!-- InfernoEndLevelDialog::Draw:64 -->
-  <String id="279">HYPER x%d</String>
+  <String id="279">超级 x%d</String>
   <!-- InfernoEndLevelDialog::Draw:65 -->
-  <String id="280">COLUMN COMBO</String>
+  <String id="280">列连击</String>
   <!-- InfernoEndLevelDialog::Draw:68 -->
-  <String id="281">COLUMN CLEAR</String>
+  <String id="281">列消除</String>
   <!-- InfernoEndLevelDialog::Draw:69 -->
-  <String id="282">BASE</String>
+  <String id="282">基础</String>
   <!-- InfernoEndLevelDialog::Draw:70 -->
   <String id="283">%dk</String>
   <!-- InfernoEndLevelDialog::Draw:104 -->
   <String id="284">x%d</String>
   <!-- InfernoEndLevelDialog::Draw:123 -->
   <!-- File:      IntroDialog.cpp -->
-  <String id="3347">WELCOME TO BEJEWELED</String>
+  <String id="3347">欢迎来到宝石迷阵</String>
   <!-- Line 19 -->
-  <String id="3348">CONTINUE</String>
+  <String id="3348">继续</String>
   <!-- Line 19 -->
-  <String id="3349">New to Bejeweled?</String>
+  <String id="3349">第一次玩宝石迷阵？</String>
   <!-- Line 29 -->
-  <String id="3350">^700443^Start with ^7514BB^Classic^700443^.</String>
+  <String id="3350">^700443^从^7514BB^经典模式^700443^开始。</String>
   <!-- Line 34 -->
-  <String id="3351">Already a Bejeweled Pro?</String>
+  <String id="3351">已经是宝石迷阵高手？</String>
   <!-- Line 40 -->
-  <String id="3352">^700443^Try all-new ^7514BB^Butterflies^700443^,&cr;dig for treasure in ^7514BB^Diamond Mine^700443^&cr;or relax body and mind in ^7514BB^Zen^700443^ mode.</String>
+  <String id="3352">^700443^尝试全新的^7514BB^蝴蝶模式^700443^，&cr;在^7514BB^钻石矿场^700443^挖掘宝藏，&cr;或在^7514BB^禅^700443^模式中放松身心。</String>
   <!-- Line 45 -->
   <!-- File:      LegalMenu.cpp -->
-  <String id="3353">LEGAL</String>
+  <String id="3353">法律</String>
   <!-- Line 20 -->
-  <String id="3354">USER SHARING</String>
+  <String id="3354">用户共享</String>
   <!-- Line 26 -->
-  <String id="3355">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <String id="3355">如果您不再希望向PopCap发送匿名游戏信息，请取消勾选该框，我们将禁用此类信息的传输。</String>
   <!-- Line 36 -->
-  <String id="3356">BACK</String>
+  <String id="3356">返回</String>
   <!-- Line 48 -->
-  <String id="3357">END USER LICENSE AGREEMENT</String>
+  <String id="3357">最终用户许可协议</String>
   <!-- Line 54 -->
-  <String id="3358">PRIVACY POLICY</String>
+  <String id="3358">隐私政策</String>
   <!-- Line 60 -->
-  <String id="3359">TERMS OF SERVICE</String>
+  <String id="3359">服务条款</String>
   <!-- Line 66 -->
-  <String id="3360">USER SHARING</String>
+  <String id="3360">用户共享</String>
   <!-- LegalMenu::LinkUpAssets:83 -->
-  <String id="3361">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <String id="3361">如果您不再希望向PopCap发送匿名游戏信息，请取消勾选该框，我们将禁用此类信息的传输。</String>
   <!-- LegalMenu::LinkUpAssets:87 -->
-  <String id="3362">If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</String>
+  <String id="3362">如果您希望向PopCap发送匿名游戏信息，请勾选该框，我们将启用此类信息的传输。</String>
   <!-- LegalMenu::LinkUpAssets:91 -->
   <String id="3581">http://tos.ea.com/legalapp/mobileeula/US/en/GM</String>
   <!-- LegalMenu::ButtonDepress:140 -->
@@ -1278,276 +1278,276 @@
   <String id="3583">http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</String>
   <!-- LegalMenu::ButtonDepress:152 -->
   <!-- File:      MainMenu.cpp -->
-  <String id="3363">BLITZ</String>
+  <String id="3363">闪电战</String>
   <!-- MainMenu::InterfaceStateChanged:1007 -->
   <String id="3364"></String>
   <!-- MainMenu::InterfaceStateChanged:1007 -->
   <String id="3365"></String>
   <!-- MainMenu::InterfaceStateChanged:1007 -->
-  <String id="3366">ZEN</String>
+  <String id="3366">禅</String>
   <!-- MainMenu::InterfaceStateChanged:1013 -->
   <String id="3367"></String>
   <!-- MainMenu::InterfaceStateChanged:1013 -->
   <String id="3368"></String>
   <!-- MainMenu::InterfaceStateChanged:1013 -->
-  <String id="3369">DIAMOND</String>
+  <String id="3369">钻石</String>
   <!-- MainMenu::InterfaceStateChanged:1019 -->
-  <String id="3370">MINE</String>
+  <String id="3370">矿场</String>
   <!-- MainMenu::InterfaceStateChanged:1019 -->
   <String id="3371"></String>
   <!-- MainMenu::InterfaceStateChanged:1019 -->
-  <String id="3372">CLASSIC</String>
+  <String id="3372">经典</String>
   <!-- MainMenu::InterfaceStateChanged:1025 -->
   <String id="3373"></String>
   <!-- MainMenu::InterfaceStateChanged:1025 -->
   <String id="3374"></String>
   <!-- MainMenu::InterfaceStateChanged:1025 -->
-  <String id="3375">LIGHTNING</String>
+  <String id="3375">闪电</String>
   <!-- MainMenu::InterfaceStateChanged:1032 -->
   <String id="3376"></String>
   <!-- MainMenu::InterfaceStateChanged:1032 -->
   <String id="3377"></String>
   <!-- MainMenu::InterfaceStateChanged:1032 -->
-  <String id="3378">BUTTERFLIES</String>
+  <String id="3378">蝴蝶</String>
   <!-- MainMenu::InterfaceStateChanged:1040 -->
   <String id="3379"></String>
   <!-- MainMenu::InterfaceStateChanged:1040 -->
   <String id="3380"></String>
   <!-- MainMenu::InterfaceStateChanged:1040 -->
-  <String id="3381">ICE STORM</String>
+  <String id="3381">冰风暴</String>
   <!-- MainMenu::InterfaceStateChanged:1048 -->
   <String id="3382"></String>
   <!-- MainMenu::InterfaceStateChanged:1048 -->
   <String id="3383"></String>
   <!-- MainMenu::InterfaceStateChanged:1048 -->
-  <String id="3384">POKER</String>
+  <String id="3384">扑克</String>
   <!-- MainMenu::InterfaceStateChanged:1056 -->
   <String id="3385"></String>
   <!-- MainMenu::InterfaceStateChanged:1056 -->
   <String id="3386"></String>
   <!-- MainMenu::InterfaceStateChanged:1056 -->
-  <String id="3399">Coming Soon</String>
+  <String id="3399">即将推出</String>
   <!-- MainMenuScrollContainer::ButtonDepress:1388 -->
-  <String id="3401">BACK</String>
+  <String id="3401">返回</String>
   <!-- MainMenuScrollContainer::ButtonDepress:1388 -->
-  <String id="3676">(Tap to edit profile)</String>
+  <String id="3676">(点击编辑个人资料)</String>
   <!-- MainMenuScrollContainer::MakeButtonsFullyVisible:1495 -->
   <!-- File:      MainMenuOptions.cpp -->
-  <String id="3402">PROFILE</String>
+  <String id="3402">个人资料</String>
   <!-- Line 46 -->
-  <String id="3403">OPTIONS</String>
+  <String id="3403">选项</String>
   <!-- Line 53 -->
-  <String id="3404">MORE GAMES</String>
+  <String id="3404">更多游戏</String>
   <!-- Line 59 -->
-  <String id="3405">BACK</String>
+  <String id="3405">返回</String>
   <!-- Line 65 -->
-  <String id="3406">HELP</String>
+  <String id="3406">帮助</String>
   <!-- Line 71 -->
-  <String id="3585">RECORDS</String>
+  <String id="3585">记录</String>
   <!-- Line 84 -->
   <!-- File:      Menu.cpp -->
-  <String id="293">Play Classic</String>
+  <String id="293">玩经典模式</String>
   <!-- Menu::InitWidgets:22 -->
-  <String id="294">Time Bonus</String>
+  <String id="294">时间奖励</String>
   <!-- Menu::InitWidgets:27 -->
-  <String id="295">Tug of War</String>
+  <String id="295">拔河</String>
   <!-- Menu::InitWidgets:32 -->
-  <String id="296">Play Zen</String>
+  <String id="296">玩禅模式</String>
   <!-- Menu::InitWidgets:37 -->
-  <String id="297">Play Quests</String>
+  <String id="297">玩任务模式</String>
   <!-- Menu::InitWidgets:42 -->
-  <String id="298">Secret Modes</String>
+  <String id="298">秘密模式</String>
   <!-- Menu::InitWidgets:47 -->
-  <String id="299">Quit</String>
+  <String id="299">退出</String>
   <!-- Menu::InitWidgets:52 -->
-  <String id="300">Main Menu</String>
+  <String id="300">主菜单</String>
   <!-- Menu::InitWidgets:57 -->
   <!-- File:      MoreGamesDialog.cpp -->
-  <String id="3407">Loading, please wait...</String>
+  <String id="3407">加载中，请稍候...</String>
   <!-- MyMoreGamesWidget::DrawBusy:40 -->
-  <String id="3408">Oops! We were unable to contact the network.&cr;Please try again later.</String>
+  <String id="3408">哎呀！我们无法连接网络。&cr;请稍后再试。</String>
   <!-- MyMoreGamesWidget::DrawFailMessage:46 -->
-  <String id="3409">BACK</String>
+  <String id="3409">返回</String>
   <!-- MyListener::ImageUpdated:86 -->
-  <String id="3586">Love Bejeweled?</String>
+  <String id="3586">喜欢宝石迷阵吗？</String>
   <!-- MyListener::ImageUpdated:107 -->
-  <String id="3587">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <String id="3587">我们认为宝石迷阵是一款精品游戏！请给它评分让我们知道您的想法！</String>
   <!-- MyListener::ImageUpdated:111 -->
-  <String id="3588">Be sure to follow us on Facebook and Twitter as well!</String>
+  <String id="3588">也请务必在Facebook和Twitter上关注我们！</String>
   <!-- MyListener::ImageUpdated:117 -->
-  <String id="3589">Go to</String>
+  <String id="3589">前往</String>
   <!-- MyListener::ImageUpdated:123 -->
-  <String id="3590">!!!!! Selection description goes here. !!!!!</String>
+  <String id="3590">!!!!! 选择描述在此处。 !!!!!</String>
   <!-- MyListener::ImageUpdated:127 -->
-  <String id="3591">CHECK OUT THESE OTHER POPCAP GAMES!</String>
+  <String id="3591">查看其他PopCap游戏！</String>
   <!-- MyListener::ImageUpdated:131 -->
   <String id="3592">PopCap.com</String>
   <!-- MyListener::ImageUpdated:144 -->
-  <String id="3593">RATE</String>
+  <String id="3593">评分</String>
   <!-- MyListener::ImageUpdated:150 -->
-  <String id="3594">GIFT</String>
+  <String id="3594">赠送</String>
   <!-- MyListener::ImageUpdated:155 -->
-  <String id="3677">LOADING...</String>
+  <String id="3677">加载中...</String>
   <!-- MyListener::GameInfoAdded:253 -->
-  <String id="3413">MORE GAMES</String>
+  <String id="3413">更多游戏</String>
   <!-- MoreGamesDialog::Draw:285 -->
-  <String id="3678">MORE&cr;GAMES BY&cr;POPCAP</String>
+  <String id="3678">更多&cr;PopCap&cr;游戏</String>
   <!-- MyListener::GameInfoAdded:287 -->
-  <String id="3595">MORE GAMES</String>
+  <String id="3595">更多游戏</String>
   <!-- MoreGamesDialog::HideCompleted:516 -->
-  <String id="3596">Oops! We were unable to contact the network. Please try again later.</String>
+  <String id="3596">哎呀！我们无法连接网络。请稍后再试。</String>
   <!-- MoreGamesDialog::HideCompleted:516 -->
-  <String id="3597">BACK</String>
+  <String id="3597">返回</String>
   <!-- MoreGamesDialog::HideCompleted:518 -->
-  <String id="3598">MAIN MENU</String>
+  <String id="3598">主菜单</String>
   <!-- MoreGamesDialog::HideCompleted:521 -->
   <!-- File:      MoveLimitBoard.cpp -->
-  <String id="301">Moves Left: %i</String>
+  <String id="301">剩余步数：%i</String>
   <!-- MoveLimitBoard::DrawBottomFrame:112 -->
   <!-- File:      NewUserDialog.cpp -->
-  <String id="303">WELCOME!</String>
+  <String id="303">欢迎！</String>
   <!-- Line 18 -->
-  <String id="3414">EDIT NAME</String>
+  <String id="3414">编辑名字</String>
   <!-- Line 18 -->
-  <String id="305">Enter your name:</String>
+  <String id="305">输入您的名字：</String>
   <!-- Line 51 -->
   <!-- File:      ObliterationBoard.cpp -->
-  <String id="306">Destroy 200 gems in 1 minute</String>
+  <String id="306">1分钟内销毁200颗宝石</String>
   <!-- ObliterationBoard::ObliterationBoard:6 -->
   <!-- File:      OptionsMenu.cpp -->
-  <String id="3415">Auto-Hint</String>
+  <String id="3415">自动提示</String>
   <!-- Line 38 -->
-  <String id="3416">Mute All Sounds</String>
+  <String id="3416">静音所有声音</String>
   <!-- Line 42 -->
-  <String id="3599">Mute All Sounds</String>
+  <String id="3599">静音所有声音</String>
   <!-- Line 44 -->
-  <String id="3417">Help</String>
+  <String id="3417">帮助</String>
   <!-- Line 50 -->
-  <String id="3600">In-Game Help</String>
+  <String id="3600">游戏内帮助</String>
   <!-- Line 55 -->
-  <String id="4000">PROMOTIONS</String>
+  <String id="4000">促销</String>
   <!-- Line 56 -->
-  <String id="3601">Music</String>
+  <String id="3601">音乐</String>
   <!-- Line 71 -->
-  <String id="3602">Sound</String>
+  <String id="3602">声音</String>
   <!-- Line 75 -->
-  <String id="3603">Voices</String>
+  <String id="3603">语音</String>
   <!-- Line 79 -->
-  <String id="3604">HELP &amp; OPTIONS</String>
+  <String id="3604">帮助与选项</String>
   <!-- OptionsContainer::UpdateValues:416 -->
-  <String id="3419">ABOUT</String>
+  <String id="3419">关于</String>
   <!-- OptionsContainer::UpdateValues:429 -->
-  <String id="3605">CREDITS</String>
+  <String id="3605">制作人员</String>
   <!-- OptionsContainer::UpdateValues:436 -->
-  <String id="3421">LEGAL</String>
+  <String id="3421">法律</String>
   <!-- OptionsContainer::UpdateValues:442 -->
-  <String id="3606">BACK</String>
+  <String id="3606">返回</String>
   <!-- OptionsContainer::UpdateValues:448 -->
-  <String id="3679">HOW TO PLAY</String>
+  <String id="3679">如何游戏</String>
   <!-- OptionsMenu::KeyChar:710 -->
-  <String id="3680">Score as many points as possible until there are no more moves.</String>
+  <String id="3680">在无更多移动之前获得尽可能多的分数。</String>
   <!-- OptionsHelpContainer::SetupHelp:783 -->
-  <String id="3681">Swap adjacent gems to make rows of three.</String>
+  <String id="3681">交换相邻的宝石以形成三个的行。</String>
   <!-- OptionsHelpContainer::SetupHelp:787 -->
-  <String id="3682">Match 4 or more gems to create Special Gems.</String>
+  <String id="3682">匹配4颗或更多宝石以创建特殊宝石。</String>
   <!-- OptionsHelpContainer::SetupHelp:791 -->
-  <String id="3683">Make an L or T match to create a Star Gem!</String>
+  <String id="3683">进行L形或T形匹配以创建星星宝石！</String>
   <!-- OptionsHelpContainer::SetupHelp:795 -->
-  <String id="3684">Match Time Gems to earn extra time.</String>
+  <String id="3684">匹配时间宝石以获得额外时间。</String>
   <!-- OptionsHelpContainer::SetupHelp:804 -->
-  <String id="3685">Extra time is added to your next round, where point values increase!</String>
+  <String id="3685">额外时间会添加到下一轮，分值会增加！</String>
   <!-- OptionsHelpContainer::SetupHelp:808 -->
-  <String id="3686">Make matches quickly for a Speed Bonus. Max it out for Blazing Speed!</String>
+  <String id="3686">快速匹配获得速度奖励。达到最大值获得极速！</String>
   <!-- OptionsHelpContainer::SetupHelp:812 -->
-  <String id="3687">Match butterfly gems with like colored gems to release them.</String>
+  <String id="3687">将蝴蝶宝石与相同颜色的宝石匹配以释放它们。</String>
   <!-- OptionsHelpContainer::SetupHelp:821 -->
-  <String id="3688">Don&apos;t let any of the butterflies reach the spider!</String>
+  <String id="3688">不要让任何蝴蝶到达蜘蛛！</String>
   <!-- OptionsHelpContainer::SetupHelp:825 -->
-  <String id="3689">Make poker hands with gem matches.</String>
+  <String id="3689">用宝石匹配做出扑克牌型。</String>
   <!-- OptionsHelpContainer::SetupHelp:834 -->
-  <String id="3690">When Skulls appear, try to avoid the hands that they occupy.</String>
+  <String id="3690">当骷髅出现时，尽量避开它们占据的位置。</String>
   <!-- OptionsHelpContainer::SetupHelp:838 -->
-  <String id="3691">Remove Skulls by filling the Eliminator bar. &nbsp;Better hands fill it faster.</String>
+  <String id="3691">通过填充消除器条来移除骷髅。更好的牌型填充更快。</String>
   <!-- OptionsHelpContainer::SetupHelp:842 -->
-  <String id="3692">Score as many points as you can before the ice reaches the top!</String>
+  <String id="3692">在冰到达顶部前获得尽可能多的分数！</String>
   <!-- OptionsHelpContainer::SetupHelp:847 -->
-  <String id="3693">Make matches to push down the rising ice columns.</String>
+  <String id="3693">进行匹配以压下上升的冰柱。</String>
   <!-- OptionsHelpContainer::SetupHelp:851 -->
-  <String id="3694">Make vertical matches to smash ice columns and earn mega bonus points.</String>
+  <String id="3694">进行垂直匹配以击碎冰柱并获得大量奖励分数。</String>
   <!-- OptionsHelpContainer::SetupHelp:855 -->
-  <String id="3695">Clearing ice fills the blue meter and increases your score multiplier.</String>
+  <String id="3695">清除冰会填充蓝色仪表并增加你的分数倍数。</String>
   <!-- OptionsHelpContainer::SetupHelp:859 -->
-  <String id="3696">Make matches directly next to the ground to dig down.</String>
+  <String id="3696">直接在地面旁边进行匹配以向下挖掘。</String>
   <!-- OptionsHelpContainer::SetupHelp:867 -->
-  <String id="3697">Clear all ground tiles down to the white line to advance.</String>
+  <String id="3697">清除所有地面瓷砖直到白线以前进。</String>
   <!-- OptionsHelpContainer::SetupHelp:871 -->
-  <String id="3698">Make matches next to gold, gems and artifacts to earn points.</String>
+  <String id="3698">在金币、宝石和文物旁边进行匹配以获得分数。</String>
   <!-- OptionsHelpContainer::SetupHelp:875 -->
   <!-- File:      OptionsSubMenu.cpp -->
-  <String id="3607">SETTINGS</String>
+  <String id="3607">设置</String>
   <!-- Line 41 -->
   <!-- File:      PauseMenu.cpp -->
-  <String id="3608">HELP &amp; OPTIONS</String>
+  <String id="3608">帮助与选项</String>
   <!-- Line 33 -->
-  <String id="3422">RESTART</String>
+  <String id="3422">重新开始</String>
   <!-- Line 43 -->
-  <String id="3609">RESUME</String>
+  <String id="3609">继续</String>
   <!-- Line 50 -->
-  <String id="3423">HELP</String>
+  <String id="3423">帮助</String>
   <!-- Line 54 -->
-  <String id="3610">RESTART</String>
+  <String id="3610">重新开始</String>
   <!-- Line 60 -->
-  <String id="3611">RESUME</String>
+  <String id="3611">继续</String>
   <!-- Line 67 -->
-  <String id="3424">MAIN MENU</String>
+  <String id="3424">主菜单</String>
   <!-- PauseMenu::SetMode:93 -->
   <!-- File:      PlayMenu.cpp -->
-  <String id="352">SECRET GAME</String>
+  <String id="352">秘密游戏</String>
   <!-- PlayMenu::Draw:385 -->
-  <String id="566">New to Bejeweled? Try Classic mode</String>
+  <String id="566">第一次玩宝石迷阵？试试经典模式</String>
   <!-- PlayMenu::Draw:401 -->
-  <String id="365">Play the original untimed game</String>
+  <String id="365">玩原始的无时间限制游戏</String>
   <!-- PlayMenu::ButtonMouseEnter:674 -->
-  <String id="366">Relax body and mind in this endless game</String>
+  <String id="366">在这个无尽的游戏中放松身心</String>
   <!-- PlayMenu::ButtonMouseEnter:679 -->
-  <String id="367">Collect Time Gems to charge up bonus rounds</String>
+  <String id="367">收集时间宝石以激活奖励回合</String>
   <!-- PlayMenu::ButtonMouseEnter:684 -->
-  <String id="368">Solve 40 different puzzling minigames</String>
+  <String id="368">解决40个不同的益智迷你游戏</String>
   <!-- PlayMenu::ButtonMouseEnter:689 -->
-  <String id="369">Match gems and make your best hand</String>
+  <String id="369">匹配宝石并做出最佳牌型</String>
   <!-- PlayMenu::ButtonMouseEnter:695 -->
-  <String id="370">Reach level %d of ^%S^Classic Mode^oldclr^ to unlock</String>
+  <String id="370">达到^%S^经典模式^oldclr^的%d级以解锁</String>
   <!-- PlayMenu::ButtonMouseEnter:699 -->
-  <String id="371">Collect colorful jeweled butterflies</String>
+  <String id="371">收集色彩斑斓的宝石蝴蝶</String>
   <!-- PlayMenu::ButtonMouseEnter:708 -->
-  <String id="372">Reach level %d of ^%S^Zen Mode^oldclr^ to unlock</String>
+  <String id="372">达到^%S^禅模式^oldclr^的%d级以解锁</String>
   <!-- PlayMenu::ButtonMouseEnter:712 -->
-  <String id="373">Hold back the rising ice columns</String>
+  <String id="373">阻止上升的冰柱</String>
   <!-- PlayMenu::ButtonMouseEnter:721 -->
-  <String id="374">Score %s points in ^%S^Lightning Mode^oldclr^ to unlock</String>
+  <String id="374">在^%S^闪电模式^oldclr^中获得%s分以解锁</String>
   <!-- PlayMenu::ButtonMouseEnter:725 -->
-  <String id="375">Dig deep to unearth buried treasure</String>
+  <String id="375">深入挖掘以发现埋藏的宝藏</String>
   <!-- PlayMenu::ButtonMouseEnter:734 -->
-  <String id="376">Reveal the first Relic in ^%S^Quest Mode^oldclr^ to unlock</String>
+  <String id="376">在^%S^任务模式^oldclr^中揭示第一个遗物以解锁</String>
   <!-- PlayMenu::ButtonMouseEnter:738 -->
   <!-- File:      PokerBoard.cpp -->
-  <String id="588">Pair</String>
+  <String id="588">对子</String>
   <!-- PokerBoard::LoadContent:101 -->
-  <String id="589">Spectrum</String>
+  <String id="589">彩虹</String>
   <!-- PokerBoard::LoadContent:102 -->
-  <String id="590">Two Pair</String>
+  <String id="590">两对</String>
   <!-- PokerBoard::LoadContent:103 -->
-  <String id="591">3 of a Kind</String>
+  <String id="591">三条</String>
   <!-- PokerBoard::LoadContent:104 -->
-  <String id="592">Full House</String>
+  <String id="592">葫芦</String>
   <!-- PokerBoard::LoadContent:105 -->
-  <String id="593">4 of a Kind</String>
+  <String id="593">四条</String>
   <!-- PokerBoard::LoadContent:106 -->
-  <String id="594">Flush</String>
+  <String id="594">同花</String>
   <!-- PokerBoard::LoadContent:107 -->
-  <String id="377">Need %s or better</String>
+  <String id="377">需要%s或更好</String>
   <!-- PokerBoard::DrawGameElements:423 -->
-  <String id="597">SKULL</String>
+  <String id="597">骷髅</String>
   <!-- PokerBoard::DrawOverlay:473 -->
   <String id="378">+%s</String>
   <!-- PokerBoard::DrawOverlay:574 -->
