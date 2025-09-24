@@ -2,9 +2,9 @@
 <Properties>
   <!-- AUTOGEN: Wonka | C:\temp\delta\us | Mon Jun 18 14:39:52 2012 | out:full merged -->
   <!-- File:      AboutMenu.cpp -->
-  <String id="3521">ABOUT</String>
+  <String id="3521">关于</String>
   <!-- Line 47 -->
-  <String id="3522">ABOUT</String>
+  <String id="3522">关于</String>
   <!-- Line 50 -->
   <String id="3523">Bejeweled© 2018 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</String>
   <!-- Line 61 -->
@@ -12,27 +12,27 @@
   <!-- Line 109 -->
   <String id="3076">www.popcap.com/help.php</String>
   <!-- Line 127 -->
-  <String id="3077">Version:</String>
+  <String id="3077">版本:</String>
   <!-- Line 137 -->
-  <String id="3524">BACK</String>
+  <String id="3524">返回</String>
   <!-- Line 149 -->
-  <String id="3525">Version %s</String>
+  <String id="3525">版本 %s</String>
   <!-- Line 156 -->
   <String id="3526"></String>
   <!-- Line 173 -->
-  <String id="3078">BACK</String>
+  <String id="3078">返回</String>
   <!-- Line 178 -->
-  <String id="3527">END USER LICENSE AGREEMENT</String>
+  <String id="3527">用户协议</String>
   <!-- Line 195 -->
-  <String id="3528">TERMS OF SERVICE</String>
+  <String id="3528">服务条款</String>
   <!-- Line 207 -->
-  <String id="3529">PRIVACY AND COOKIE POLICY</String>
+  <String id="3529">隐私与 cookie 政策</String>
   <!-- Line 219 -->
-  <String id="3530">USER SHARING</String>
+  <String id="3530">用户共享</String>
   <!-- AboutMenu::LinkUpAssets:256 -->
-  <String id="3531">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <String id="3531">如果您不再希望发送匿名游戏玩法信息到 PopCap，请取消选中复选框，我们将禁用此类信息的传输。</String>
   <!-- AboutMenu::LinkUpAssets:260 -->
-  <String id="3532">If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</String>
+  <String id="3532">如果您希望发送匿名游戏玩法信息到 PopCap，请选中复选框，我们将启用此类信息的传输。</String>
   <!-- AboutMenu::LinkUpAssets:264 -->
   <String id="3533">http://tos.ea.com/legalapp/mobileeula/US/en/GM/</String>
   <!-- AboutMenu::ButtonDepress:359 -->
@@ -43,133 +43,133 @@
   <!-- File:      Badge.cpp -->
   <String id="0">&nbsp;&nbsp;(%i/%i)</String>
   <!-- Badge::GetProgressString:79 -->
-  <String id="3079">^FF6600^Bronze^FFFFFF^</String>
+  <String id="3079">^FF6600^青铜^FFFFFF^</String>
   <!-- Badge::GetBadgeLevelName:104 -->
-  <String id="3080">^EEEEEE^Silver^FFFFFF^</String>
+  <String id="3080">^EEEEEE^白银^FFFFFF^</String>
   <!-- Badge::GetBadgeLevelName:105 -->
-  <String id="3081">^FFEE00^Gold^FFFFFF^</String>
+  <String id="3081">^FFEE00^黄金^FFFFFF^</String>
   <!-- Badge::GetBadgeLevelName:106 -->
-  <String id="3082">^66BBFF^Platinum^FFFFFF^</String>
+  <String id="3082">^66BBFF^铂金^FFFFFF^</String>
   <!-- Badge::GetBadgeLevelName:107 -->
-  <String id="5">For clearing %s Flame Gems</String>
+  <String id="5">清除 %s 颗火焰宝石</String>
   <!-- InfernoBadge::GetAwardString:163 -->
-  <String id="6">Clear %s Flame Gems to earn a %s badge</String>
+  <String id="6">清除 %s 颗火焰宝石以获得 %s 徽章</String>
   <!-- InfernoBadge::GetNextLevelString:168 -->
-  <String id="7">Cleared %s Flame Gems&cr;^FFFF00^MAX LEVEL</String>
+  <String id="7">清除 %s 颗火焰宝石&cr;^FFFF00^最高等级</String>
   <!-- InfernoBadge::GetMaxLevelString:173 -->
-  <String id="8">For clearing %s Star Gems</String>
+  <String id="8">清除 %s 颗星宝石</String>
   <!-- StellarBadge::GetAwardString:194 -->
-  <String id="9">Clear %s Star Gems to earn a %s badge</String>
+  <String id="9">清除 %s 颗星宝石以获得 %s 徽章</String>
   <!-- StellarBadge::GetNextLevelString:199 -->
-  <String id="10">Cleared %s Star Gems&cr;^FFFF00^MAX LEVEL</String>
+  <String id="10">清除 %s 颗星宝石&cr;^FFFF00^最高等级</String>
   <!-- StellarBadge::GetMaxLevelString:204 -->
-  <String id="11">For clearing %s Hypercubes</String>
+  <String id="11">清除 %s 个魔方</String>
   <!-- ChromaticBadge::GetAwardString:225 -->
-  <String id="12">Clear %s Hypercubes to earn a %s badge</String>
+  <String id="12">清除 %s 个魔方以获得 %s 徽章</String>
   <!-- ChromaticBadge::GetNextLevelString:230 -->
-  <String id="13">Cleared %s Hypercubes&cr;^FFFF00^MAX LEVEL</String>
+  <String id="13">清除 %s 个魔方&cr;^FFFF00^最高等级</String>
   <!-- ChromaticBadge::GetMaxLevelString:235 -->
-  <String id="14">For destroying %s Gems in a single move</String>
+  <String id="14">清除 %s 个宝石以在一次移动中破坏</String>
   <!-- BlasterBadge::GetAwardString:266 -->
-  <String id="15">Destroy %s Gems in a single move to earn a %s badge</String>
+  <String id="15">清除 %s 个宝石以在一次移动中破坏以获得 %s 徽章</String>
   <!-- BlasterBadge::GetNextLevelString:271 -->
-  <String id="16">Destroyed %s Gems in a single move&cr;^FFFF00^MAX LEVEL</String>
+  <String id="16">清除 %s 个宝石以在一次移动中破坏&cr;^FFFF00^最高等级</String>
   <!-- BlasterBadge::GetMaxLevelString:276 -->
-  <String id="17">For scoring over %s points in a Classic game</String>
+  <String id="17">清除 %s 个点在一次经典游戏中得分</String>
   <!-- ClassicScoreBadge::GetAwardString:307 -->
-  <String id="18">Finish a Classic game with a score over %s to earn a %s badge</String>
+  <String id="18">完成一次经典游戏并获得得分超过 %s 以获得 %s 徽章</String>
   <!-- ClassicScoreBadge::GetNextLevelString:312 -->
-  <String id="19">Finished a Classic game with a score over %s&cr;^FFFF00^MAX LEVEL</String>
+  <String id="19">完成一次经典游戏并获得得分超过 %s&cr;^FFFF00^最高等级</String>
   <!-- ClassicScoreBadge::GetMaxLevelString:317 -->
-  <String id="20">For scoring over %s points during a Last Hurrah in Lightning Mode</String>
+  <String id="20">清除 %s 个点在一次经典游戏中得分</String>
   <!-- FinalFrenzyBadge::GetAwardString:350 -->
-  <String id="21">Score over %s points during a Last Hurrah in Lightning Mode to earn a %s badge</String>
+  <String id="21">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- FinalFrenzyBadge::GetNextLevelString:355 -->
-  <String id="22">Scored over %s points during a Last Hurrah in Lightning Mode&cr;^FFFF00^MAX LEVEL</String>
+  <String id="22">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- FinalFrenzyBadge::GetMaxLevelString:360 -->
-  <String id="23">For scoring %s points in Lightning Mode</String>
+  <String id="23">清除 %s 个点在一次经典游戏中得分</String>
   <!-- LightningScoreBadge::GetAwardString:391 -->
-  <String id="24">Score %s points in Lightning Mode to earn a %s badge</String>
+  <String id="24">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- LightningScoreBadge::GetNextLevelString:396 -->
-  <String id="25">Scored %s points in Lightning Mode&cr;^FFFF00^MAX LEVEL</String>
+  <String id="25">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- LightningScoreBadge::GetMaxLevelString:401 -->
   <String id="3536"></String>
   <!-- TempBadge::GetAwardString:424 -->
   <String id="3537"></String>
   <!-- TempBadge::GetNextLevelString:429 -->
-  <String id="3538">We&apos;re busy crafting new badges</String>
+  <String id="3538">我们正在努力创作新的徽章</String>
   <!-- TempBadge::GetMaxLevelString:434 -->
-  <String id="3539">For finishing 3 games in a row over %s points</String>
+  <String id="3539">完成 3 次游戏连续得分超过 %s 点</String>
   <!-- LuckyStreakBadge::GetAwardString:466 -->
-  <String id="3540">Finish 3 games in a row over %s points to earn a %s badge</String>
+  <String id="3540">完成 3 次游戏连续得分超过 %s 点以获得 %s 徽章</String>
   <!-- LuckyStreakBadge::GetNextLevelString:471 -->
-  <String id="3541">Finished 3 games in a row over %s points&cr;^FFFF00^MAX LEVEL</String>
+  <String id="3541">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- LuckyStreakBadge::GetMaxLevelString:476 -->
-  <String id="3542">For detonating %s special gems in a single move</String>
+  <String id="3542">清除 %s 个点在一次经典游戏中得分</String>
   <!-- ChainReactionBadge::GetAwardString:508 -->
-  <String id="3543">Detonate %s special gems in a single move to earn a %s badge</String>
+  <String id="3543">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- ChainReactionBadge::GetNextLevelString:513 -->
-  <String id="3544">Detonated %s special gems in a single move&cr;^FFFF00^MAX LEVEL</String>
+  <String id="3544">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- ChainReactionBadge::GetMaxLevelString:518 -->
-  <String id="3545">For making %s matches during a cascade</String>
+  <String id="3545">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- DynamoBadge::GetAwardString:550 -->
-  <String id="3546">Make %s matches during a cascade to earn a %s badge</String>
+  <String id="3546">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- DynamoBadge::GetNextLevelString:555 -->
-  <String id="3547">Made %s matches during a cascade&cr;^FFFF00^MAX LEVEL</String>
+  <String id="3547">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- DynamoBadge::GetMaxLevelString:560 -->
-  <String id="26">For getting %s Flushes in Poker</String>
+  <String id="3548">清除 %s 个点在一次经典游戏中得分</String>
   <!-- PokerFlushesBadge::GetAwardString:592 -->
-  <String id="27">Get %s Flushes in Poker to earn a %s badge</String>
+  <String id="27">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- PokerFlushesBadge::GetNextLevelString:597 -->
-  <String id="28">Got %s Flushes in Poker&cr;^FFFF00^MAX LEVEL</String>
+  <String id="28">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- PokerFlushesBadge::GetMaxLevelString:602 -->
-  <String id="29">For scoring %s points in Poker</String>
+  <String id="29">清除 %s 个点在一次经典游戏中得分</String>
   <!-- PokerScoreBadge::GetAwardString:633 -->
-  <String id="30">Score %s points in Poker to earn a %s badge</String>
+  <String id="30">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- PokerScoreBadge::GetNextLevelString:638 -->
-  <String id="31">Scored %s points in Poker&cr;^FFFF00^MAX LEVEL</String>
+  <String id="31">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- PokerScoreBadge::GetMaxLevelString:643 -->
-  <String id="32">For scoring %s points in Ice Storm</String>
+  <String id="32">清除 %s 个点在一次经典游戏中得分</String>
   <!-- IceStormScoreBadge::GetAwardString:676 -->
-  <String id="33">Score %s points in Ice Storm to earn a %s badge</String>
+  <String id="33">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- IceStormScoreBadge::GetNextLevelString:681 -->
-  <String id="34">Scored %s points in Ice Storm&cr;^FFFF00^MAX LEVEL</String>
+  <String id="34">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- IceStormScoreBadge::GetMaxLevelString:686 -->
-  <String id="35">For getting a x%s Column Combo in Ice Storm</String>
+  <String id="35">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- IceStormColComboBadge::GetAwardString:717 -->
-  <String id="36">Get a x%s Column Combo in Ice Storm to earn a %s badge</String>
+  <String id="36">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- IceStormColComboBadge::GetNextLevelString:722 -->
-  <String id="37">Got a x%s Column Combo in Ice Storm &cr;^FFFF00^MAX LEVEL</String>
+  <String id="37">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- IceStormColComboBadge::GetMaxLevelString:727 -->
-  <String id="38">For scoring %s points in Diamond Mine</String>
+  <String id="38">清除 %s 个点在一次经典游戏中得分</String>
   <!-- DiamondMineScoreBadge::GetAwardString:759 -->
-  <String id="39">Score %s points in Diamond Mine to earn a %s badge</String>
+  <String id="39">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- DiamondMineScoreBadge::GetNextLevelString:764 -->
-  <String id="40">Scored %s points in Diamond Mine&cr;^FFFF00^MAX LEVEL</String>
+  <String id="40">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- DiamondMineScoreBadge::GetMaxLevelString:769 -->
-  <String id="41">For collecting %s artifacts in Diamond Mine</String>
+  <String id="41">收集 %s 个钻石矿中的工件</String>
   <!-- DiamondMineArtifactsBadge::GetAwardString:800 -->
-  <String id="42">Collect %s artifacts in Diamond Mine to earn a %s badge</String>
+  <String id="42">收集 %s 个钻石矿中的工件以获得 %s 徽章</String>
   <!-- DiamondMineArtifactsBadge::GetNextLevelString:805 -->
-  <String id="43">Collected %s artifacts in Diamond Mine&cr;^FFFF00^MAX LEVEL</String>
+  <String id="43">收集 %s 个钻石矿中的工件以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- DiamondMineArtifactsBadge::GetMaxLevelString:810 -->
-  <String id="44">For scoring %s points in Butterflies</String>
+  <String id="44">收集 %s 个钻石矿中的工件</String>
   <!-- ButterfliesScoreBadge::GetAwardString:842 -->
-  <String id="45">Score %s points in Butterflies to earn a %s badge</String>
+  <String id="45">收集 %s 个钻石矿中的工件以获得 %s 徽章</String>
   <!-- ButterfliesScoreBadge::GetNextLevelString:847 -->
-  <String id="46">Scored %s points in Butterflies&cr;^FFFF00^MAX LEVEL</String>
+  <String id="46">清除 %s 个点在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- ButterfliesScoreBadge::GetMaxLevelString:852 -->
-  <String id="47">For collecting %s butterflies in one move</String>
+  <String id="47">收集 %s 个蝴蝶在一次经典游戏中得分</String>
   <!-- ButterfliesBigMoveBadge::GetAwardString:883 -->
-  <String id="48">Collect %s butterflies in one move to earn a %s badge</String>
+  <String id="48">收集 %s 个蝴蝶在一次经典游戏中得分以获得 %s 徽章</String>
   <!-- ButterfliesBigMoveBadge::GetNextLevelString:888 -->
-  <String id="49">Collected %s butterflies in one move&cr;^FFFF00^MAX LEVEL</String>
+  <String id="49">收集 %s 个蝴蝶在一次经典游戏中得分以获得 %s 徽章&cr;^FFFF00^最高等级</String>
   <!-- ButterfliesBigMoveBadge::GetMaxLevelString:893 -->
-  <String id="50">For completing Quest Mode</String>
+  <String id="50">完成任务模式</String>
   <!-- QuestModeFinishedBadge::GetAwardString:924 -->
-  <String id="51">Complete Quest Mode to earn the badge</String>
+  <String id="51">完成任务模式以获得徽章</String>
   <!-- QuestModeFinishedBadge::GetNextLevelString:929 -->
-  <String id="52">Completed Quest Mode</String>
+  <String id="52">完成任务模式</String>
   <!-- QuestModeFinishedBadge::GetMaxLevelString:934 -->
   <String id="53">For matching two Hypercubes together</String>
   <!-- HypercubeAnnihilationBadge::GetAwardString:960 -->
@@ -202,7 +202,7 @@
   <String id="68">Got the highest score in all secret games</String>
   <!-- SecretHighScoreBadge::GetMaxLevelString:1130 -->
   <!-- File:      BadgeAwardDialog.cpp -->
-  <String id="69">CLOSE</String>
+  <String id="69">关闭</String>
   <!-- Line 24 -->
   <String id="70">BADGES</String>
   <!-- BadgeAwardDialog::Draw:55 -->
