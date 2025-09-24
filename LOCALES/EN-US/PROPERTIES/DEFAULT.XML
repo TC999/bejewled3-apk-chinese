@@ -171,35 +171,35 @@
   <!-- QuestModeFinishedBadge::GetNextLevelString:929 -->
   <String id="52">完成任务模式</String>
   <!-- QuestModeFinishedBadge::GetMaxLevelString:934 -->
-  <String id="53">For matching two Hypercubes together</String>
+  <String id="53">用于将两个超级立方体配对</String>
   <!-- HypercubeAnnihilationBadge::GetAwardString:960 -->
-  <String id="54">Match two Hypercubes together to earn the badge</String>
+  <String id="54">将两个超级立方体配对以获得徽章</String>
   <!-- HypercubeAnnihilationBadge::GetNextLevelString:965 -->
-  <String id="55">Matched two Hypercubes together</String>
+  <String id="55">已将两个超级立方体配对</String>
   <!-- HypercubeAnnihilationBadge::GetMaxLevelString:970 -->
-  <String id="56">For reaching level %s in Classic Mode</String>
+  <String id="56">用于在经典模式中达到第 %s 级</String>
   <!-- ClassicLevelBadge::GetAwardString:1001 -->
-  <String id="57">Reach level %s in Classic Mode to earn the badge</String>
+  <String id="57">在经典模式中达到第 %s 级以获得徽章</String>
   <!-- ClassicLevelBadge::GetNextLevelString:1006 -->
-  <String id="58">Reached level %s in Classic Mode</String>
+  <String id="58">已在经典模式中达到第 %s 级</String>
   <!-- ClassicLevelBadge::GetMaxLevelString:1011 -->
-  <String id="59">For creating a Supernova Gem</String>
+  <String id="59">用于创造一颗超新星宝石</String>
   <!-- SupernovaBadge::GetAwardString:1037 -->
-  <String id="60">Line up 6 Gems in a row to earn the badge</String>
+  <String id="60">将6颗宝石排成一行以获得徽章</String>
   <!-- SupernovaBadge::GetNextLevelString:1042 -->
-  <String id="61">Created a Supernova Gem</String>
+  <String id="61">已创造一颗超新星宝石</String>
   <!-- SupernovaBadge::GetMaxLevelString:1047 -->
-  <String id="3548">For collecting one million gems</String>
+  <String id="3548">用于收集一百万颗宝石</String>
   <!-- MillionaireBadge::GetAwardString:1074 -->
-  <String id="3549">Collect one million gems to earn this badge</String>
+  <String id="3549">收集一百万颗宝石以获得此徽章</String>
   <!-- MillionaireBadge::GetNextLevelString:1079 -->
-  <String id="3550">Collected one million gems</String>
+  <String id="3550">已收集一百万颗宝石</String>
   <!-- MillionaireBadge::GetMaxLevelString:1084 -->
-  <String id="66">For getting the high score in all secret games</String>
+  <String id="66">用于在所有秘密游戏中获得最高分</String>
   <!-- SecretHighScoreBadge::GetAwardString:1120 -->
-  <String id="67">Get the high score in all secret games to earn the badge</String>
+  <String id="67">在所有秘密游戏中获得最高分以获得徽章</String>
   <!-- SecretHighScoreBadge::GetNextLevelString:1125 -->
-  <String id="68">Got the highest score in all secret games</String>
+  <String id="68">已在所有秘密游戏中获得最高分</String>
   <!-- SecretHighScoreBadge::GetMaxLevelString:1130 -->
   <!-- File:      BadgeAwardDialog.cpp -->
   <String id="69">关闭</String>
@@ -209,7 +209,7 @@
   <!-- File:      BadgeMenu.cpp -->
   <String id="3083">BADGES</String>
   <!-- Line 78 -->
-  <String id="3084">Elite Badges</String>
+  <String id="3084">精英徽章</String>
   <!-- Line 86 -->
   <String id="3487">CLOSE</String>
   <!-- Line 123 -->
@@ -217,9 +217,9 @@
   <!-- Line 128 -->
   <String id="3641">CONTINUE</String>
   <!-- Line 148 -->
-  <String id="3552">Swipe for more badges</String>
+  <String id="3552">滑动查看更多徽章</String>
   <!-- Line 173 -->
-  <String id="3488">You have earned the</String>
+  <String id="3488">您已获得</String>
   <!-- BadgeMenu::DrawOverlay:603 -->
   <String id="3088">CONTINUE</String>
   <!-- BadgeMenu::SetMode:1442 -->
@@ -227,206 +227,206 @@
   <!-- BadgeMenu::SetMode:1444 -->
   <String id="3090">BACK</String>
   <!-- BadgeMenu::SetMode:1481 -->
-  <String id="3553">Elite</String>
+  <String id="3553">精英</String>
   <!-- BadgeMenu::Fade:1588 -->
   <String id="3642">ELITE</String>
   <!-- BadgeMenu::Fade:1868 -->
   <!-- File:      BadgeWidget.cpp -->
-  <String id="72">You have earned the</String>
+  <String id="72">您已获得</String>
   <!-- BadgeWidget::Draw:291 -->
   <!-- File:      Bej3Achievements.cpp -->
-  <String id="3091">Inferno (Bronze)</String>
+  <String id="3091">地狱火（青铜）</String>
   <!-- Bej3App::InitAchievements:17 -->
-  <String id="3092">Clear 50 Flame Gems</String>
+  <String id="3092">清除50颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:17 -->
-  <String id="3093">Cleared 50 Flame Gems</String>
+  <String id="3093">已清除50颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:17 -->
-  <String id="3094">Inferno (Silver)</String>
+  <String id="3094">地狱火（白银）</String>
   <!-- Bej3App::InitAchievements:18 -->
-  <String id="3095">Clear 350 Flame Gems</String>
+  <String id="3095">清除350颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:18 -->
-  <String id="3096">Cleared 350 Flame Gems</String>
+  <String id="3096">已清除350颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:18 -->
-  <String id="3097">Inferno (Gold)</String>
+  <String id="3097">地狱火（黄金）</String>
   <!-- Bej3App::InitAchievements:19 -->
-  <String id="3098">Clear 1,000 Flame Gems</String>
+  <String id="3098">清除1,000颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:19 -->
-  <String id="3099">Cleared 1,000 Flame Gems</String>
+  <String id="3099">已清除1,000颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:19 -->
-  <String id="3100">Inferno (Platinum)</String>
+  <String id="3100">地狱火（铂金）</String>
   <!-- Bej3App::InitAchievements:20 -->
-  <String id="3101">Clear 2,000 Flame Gems</String>
+  <String id="3101">清除2,000颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:20 -->
-  <String id="3102">Cleared 2,000 Flame Gems</String>
+  <String id="3102">已清除2,000颗火焰宝石</String>
   <!-- Bej3App::InitAchievements:20 -->
-  <String id="3103">Stellar (Bronze)</String>
+  <String id="3103">星空（青铜）</String>
   <!-- Bej3App::InitAchievements:22 -->
-  <String id="3104">Clear 25 Star Gems</String>
+  <String id="3104">清除25颗星宝石</String>
   <!-- Bej3App::InitAchievements:22 -->
-  <String id="3105">Cleared 25 Star Gems</String>
+  <String id="3105">已清除25颗星宝石</String>
   <!-- Bej3App::InitAchievements:22 -->
-  <String id="3106">Stellar (Silver)</String>
+  <String id="3106">星空（白银）</String>
   <!-- Bej3App::InitAchievements:23 -->
-  <String id="3107">Clear 125 Star Gems</String>
+  <String id="3107">清除125颗星宝石</String>
   <!-- Bej3App::InitAchievements:23 -->
-  <String id="3108">Cleared 125 Star Gems</String>
+  <String id="3108">已清除125颗星宝石</String>
   <!-- Bej3App::InitAchievements:23 -->
-  <String id="3109">Stellar (Gold)</String>
+  <String id="3109">星空（黄金）</String>
   <!-- Bej3App::InitAchievements:24 -->
-  <String id="3110">Clear 400 Star Gems</String>
+  <String id="3110">清除400颗星宝石</String>
   <!-- Bej3App::InitAchievements:24 -->
-  <String id="3111">Cleared 400 Star Gems</String>
+  <String id="3111">已清除400颗星宝石</String>
   <!-- Bej3App::InitAchievements:24 -->
-  <String id="3112">Stellar (Platinum)</String>
+  <String id="3112">星空（铂金）</String>
   <!-- Bej3App::InitAchievements:25 -->
-  <String id="3113">Clear 750 Star Gems</String>
+  <String id="3113">清除750颗星宝石</String>
   <!-- Bej3App::InitAchievements:25 -->
-  <String id="3114">Cleared 750 Star Gems</String>
+  <String id="3114">已清除750颗星宝石</String>
   <!-- Bej3App::InitAchievements:25 -->
-  <String id="3115">Chromatic (Bronze)</String>
+  <String id="3115">多彩（青铜）</String>
   <!-- Bej3App::InitAchievements:27 -->
-  <String id="3116">Clear 25 Hypercubes</String>
+  <String id="3116">清除25个超级立方体</String>
   <!-- Bej3App::InitAchievements:27 -->
-  <String id="3117">Cleared 25 Hypercubes</String>
+  <String id="3117">已清除25个超级立方体</String>
   <!-- Bej3App::InitAchievements:27 -->
-  <String id="3118">Chromatic (Silver)</String>
+  <String id="3118">多彩（白银）</String>
   <!-- Bej3App::InitAchievements:28 -->
-  <String id="3119">Clear 125 Hypercubes</String>
+  <String id="3119">清除125个超级立方体</String>
   <!-- Bej3App::InitAchievements:28 -->
-  <String id="3120">Cleared 125 Hypercubes</String>
+  <String id="3120">已清除125个超级立方体</String>
   <!-- Bej3App::InitAchievements:28 -->
-  <String id="3121">Chromatic (Gold)</String>
+  <String id="3121">多彩（黄金）</String>
   <!-- Bej3App::InitAchievements:29 -->
-  <String id="3122">Clear 400 Hypercubes</String>
+  <String id="3122">清除400个超级立方体</String>
   <!-- Bej3App::InitAchievements:29 -->
-  <String id="3123">Cleared 400 Hypercubes</String>
+  <String id="3123">已清除400个超级立方体</String>
   <!-- Bej3App::InitAchievements:29 -->
-  <String id="3124">Chromatic (Platinum)</String>
+  <String id="3124">多彩（铂金）</String>
   <!-- Bej3App::InitAchievements:30 -->
-  <String id="3125">Clear 750 Hypercubes</String>
+  <String id="3125">清除750个超级立方体</String>
   <!-- Bej3App::InitAchievements:30 -->
-  <String id="3126">Cleared 750 Hypercubes</String>
+  <String id="3126">已清除750个超级立方体</String>
   <!-- Bej3App::InitAchievements:30 -->
-  <String id="3127">Blaster (Bronze)</String>
+  <String id="3127">爆破者（青铜）</String>
   <!-- Bej3App::InitAchievements:32 -->
-  <String id="3128">Destroy 30 Gems in a single move</String>
+  <String id="3128">在一次移动中消除30颗宝石</String>
   <!-- Bej3App::InitAchievements:32 -->
-  <String id="3129">Destroyed 30 Gems in a single move</String>
+  <String id="3129">已在一次移动中消除30颗宝石</String>
   <!-- Bej3App::InitAchievements:32 -->
-  <String id="3130">Blaster (Silver)</String>
+  <String id="3130">爆破者（白银）</String>
   <!-- Bej3App::InitAchievements:33 -->
-  <String id="3131">Destroy 40 Gems in a single move</String>
+  <String id="3131">在一次移动中消除40颗宝石</String>
   <!-- Bej3App::InitAchievements:33 -->
-  <String id="3132">Destroyed 40 Gems in a single move</String>
+  <String id="3132">已在一次移动中消除40颗宝石</String>
   <!-- Bej3App::InitAchievements:33 -->
-  <String id="3133">Blaster (Gold)</String>
+  <String id="3133">爆破者（黄金）</String>
   <!-- Bej3App::InitAchievements:34 -->
-  <String id="3134">Destroy 50 Gems in a single move</String>
+  <String id="3134">在一次移动中消除50颗宝石</String>
   <!-- Bej3App::InitAchievements:34 -->
-  <String id="3135">Destroyed 50 Gems in a single move</String>
+  <String id="3135">已在一次移动中消除50颗宝石</String>
   <!-- Bej3App::InitAchievements:34 -->
-  <String id="3136">Blaster (Platinum)</String>
+  <String id="3136">爆破者（铂金）</String>
   <!-- Bej3App::InitAchievements:35 -->
-  <String id="3137">Destroy 60 Gems in a single move</String>
+  <String id="3137">在一次移动中消除60颗宝石</String>
   <!-- Bej3App::InitAchievements:35 -->
-  <String id="3138">Destroyed 60 Gems in a single move</String>
+  <String id="3138">已在一次移动中消除60颗宝石</String>
   <!-- Bej3App::InitAchievements:35 -->
-  <String id="3139">Bejeweler (Bronze)</String>
+  <String id="3139">宝石大师（青铜）</String>
   <!-- Bej3App::InitAchievements:37 -->
-  <String id="3140">Finish a Classic game with a score over 50,000</String>
+  <String id="3140">完成经典模式游戏且得分超过50,000</String>
   <!-- Bej3App::InitAchievements:37 -->
-  <String id="3141">Finished a Classic game with a score over 50,000</String>
+  <String id="3141">已完成经典模式游戏且得分超过50,000</String>
   <!-- Bej3App::InitAchievements:37 -->
-  <String id="3142">Bejeweler (Silver)</String>
+  <String id="3142">宝石大师（白银）</String>
   <!-- Bej3App::InitAchievements:38 -->
-  <String id="3143">Finish a Classic game with a score over 150,000</String>
+  <String id="3143">完成经典模式游戏且得分超过150,000</String>
   <!-- Bej3App::InitAchievements:38 -->
-  <String id="3144">Finished a Classic game with a score over 150,000</String>
+  <String id="3144">已完成经典模式游戏且得分超过150,000</String>
   <!-- Bej3App::InitAchievements:38 -->
-  <String id="3145">Bejeweler (Gold)</String>
+  <String id="3145">宝石大师（黄金）</String>
   <!-- Bej3App::InitAchievements:39 -->
-  <String id="3146">Finish a Classic game with a score over 300,000</String>
+  <String id="3146">完成经典模式游戏且得分超过300,000</String>
   <!-- Bej3App::InitAchievements:39 -->
-  <String id="3147">Finished a Classic game with a score over 300,000</String>
+  <String id="3147">已完成经典模式游戏且得分超过300,000</String>
   <!-- Bej3App::InitAchievements:39 -->
-  <String id="3148">Bejeweler (Platinum)</String>
+  <String id="3148">宝石大师（铂金）</String>
   <!-- Bej3App::InitAchievements:40 -->
-  <String id="3149">Finish a Classic game with a score over 500,000</String>
+  <String id="3149">完成经典模式游戏且得分超过500,000</String>
   <!-- Bej3App::InitAchievements:40 -->
-  <String id="3150">Finished a Classic game with a score over 500,000</String>
+  <String id="3150">已完成经典模式游戏且得分超过500,000</String>
   <!-- Bej3App::InitAchievements:40 -->
-  <String id="3151">Diamond, Mine (Bronze)</String>
+  <String id="3151">钻石矿工（青铜）</String>
   <!-- Bej3App::InitAchievements:42 -->
-  <String id="3152">Score 100,000 points in Diamond Mine</String>
+  <String id="3152">在钻石矿模式中获得100,000分</String>
   <!-- Bej3App::InitAchievements:42 -->
-  <String id="3153">Scored 100,000 points in Diamond Mine</String>
+  <String id="3153">已在钻石矿模式中获得100,000分</String>
   <!-- Bej3App::InitAchievements:42 -->
-  <String id="3154">Diamond, Mine (Silver)</String>
+  <String id="3154">钻石矿工（白银）</String>
   <!-- Bej3App::InitAchievements:43 -->
-  <String id="3155">Score 300,000 points in Diamond Mine</String>
+  <String id="3155">在钻石矿模式中获得300,000分</String>
   <!-- Bej3App::InitAchievements:43 -->
-  <String id="3156">Scored 300,000 points in Diamond Mine</String>
+  <String id="3156">已在钻石矿模式中获得300,000分</String>
   <!-- Bej3App::InitAchievements:43 -->
-  <String id="3157">Diamond, Mine (Gold)</String>
+  <String id="3157">钻石矿工（黄金）</String>
   <!-- Bej3App::InitAchievements:44 -->
-  <String id="3158">Score 500,000 points in Diamond Mine</String>
+  <String id="3158">在钻石矿模式中获得500,000分</String>
   <!-- Bej3App::InitAchievements:44 -->
-  <String id="3159">Scored 500,000 points in Diamond Mine</String>
+  <String id="3159">已在钻石矿模式中获得500,000分</String>
   <!-- Bej3App::InitAchievements:44 -->
-  <String id="3160">Diamond, Mine (Platinum)</String>
+  <String id="3160">钻石矿工（铂金）</String>
   <!-- Bej3App::InitAchievements:45 -->
-  <String id="3161">Score 750,000 points in Diamond Mine</String>
+  <String id="3161">在钻石矿模式中获得750,000分</String>
   <!-- Bej3App::InitAchievements:45 -->
-  <String id="3162">Scored 750,000 points in Diamond Mine</String>
+  <String id="3162">已在钻石矿模式中获得750,000分</String>
   <!-- Bej3App::InitAchievements:45 -->
-  <String id="3163">Relic Hunter (Bronze)</String>
+  <String id="3163">宝物猎人（青铜）</String>
   <!-- Bej3App::InitAchievements:47 -->
-  <String id="3164">Collect 5 artifacts in Diamond Mine</String>
+  <String id="3164">在钻石矿模式中收集5个文物</String>
   <!-- Bej3App::InitAchievements:47 -->
-  <String id="3165">Collected 5 artifacts in Diamond Mine</String>
+  <String id="3165">已在钻石矿模式中收集5个文物</String>
   <!-- Bej3App::InitAchievements:47 -->
-  <String id="3166">Relic Hunter (Silver)</String>
+  <String id="3166">宝物猎人（白银）</String>
   <!-- Bej3App::InitAchievements:48 -->
-  <String id="3167">Collect 8 artifacts in Diamond Mine</String>
+  <String id="3167">在钻石矿模式中收集8个文物</String>
   <!-- Bej3App::InitAchievements:48 -->
-  <String id="3168">Collected 8 artifacts in Diamond Mine</String>
+  <String id="3168">已在钻石矿模式中收集8个文物</String>
   <!-- Bej3App::InitAchievements:48 -->
-  <String id="3169">Relic Hunter (Gold)</String>
+  <String id="3169">宝物猎人（黄金）</String>
   <!-- Bej3App::InitAchievements:49 -->
-  <String id="3170">Collect 12 artifacts in Diamond Mine</String>
+  <String id="3170">在钻石矿模式中收集12个文物</String>
   <!-- Bej3App::InitAchievements:49 -->
-  <String id="3171">Collected 12 artifacts in Diamond Mine</String>
+  <String id="3171">已在钻石矿模式中收集12个文物</String>
   <!-- Bej3App::InitAchievements:49 -->
-  <String id="3172">Relic Hunter (Platinum)</String>
+  <String id="3172">宝物猎人（铂金）</String>
   <!-- Bej3App::InitAchievements:50 -->
-  <String id="3173">Collect 15 artifacts in Diamond Mine</String>
+  <String id="3173">在钻石矿模式中收集15个文物</String>
   <!-- Bej3App::InitAchievements:50 -->
-  <String id="3174">Collected 15 artifacts in Diamond Mine</String>
+  <String id="3174">已在钻石矿模式中收集15个文物</String>
   <!-- Bej3App::InitAchievements:50 -->
-  <String id="3175">Annihilator</String>
+  <String id="3175">歼灭者</String>
   <!-- Bej3App::InitAchievements:52 -->
-  <String id="3176">Match two Hypercubes together</String>
+  <String id="3176">将两个超级立方体配对</String>
   <!-- Bej3App::InitAchievements:52 -->
-  <String id="3177">Matched two Hypercubes together</String>
+  <String id="3177">已将两个超级立方体配对</String>
   <!-- Bej3App::InitAchievements:52 -->
-  <String id="3178">Superstar</String>
+  <String id="3178">超级明星</String>
   <!-- Bej3App::InitAchievements:53 -->
-  <String id="3179">Line up 6 Gems in a row</String>
+  <String id="3179">将6颗宝石排成一行</String>
   <!-- Bej3App::InitAchievements:53 -->
-  <String id="3180">Created a Supernova Gem</String>
+  <String id="3180">已创造一颗超新星宝石</String>
   <!-- Bej3App::InitAchievements:53 -->
-  <String id="3181">Levelord</String>
+  <String id="3181">等级大师</String>
   <!-- Bej3App::InitAchievements:54 -->
-  <String id="3182">Reach level 10 in Classic Mode</String>
+  <String id="3182">在经典模式中达到第10级</String>
   <!-- Bej3App::InitAchievements:54 -->
-  <String id="3183">Reached level 10 in Classic Mode</String>
+  <String id="3183">已在经典模式中达到第10级</String>
   <!-- Bej3App::InitAchievements:54 -->
   <!-- File:      Bej3App.cpp -->
   <String id="73">QUIT</String>
   <!-- Bej3App::AskQuit:1291 -->
-  <String id="74">Do you want to quit Bejeweled 3?</String>
+  <String id="74">您确定要退出宝石迷阵3吗？</String>
   <!-- Bej3App::AskQuit:1291 -->
-  <String id="3184">Resume a saved game or start a new one? Your saved game will be lost if you start a new one.</String>
+  <String id="3184">继续已保存的游戏还是开始新游戏？如果开始新游戏，您的存档将会丢失。</String>
   <!-- Bej3App::DoSavedGameCheck:1320 -->
   <String id="3185">RESUME GAME</String>
   <!-- Bej3App::DoSavedGameCheck:1325 -->
@@ -436,238 +436,238 @@
   <!-- Bej3App::DoSavedGameCheck:1330 -->
   <String id="3643">RESUME GAME?</String>
   <!-- Bej3App::DoSavedGameCheck:1341 -->
-  <String id="3188">LAUNCH BEJEWELED BLITZ?</String>
+  <String id="3188">启动宝石迷阵闪电战？</String>
   <!-- Bej3App::GoToBlitz:1992 -->
-  <String id="3189">Minimize Bejeweled and launch Bejeweled Blitz?</String>
+  <String id="3189">是否最小化宝石迷阵并启动宝石迷阵闪电战？</String>
   <!-- Bej3App::GoToBlitz:1993 -->
   <String id="3190">LAUNCH BLITZ</String>
   <!-- Bej3App::GoToBlitz:2003 -->
   <String id="3191">CANCEL</String>
   <!-- Bej3App::GoToBlitz:2004 -->
-  <String id="3192">GET BEJEWELED BLITZ FOR FREE?</String>
+  <String id="3192">免费获取宝石迷阵闪电战？</String>
   <!-- Bej3App::GoToBlitz:2026 -->
-  <String id="3193">Minimize Bejeweled and go to the Play Store to get Bejeweled Blitz for FREE?</String>
+  <String id="3193">是否最小化宝石迷阵并前往应用商店免费获取宝石迷阵闪电战？</String>
   <!-- Bej3App::GoToBlitz:2027 -->
   <String id="3194">GET BLITZ!</String>
   <!-- Bej3App::GoToBlitz:2037 -->
   <String id="3195">CANCEL</String>
   <!-- Bej3App::GoToBlitz:2038 -->
-  <String id="3196">VISIT WEBSITE?</String>
+  <String id="3196">访问网站？</String>
   <!-- Bej3App::OpenURLWithWarning:3349 -->
-  <String id="3197">Minimize Bejeweled and go to external website?</String>
+  <String id="3197">是否最小化宝石迷阵并前往外部网站？</String>
   <!-- Bej3App::OpenURLWithWarning:3350 -->
   <String id="3198">VISIT WEBSITE</String>
   <!-- Bej3App::OpenURLWithWarning:3356 -->
   <String id="3199">CANCEL</String>
   <!-- Bej3App::OpenURLWithWarning:3357 -->
-  <String id="3200">You must enter a valid name!</String>
+  <String id="3200">您必须输入有效的名称！</String>
   <!-- Bej3App::DialogButtonDepress:4224 -->
   <String id="86">DELETE USER?</String>
   <!-- Bej3App::DialogButtonDepress:4275 -->
-  <String id="87">Are you sure you want to delete user&cr;&apos;%s&apos;</String>
+  <String id="87">您确定要删除用户&cr;&apos;%s&apos;</String>
   <!-- Bej3App::DialogButtonDepress:4275 -->
-  <String id="3201">You must enter a valid name!</String>
+  <String id="3201">您必须输入有效的名称！</String>
   <!-- Bej3App::ChangeProfileName:4520 -->
-  <String id="584">Poker</String>
+  <String id="584">扑克</String>
   <!-- Bej3App::UnlockEndlessMode:4634 -->
-  <String id="585">Butterflies</String>
+  <String id="585">蝴蝶</String>
   <!-- Bej3App::UnlockEndlessMode:4635 -->
-  <String id="586">Ice Storm</String>
+  <String id="586">冰风暴</String>
   <!-- Bej3App::UnlockEndlessMode:4636 -->
-  <String id="587">Diamond Mine</String>
+  <String id="587">钻石矿</String>
   <!-- Bej3App::UnlockEndlessMode:4637 -->
-  <String id="3554">Score as many points as possible until there are no more moves.</String>
+  <String id="3554">在没有更多移动前尽可能获得高分。</String>
   <!-- Bej3App::GetModeHint:5087 -->
-  <String id="3555">Score as many points as you can before the time runs out.</String>
+  <String id="3555">在时间耗尽前尽可能获得高分。</String>
   <!-- Bej3App::GetModeHint:5092 -->
-  <String id="3556">Relax body and mind in this endless mode.</String>
+  <String id="3556">在这个无尽模式中放松身心。</String>
   <!-- Bej3App::GetModeHint:5096 -->
-  <String id="3557">Score as many points as possible until there are no more moves.</String>
+  <String id="3557">在没有更多移动前尽可能获得高分。</String>
   <!-- Bej3App::GetModeHint:5102 -->
-  <String id="3558">Score as many points as you can before a Butterfly Gem reaches the top.</String>
+  <String id="3558">在蝴蝶宝石到达顶部前尽可能获得高分。</String>
   <!-- Bej3App::GetModeHint:5109 -->
-  <String id="3206">Make poker hands with gem matches to earn a high score before your luck runs out!</String>
+  <String id="3206">通过宝石匹配组成扑克牌型，在运气耗尽前获得高分！</String>
   <!-- Bej3App::GetModeHint:5114 -->
   <String id="3207">Ice storm description goes here</String>
   <!-- Bej3App::GetModeHint:5119 -->
-  <String id="3208">CLASSIC</String>
+  <String id="3208">经典</String>
   <!-- Bej3App::GetModeHeading:5133 -->
-  <String id="3209">ZEN</String>
+  <String id="3209">禅境</String>
   <!-- Bej3App::GetModeHeading:5137 -->
-  <String id="3210">DIAMOND MINE</String>
+  <String id="3210">钻石矿</String>
   <!-- Bej3App::GetModeHeading:5141 -->
-  <String id="3211">LIGHTNING</String>
+  <String id="3211">闪电</String>
   <!-- Bej3App::GetModeHeading:5146 -->
-  <String id="3212">BUTTERFLIES</String>
+  <String id="3212">蝴蝶</String>
   <!-- Bej3App::GetModeHeading:5151 -->
-  <String id="3213">POKER</String>
+  <String id="3213">扑克</String>
   <!-- Bej3App::GetModeHeading:5156 -->
-  <String id="3214">ICESTORM</String>
+  <String id="3214">冰风暴</String>
   <!-- Bej3App::GetModeHeading:5161 -->
-  <String id="3644">CLASSIC</String>
+  <String id="3644">经典</String>
   <!-- Bej3App::GetModeHeading:5353 -->
-  <String id="3645">ZEN</String>
+  <String id="3645">禅境</String>
   <!-- Bej3App::GetModeHeading:5358 -->
-  <String id="3646">DIAMOND MINE</String>
+  <String id="3646">钻石矿</String>
   <!-- Bej3App::GetModeHeading:5363 -->
-  <String id="3647">LIGHTNING</String>
+  <String id="3647">闪电</String>
   <!-- Bej3App::GetModeHeading:5369 -->
-  <String id="3648">BUTTERFLIES</String>
+  <String id="3648">蝴蝶</String>
   <!-- Bej3App::GetModeHeading:5375 -->
-  <String id="3649">POKER</String>
+  <String id="3649">扑克</String>
   <!-- Bej3App::GetModeHeading:5381 -->
-  <String id="3650">ICESTORM</String>
+  <String id="3650">冰风暴</String>
   <!-- Bej3App::GetModeHeading:5387 -->
-  <String id="3215">MORE GAMES</String>
+  <String id="3215">更多游戏</String>
   <!-- Bej3App::DoMoreGamesDialog:5419 -->
-  <String id="3216">Oops! We were unable to detect an active Internet connection. Please check your network settings and try again later.</String>
+  <String id="3216">哎呀！我们无法检测到活跃的互联网连接。请检查您的网络设置并稍后再试。</String>
   <!-- Bej3App::DoMoreGamesDialog:5419 -->
-  <String id="3217">BACK</String>
+  <String id="3217">返回</String>
   <!-- Bej3App::DoMoreGamesDialog:5421 -->
-  <String id="3559">MAIN MENU</String>
+  <String id="3559">主菜单</String>
   <!-- Bej3App::DoMoreGamesDialog:5424 -->
   <!-- File:      Bej3Button.cpp -->
-  <String id="3218">OK</String>
+  <String id="3218">确定</String>
   <!-- Bej3Button::DrawHintOkButton:514 -->
-  <String id="3560">OK</String>
+  <String id="3560">确定</String>
   <!-- Bej3Button::DrawHintOkButton:541 -->
   <!-- File:      Bej3Expander.cpp -->
-  <String id="3219">OK</String>
+  <String id="3219">确定</String>
   <!-- Bej3Expander::ButtonDepress:134 -->
   <!-- File:      Board.cpp -->
-  <String id="3561">Good</String>
+  <String id="3561">好</String>
   <!-- Line 588 -->
-  <String id="3562">Excellent</String>
+  <String id="3562">优秀</String>
   <!-- Line 589 -->
-  <String id="3563">Awesome</String>
+  <String id="3563">太棒了</String>
   <!-- Line 590 -->
-  <String id="3564">Spectacular</String>
+  <String id="3564">壮观</String>
   <!-- Line 591 -->
-  <String id="3565">Extraordinary</String>
+  <String id="3565">非凡</String>
   <!-- Line 592 -->
-  <String id="3566">Unbelievable</String>
+  <String id="3566">难以置信</String>
   <!-- Line 593 -->
-  <String id="3567">Blazing Speed</String>
+  <String id="3567">极速</String>
   <!-- Line 594 -->
-  <String id="3220">HINT</String>
+  <String id="3220">提示</String>
   <!-- Board::InitUI:755 -->
-  <String id="3568">MENU</String>
+  <String id="3568">菜单</String>
   <!-- Board::InitUI:769 -->
-  <String id="541">LEVEL %d</String>
+  <String id="541">第%d关</String>
   <!-- Board::HyperspaceEvent:3130 -->
-  <String id="94">TIME UP</String>
+  <String id="94">时间到</String>
   <!-- Board::GameOverAnnounce:3277 -->
-  <String id="95">GAME OVER</String>
+  <String id="95">游戏结束</String>
   <!-- Board::GameOverAnnounce:3282 -->
-  <String id="96">FLAME GEM</String>
+  <String id="96">火焰宝石</String>
   <!-- Board::CheckForTutorialDialogs:8753 -->
-  <String id="3221">You made a FLAME GEM by matching 4 Gems in a row. Match it for an explosion!</String>
+  <String id="3221">您通过连续匹配4颗宝石创造了火焰宝石。匹配它会产生爆炸效果！</String>
   <!-- Board::CheckForTutorialDialogs:8754 -->
-  <String id="98">STAR GEM</String>
+  <String id="98">星星宝石</String>
   <!-- Board::CheckForTutorialDialogs:8757 -->
-  <String id="3222">You made a STAR GEM by creating two intersecting matches!</String>
+  <String id="3222">您通过创建两个相交的匹配创造了星星宝石！</String>
   <!-- Board::CheckForTutorialDialogs:8758 -->
-  <String id="100">HYPERCUBE</String>
+  <String id="100">超级立方体</String>
   <!-- Board::CheckForTutorialDialogs:8761 -->
-  <String id="3223">You made a HYPERCUBE by matching 5 Gems in a row. Swap it to trigger!</String>
+  <String id="3223">您通过连续匹配5颗宝石创造了超级立方体。交换它来触发效果！</String>
   <!-- Board::CheckForTutorialDialogs:8762 -->
-  <String id="102">SUPERNOVA GEM</String>
+  <String id="102">超新星宝石</String>
   <!-- Board::CheckForTutorialDialogs:8765 -->
-  <String id="3224">You made a SUPERNOVA GEM by matching 6+ Gems in a row. Match it to release the force of a million suns.&nbsp;</String>
+  <String id="3224">您通过连续匹配6颗或更多宝石创造了超新星宝石。匹配它将释放百万个太阳的力量。&nbsp;</String>
   <!-- Board::CheckForTutorialDialogs:8766 -->
-  <String id="104">MULTIPLIER GEM</String>
+  <String id="104">乘数宝石</String>
   <!-- Board::CheckForTutorialDialogs:8769 -->
-  <String id="3225">You have received a MULTIPLIER GEM! Match it to multiply your score for the rest of the game.</String>
+  <String id="3225">您获得了乘数宝石！匹配它可以在剩余游戏中乘以您的分数。</String>
   <!-- Board::CheckForTutorialDialogs:8770 -->
-  <String id="106">COIN</String>
+  <String id="106">硬币</String>
   <!-- Board::CheckForTutorialDialogs:8773 -->
-  <String id="3226">You have received a COIN! Collect them to buy Boosts to power you up!</String>
+  <String id="3226">您获得了硬币！收集它们以购买强化道具提升实力！</String>
   <!-- Board::CheckForTutorialDialogs:8774 -->
-  <String id="108">TIME BONUS</String>
+  <String id="108">时间奖励</String>
   <!-- Board::CheckForTutorialDialogs:8777 -->
-  <String id="3227">You have received a TIME GEM! Collect them to extend your game after the timer bar empties!</String>
+  <String id="3227">您获得了时间宝石！收集它们可以在计时器条耗尽后延长游戏时间！</String>
   <!-- Board::CheckForTutorialDialogs:8778 -->
-  <String id="110">VERTICAL MATCH</String>
+  <String id="110">垂直匹配</String>
   <!-- Board::CheckForTutorialDialogs:8781 -->
-  <String id="3228">Making a VERTICAL MATCH will destroy an ice column. Destroy more ice columns to increase your multiplier bonus!</String>
+  <String id="3228">进行垂直匹配会摧毁冰柱。摧毁更多冰柱来增加您的乘数奖励！</String>
   <!-- Board::CheckForTutorialDialogs:8782 -->
-  <String id="112">DARK ROCK</String>
+  <String id="112">暗岩</String>
   <!-- Board::CheckForTutorialDialogs:8785 -->
-  <String id="3229">Dark rocks can&apos;t be destroyed by normal matching. Use special Gems to destroy them!</String>
+  <String id="3229">暗岩无法通过普通匹配摧毁。请使用特殊宝石来摧毁它们！</String>
   <!-- Board::CheckForTutorialDialogs:8786 -->
-  <String id="3230">Poker skull</String>
+  <String id="3230">扑克头骨</String>
   <!-- Board::CheckForTutorialDialogs:8789 -->
-  <String id="3231">Destroy the skull by filling the skull bar!</String>
+  <String id="3231">通过填充头骨条来摧毁头骨！</String>
   <!-- Board::CheckForTutorialDialogs:8790 -->
-  <String id="3651">FLAME GEM</String>
+  <String id="3651">火焰宝石</String>
   <!-- Board::CheckForTutorialDialogs:8835 -->
-  <String id="3652">^9B1062^You made a ^F48D07^FLAME GEM^9B1062^ by matching 4 Gems in a row. Match it for an explosion!</String>
+  <String id="3652">^9B1062^您通过连续匹配4颗宝石创造了^F48D07^火焰宝石^9B1062^。匹配它会产生爆炸效果！</String>
   <!-- Board::CheckForTutorialDialogs:8836 -->
-  <String id="3653">STAR GEM</String>
+  <String id="3653">星星宝石</String>
   <!-- Board::CheckForTutorialDialogs:8839 -->
-  <String id="3654">^9B1062^You made a ^F48D07^STAR GEM^9B1062^ by creating two intersecting matches!</String>
+  <String id="3654">^9B1062^您通过创建两个相交的匹配创造了^F48D07^星星宝石^9B1062^！</String>
   <!-- Board::CheckForTutorialDialogs:8840 -->
-  <String id="3655">HYPERCUBE</String>
+  <String id="3655">超级立方体</String>
   <!-- Board::CheckForTutorialDialogs:8843 -->
-  <String id="3656">^9B1062^You made a ^F48D07^HYPERCUBE^9B1062^ by matching 5 Gems in a row. Swap it to trigger!</String>
+  <String id="3656">^9B1062^您通过连续匹配5颗宝石创造了^F48D07^超级立方体^9B1062^。交换它来触发效果！</String>
   <!-- Board::CheckForTutorialDialogs:8844 -->
-  <String id="3657">SUPERNOVA GEM</String>
+  <String id="3657">超新星宝石</String>
   <!-- Board::CheckForTutorialDialogs:8847 -->
-  <String id="3658">^9B1062^You made a ^F48D07^SUPERNOVA GEM^9B1062^ by matching 6+ Gems in a row. Match it to release the force of a million suns.&nbsp;</String>
+  <String id="3658">^9B1062^您通过连续匹配6颗或更多宝石创造了^F48D07^超新星宝石^9B1062^。匹配它将释放百万个太阳的力量。&nbsp;</String>
   <!-- Board::CheckForTutorialDialogs:8848 -->
-  <String id="3659">MULTIPLIER GEM</String>
+  <String id="3659">乘数宝石</String>
   <!-- Board::CheckForTutorialDialogs:8851 -->
-  <String id="3660">^9B1062^You have received a ^F48D07^MULTIPLIER GEM^9B1062^! Match it to multiply your score for the rest of the game.</String>
+  <String id="3660">^9B1062^您获得了^F48D07^乘数宝石^9B1062^！匹配它可以在剩余游戏中乘以您的分数。</String>
   <!-- Board::CheckForTutorialDialogs:8852 -->
-  <String id="3661">COIN</String>
+  <String id="3661">硬币</String>
   <!-- Board::CheckForTutorialDialogs:8855 -->
-  <String id="3662">^9B1062^You have received a ^F48D07^COIN^9B1062^! Collect them to buy Boosts to power you up!</String>
+  <String id="3662">^9B1062^您获得了^F48D07^硬币^9B1062^！收集它们以购买强化道具提升实力！</String>
   <!-- Board::CheckForTutorialDialogs:8856 -->
-  <String id="3663">TIME BONUS</String>
+  <String id="3663">时间奖励</String>
   <!-- Board::CheckForTutorialDialogs:8859 -->
-  <String id="3664">^9B1062^You have received a ^F48D07^TIME GEM^9B1062^! Collect them to extend your game after the timer bar empties!</String>
+  <String id="3664">^9B1062^您获得了^F48D07^时间宝石^9B1062^！收集它们可以在计时器条耗尽后延长游戏时间！</String>
   <!-- Board::CheckForTutorialDialogs:8860 -->
-  <String id="3665">VERTICAL MATCH</String>
+  <String id="3665">垂直匹配</String>
   <!-- Board::CheckForTutorialDialogs:8863 -->
-  <String id="3666">^9B1062^Making a ^F48D07^VERTICAL MATCH^9B1062^ will destroy an ice column. Destroy more ice columns to increase your multiplier bonus!</String>
+  <String id="3666">^9B1062^进行^F48D07^垂直匹配^9B1062^会摧毁冰柱。摧毁更多冰柱来增加您的乘数奖励！</String>
   <!-- Board::CheckForTutorialDialogs:8864 -->
-  <String id="3667">DARK ROCK</String>
+  <String id="3667">暗岩</String>
   <!-- Board::CheckForTutorialDialogs:8867 -->
-  <String id="3668">^9B1062^Dark rocks can&apos;t be destroyed by normal matching. Use special Gems to destroy them!</String>
+  <String id="3668">^9B1062^暗岩无法通过普通匹配摧毁。请使用特殊宝石来摧毁它们！</String>
   <!-- Board::CheckForTutorialDialogs:8868 -->
-  <String id="3669">Poker skull</String>
+  <String id="3669">扑克头骨</String>
   <!-- Board::CheckForTutorialDialogs:8871 -->
-  <String id="3670">^9B1062^Destroy the skull by filling the skull bar!</String>
+  <String id="3670">^9B1062^通过填充头骨条来摧毁头骨！</String>
   <!-- Board::CheckForTutorialDialogs:8872 -->
-  <String id="114">Illegal Move</String>
+  <String id="114">非法移动</String>
   <!-- Board::UpdateSwapping:9049 -->
-  <String id="115">Each swap must create a row of three or more identical gems.</String>
+  <String id="115">每一次交换必须形成至少三个相同宝石的行列。</String>
   <!-- Board::UpdateSwapping:9050 -->
-  <String id="116">OK</String>
+  <String id="116">确定</String>
   <!-- Board::UpdateSwapping:9050 -->
-  <String id="3671">CONTINUE</String>
+  <String id="3671">继续</String>
   <!-- Board::UpdateSwapping:9137 -->
-  <String id="117">SUPERNOVA GEM</String>
+  <String id="117">超新星宝石</String>
   <!-- Board::GetTooltipText:9734 -->
-  <String id="118">Created by matching 6+ Gems in a row, this powerful Gem explodes with the force of a million suns when matched.</String>
+  <String id="118">通过连续匹配6颗或更多宝石创造，这种强大的宝石在匹配时会释放百万个太阳的爆炸力量。</String>
   <!-- Board::GetTooltipText:9735 -->
-  <String id="119">FLAME GEM</String>
+  <String id="119">火焰宝石</String>
   <!-- Board::GetTooltipText:9739 -->
-  <String id="120">Created by forming 4 Gems of the same color in a line. Explodes when matched!</String>
+  <String id="120">通过将4颗相同颜色的宝石连成一线创造。匹配时会爆炸！</String>
   <!-- Board::GetTooltipText:9740 -->
-  <String id="121">STAR GEM</String>
+  <String id="121">星星宝石</String>
   <!-- Board::GetTooltipText:9746 -->
-  <String id="122">Created by making two intersecting matches. Match it to fire lightning 4 ways!</String>
+  <String id="122">通过创建两个相交的匹配创造。匹配它会向四个方向发射闪电！</String>
   <!-- Board::GetTooltipText:9747 -->
-  <String id="123">HYPERCUBE</String>
+  <String id="123">超级立方体</String>
   <!-- Board::GetTooltipText:9752 -->
-  <String id="124">Created by matching 5 Gems in a line. Swap it with a Gem to zap all Gems of the same color onscreen.</String>
+  <String id="124">通过将5颗宝石连成一线创造。将它与任意宝石交换可消除屏幕上所有相同颜色的宝石。</String>
   <!-- Board::GetTooltipText:9753 -->
-  <String id="125">MULTIPLIER GEM</String>
+  <String id="125">乘数宝石</String>
   <!-- Board::GetTooltipText:9758 -->
-  <String id="126">Randomly drops onto your board. Match it to increase your score multiplier by 1!</String>
+  <String id="126">随机掉落到您的棋盘上。匹配它可将您的分数乘数加1！</String>
   <!-- Board::GetTooltipText:9759 -->
-  <String id="127">DETONATOR</String>
+  <String id="127">引爆器</String>
   <!-- Board::GetTooltipText:9764 -->
   <String id="128">Click to detonate all Special Gems on the board.</String>
   <!-- Board::GetTooltipText:9765 -->
