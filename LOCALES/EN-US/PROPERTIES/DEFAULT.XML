@@ -488,7 +488,7 @@
   <!-- Bej3App::GetModeHint:5109 -->
   <String id="3206">通过宝石匹配组成扑克牌型，在运气耗尽前获得高分！</String>
   <!-- Bej3App::GetModeHint:5114 -->
-  <String id="3207">Ice storm description goes here</String>
+  <String id="3207">这是冰风暴描述。</String>
   <!-- Bej3App::GetModeHint:5119 -->
   <String id="3208">经典</String>
   <!-- Bej3App::GetModeHeading:5133 -->
