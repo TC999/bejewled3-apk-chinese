@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Properties>
+  <!-- AUTOGEN: Wonka | C:\temp\delta\us | Mon Jun 18 14:39:52 2012 | out:full merged -->
+  <!-- File:      AboutMenu.cpp -->
+  <String id="3521">ABOUT</String>
+  <!-- Line 47 -->
+  <String id="3522">ABOUT</String>
+  <!-- Line 50 -->
+  <String id="3523">Bejeweled© 2018 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</String>
+  <!-- Line 61 -->
+  <String id="3075">For Support visit us at:</String>
+  <!-- Line 109 -->
+  <String id="3076">www.popcap.com/help.php</String>
+  <!-- Line 127 -->
+  <String id="3077">Version:</String>
+  <!-- Line 137 -->
+  <String id="3524">BACK</String>
+  <!-- Line 149 -->
+  <String id="3525">Version %s</String>
+  <!-- Line 156 -->
+  <String id="3526"></String>
+  <!-- Line 173 -->
+  <String id="3078">BACK</String>
+  <!-- Line 178 -->
+  <String id="3527">END USER LICENSE AGREEMENT</String>
+  <!-- Line 195 -->
+  <String id="3528">TERMS OF SERVICE</String>
+  <!-- Line 207 -->
+  <String id="3529">PRIVACY AND COOKIE POLICY</String>
+  <!-- Line 219 -->
+  <String id="3530">USER SHARING</String>
+  <!-- AboutMenu::LinkUpAssets:256 -->
+  <String id="3531">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <!-- AboutMenu::LinkUpAssets:260 -->
+  <String id="3532">If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</String>
+  <!-- AboutMenu::LinkUpAssets:264 -->
+  <String id="3533">http://tos.ea.com/legalapp/mobileeula/US/en/GM/</String>
+  <!-- AboutMenu::ButtonDepress:359 -->
+  <String id="3534">http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</String>
+  <!-- AboutMenu::ButtonDepress:365 -->
+  <String id="3535">http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</String>
+  <!-- AboutMenu::ButtonDepress:371 -->
+  <!-- File:      Badge.cpp -->
+  <String id="0">&nbsp;&nbsp;(%i/%i)</String>
+  <!-- Badge::GetProgressString:79 -->
+  <String id="3079">^FF6600^Bronze^FFFFFF^</String>
+  <!-- Badge::GetBadgeLevelName:104 -->
+  <String id="3080">^EEEEEE^Silver^FFFFFF^</String>
+  <!-- Badge::GetBadgeLevelName:105 -->
+  <String id="3081">^FFEE00^Gold^FFFFFF^</String>
+  <!-- Badge::GetBadgeLevelName:106 -->
+  <String id="3082">^66BBFF^Platinum^FFFFFF^</String>
+  <!-- Badge::GetBadgeLevelName:107 -->
+  <String id="5">For clearing %s Flame Gems</String>
+  <!-- InfernoBadge::GetAwardString:163 -->
+  <String id="6">Clear %s Flame Gems to earn a %s badge</String>
+  <!-- InfernoBadge::GetNextLevelString:168 -->
+  <String id="7">Cleared %s Flame Gems&cr;^FFFF00^MAX LEVEL</String>
+  <!-- InfernoBadge::GetMaxLevelString:173 -->
+  <String id="8">For clearing %s Star Gems</String>
+  <!-- StellarBadge::GetAwardString:194 -->
+  <String id="9">Clear %s Star Gems to earn a %s badge</String>
+  <!-- StellarBadge::GetNextLevelString:199 -->
+  <String id="10">Cleared %s Star Gems&cr;^FFFF00^MAX LEVEL</String>
+  <!-- StellarBadge::GetMaxLevelString:204 -->
+  <String id="11">For clearing %s Hypercubes</String>
+  <!-- ChromaticBadge::GetAwardString:225 -->
+  <String id="12">Clear %s Hypercubes to earn a %s badge</String>
+  <!-- ChromaticBadge::GetNextLevelString:230 -->
+  <String id="13">Cleared %s Hypercubes&cr;^FFFF00^MAX LEVEL</String>
+  <!-- ChromaticBadge::GetMaxLevelString:235 -->
+  <String id="14">For destroying %s Gems in a single move</String>
+  <!-- BlasterBadge::GetAwardString:266 -->
+  <String id="15">Destroy %s Gems in a single move to earn a %s badge</String>
+  <!-- BlasterBadge::GetNextLevelString:271 -->
+  <String id="16">Destroyed %s Gems in a single move&cr;^FFFF00^MAX LEVEL</String>
+  <!-- BlasterBadge::GetMaxLevelString:276 -->
+  <String id="17">For scoring over %s points in a Classic game</String>
+  <!-- ClassicScoreBadge::GetAwardString:307 -->
+  <String id="18">Finish a Classic game with a score over %s to earn a %s badge</String>
+  <!-- ClassicScoreBadge::GetNextLevelString:312 -->
+  <String id="19">Finished a Classic game with a score over %s&cr;^FFFF00^MAX LEVEL</String>
+  <!-- ClassicScoreBadge::GetMaxLevelString:317 -->
+  <String id="20">For scoring over %s points during a Last Hurrah in Lightning Mode</String>
+  <!-- FinalFrenzyBadge::GetAwardString:350 -->
+  <String id="21">Score over %s points during a Last Hurrah in Lightning Mode to earn a %s badge</String>
+  <!-- FinalFrenzyBadge::GetNextLevelString:355 -->
+  <String id="22">Scored over %s points during a Last Hurrah in Lightning Mode&cr;^FFFF00^MAX LEVEL</String>
+  <!-- FinalFrenzyBadge::GetMaxLevelString:360 -->
+  <String id="23">For scoring %s points in Lightning Mode</String>
+  <!-- LightningScoreBadge::GetAwardString:391 -->
+  <String id="24">Score %s points in Lightning Mode to earn a %s badge</String>
+  <!-- LightningScoreBadge::GetNextLevelString:396 -->
+  <String id="25">Scored %s points in Lightning Mode&cr;^FFFF00^MAX LEVEL</String>
+  <!-- LightningScoreBadge::GetMaxLevelString:401 -->
+  <String id="3536"></String>
+  <!-- TempBadge::GetAwardString:424 -->
+  <String id="3537"></String>
+  <!-- TempBadge::GetNextLevelString:429 -->
+  <String id="3538">We&apos;re busy crafting new badges</String>
+  <!-- TempBadge::GetMaxLevelString:434 -->
+  <String id="3539">For finishing 3 games in a row over %s points</String>
+  <!-- LuckyStreakBadge::GetAwardString:466 -->
+  <String id="3540">Finish 3 games in a row over %s points to earn a %s badge</String>
+  <!-- LuckyStreakBadge::GetNextLevelString:471 -->
+  <String id="3541">Finished 3 games in a row over %s points&cr;^FFFF00^MAX LEVEL</String>
+  <!-- LuckyStreakBadge::GetMaxLevelString:476 -->
+  <String id="3542">For detonating %s special gems in a single move</String>
+  <!-- ChainReactionBadge::GetAwardString:508 -->
+  <String id="3543">Detonate %s special gems in a single move to earn a %s badge</String>
+  <!-- ChainReactionBadge::GetNextLevelString:513 -->
+  <String id="3544">Detonated %s special gems in a single move&cr;^FFFF00^MAX LEVEL</String>
+  <!-- ChainReactionBadge::GetMaxLevelString:518 -->
+  <String id="3545">For making %s matches during a cascade</String>
+  <!-- DynamoBadge::GetAwardString:550 -->
+  <String id="3546">Make %s matches during a cascade to earn a %s badge</String>
+  <!-- DynamoBadge::GetNextLevelString:555 -->
+  <String id="3547">Made %s matches during a cascade&cr;^FFFF00^MAX LEVEL</String>
+  <!-- DynamoBadge::GetMaxLevelString:560 -->
+  <String id="26">For getting %s Flushes in Poker</String>
+  <!-- PokerFlushesBadge::GetAwardString:592 -->
+  <String id="27">Get %s Flushes in Poker to earn a %s badge</String>
+  <!-- PokerFlushesBadge::GetNextLevelString:597 -->
+  <String id="28">Got %s Flushes in Poker&cr;^FFFF00^MAX LEVEL</String>
+  <!-- PokerFlushesBadge::GetMaxLevelString:602 -->
+  <String id="29">For scoring %s points in Poker</String>
+  <!-- PokerScoreBadge::GetAwardString:633 -->
+  <String id="30">Score %s points in Poker to earn a %s badge</String>
+  <!-- PokerScoreBadge::GetNextLevelString:638 -->
+  <String id="31">Scored %s points in Poker&cr;^FFFF00^MAX LEVEL</String>
+  <!-- PokerScoreBadge::GetMaxLevelString:643 -->
+  <String id="32">For scoring %s points in Ice Storm</String>
+  <!-- IceStormScoreBadge::GetAwardString:676 -->
+  <String id="33">Score %s points in Ice Storm to earn a %s badge</String>
+  <!-- IceStormScoreBadge::GetNextLevelString:681 -->
+  <String id="34">Scored %s points in Ice Storm&cr;^FFFF00^MAX LEVEL</String>
+  <!-- IceStormScoreBadge::GetMaxLevelString:686 -->
+  <String id="35">For getting a x%s Column Combo in Ice Storm</String>
+  <!-- IceStormColComboBadge::GetAwardString:717 -->
+  <String id="36">Get a x%s Column Combo in Ice Storm to earn a %s badge</String>
+  <!-- IceStormColComboBadge::GetNextLevelString:722 -->
+  <String id="37">Got a x%s Column Combo in Ice Storm &cr;^FFFF00^MAX LEVEL</String>
+  <!-- IceStormColComboBadge::GetMaxLevelString:727 -->
+  <String id="38">For scoring %s points in Diamond Mine</String>
+  <!-- DiamondMineScoreBadge::GetAwardString:759 -->
+  <String id="39">Score %s points in Diamond Mine to earn a %s badge</String>
+  <!-- DiamondMineScoreBadge::GetNextLevelString:764 -->
+  <String id="40">Scored %s points in Diamond Mine&cr;^FFFF00^MAX LEVEL</String>
+  <!-- DiamondMineScoreBadge::GetMaxLevelString:769 -->
+  <String id="41">For collecting %s artifacts in Diamond Mine</String>
+  <!-- DiamondMineArtifactsBadge::GetAwardString:800 -->
+  <String id="42">Collect %s artifacts in Diamond Mine to earn a %s badge</String>
+  <!-- DiamondMineArtifactsBadge::GetNextLevelString:805 -->
+  <String id="43">Collected %s artifacts in Diamond Mine&cr;^FFFF00^MAX LEVEL</String>
+  <!-- DiamondMineArtifactsBadge::GetMaxLevelString:810 -->
+  <String id="44">For scoring %s points in Butterflies</String>
+  <!-- ButterfliesScoreBadge::GetAwardString:842 -->
+  <String id="45">Score %s points in Butterflies to earn a %s badge</String>
+  <!-- ButterfliesScoreBadge::GetNextLevelString:847 -->
+  <String id="46">Scored %s points in Butterflies&cr;^FFFF00^MAX LEVEL</String>
+  <!-- ButterfliesScoreBadge::GetMaxLevelString:852 -->
+  <String id="47">For collecting %s butterflies in one move</String>
+  <!-- ButterfliesBigMoveBadge::GetAwardString:883 -->
+  <String id="48">Collect %s butterflies in one move to earn a %s badge</String>
+  <!-- ButterfliesBigMoveBadge::GetNextLevelString:888 -->
+  <String id="49">Collected %s butterflies in one move&cr;^FFFF00^MAX LEVEL</String>
+  <!-- ButterfliesBigMoveBadge::GetMaxLevelString:893 -->
+  <String id="50">For completing Quest Mode</String>
+  <!-- QuestModeFinishedBadge::GetAwardString:924 -->
+  <String id="51">Complete Quest Mode to earn the badge</String>
+  <!-- QuestModeFinishedBadge::GetNextLevelString:929 -->
+  <String id="52">Completed Quest Mode</String>
+  <!-- QuestModeFinishedBadge::GetMaxLevelString:934 -->
+  <String id="53">For matching two Hypercubes together</String>
+  <!-- HypercubeAnnihilationBadge::GetAwardString:960 -->
+  <String id="54">Match two Hypercubes together to earn the badge</String>
+  <!-- HypercubeAnnihilationBadge::GetNextLevelString:965 -->
+  <String id="55">Matched two Hypercubes together</String>
+  <!-- HypercubeAnnihilationBadge::GetMaxLevelString:970 -->
+  <String id="56">For reaching level %s in Classic Mode</String>
+  <!-- ClassicLevelBadge::GetAwardString:1001 -->
+  <String id="57">Reach level %s in Classic Mode to earn the badge</String>
+  <!-- ClassicLevelBadge::GetNextLevelString:1006 -->
+  <String id="58">Reached level %s in Classic Mode</String>
+  <!-- ClassicLevelBadge::GetMaxLevelString:1011 -->
+  <String id="59">For creating a Supernova Gem</String>
+  <!-- SupernovaBadge::GetAwardString:1037 -->
+  <String id="60">Line up 6 Gems in a row to earn the badge</String>
+  <!-- SupernovaBadge::GetNextLevelString:1042 -->
+  <String id="61">Created a Supernova Gem</String>
+  <!-- SupernovaBadge::GetMaxLevelString:1047 -->
+  <String id="3548">For collecting one million gems</String>
+  <!-- MillionaireBadge::GetAwardString:1074 -->
+  <String id="3549">Collect one million gems to earn this badge</String>
+  <!-- MillionaireBadge::GetNextLevelString:1079 -->
+  <String id="3550">Collected one million gems</String>
+  <!-- MillionaireBadge::GetMaxLevelString:1084 -->
+  <String id="66">For getting the high score in all secret games</String>
+  <!-- SecretHighScoreBadge::GetAwardString:1120 -->
+  <String id="67">Get the high score in all secret games to earn the badge</String>
+  <!-- SecretHighScoreBadge::GetNextLevelString:1125 -->
+  <String id="68">Got the highest score in all secret games</String>
+  <!-- SecretHighScoreBadge::GetMaxLevelString:1130 -->
+  <!-- File:      BadgeAwardDialog.cpp -->
+  <String id="69">CLOSE</String>
+  <!-- Line 24 -->
+  <String id="70">BADGES</String>
+  <!-- BadgeAwardDialog::Draw:55 -->
+  <!-- File:      BadgeMenu.cpp -->
+  <String id="3083">BADGES</String>
+  <!-- Line 78 -->
+  <String id="3084">Elite Badges</String>
+  <!-- Line 86 -->
+  <String id="3487">CLOSE</String>
+  <!-- Line 123 -->
+  <String id="3551">OK</String>
+  <!-- Line 128 -->
+  <String id="3641">CONTINUE</String>
+  <!-- Line 148 -->
+  <String id="3552">Swipe for more badges</String>
+  <!-- Line 173 -->
+  <String id="3488">You have earned the</String>
+  <!-- BadgeMenu::DrawOverlay:603 -->
+  <String id="3088">CONTINUE</String>
+  <!-- BadgeMenu::SetMode:1442 -->
+  <String id="3089">BACK</String>
+  <!-- BadgeMenu::SetMode:1444 -->
+  <String id="3090">BACK</String>
+  <!-- BadgeMenu::SetMode:1481 -->
+  <String id="3553">Elite</String>
+  <!-- BadgeMenu::Fade:1588 -->
+  <String id="3642">ELITE</String>
+  <!-- BadgeMenu::Fade:1868 -->
+  <!-- File:      BadgeWidget.cpp -->
+  <String id="72">You have earned the</String>
+  <!-- BadgeWidget::Draw:291 -->
+  <!-- File:      Bej3Achievements.cpp -->
+  <String id="3091">Inferno (Bronze)</String>
+  <!-- Bej3App::InitAchievements:17 -->
+  <String id="3092">Clear 50 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:17 -->
+  <String id="3093">Cleared 50 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:17 -->
+  <String id="3094">Inferno (Silver)</String>
+  <!-- Bej3App::InitAchievements:18 -->
+  <String id="3095">Clear 350 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:18 -->
+  <String id="3096">Cleared 350 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:18 -->
+  <String id="3097">Inferno (Gold)</String>
+  <!-- Bej3App::InitAchievements:19 -->
+  <String id="3098">Clear 1,000 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:19 -->
+  <String id="3099">Cleared 1,000 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:19 -->
+  <String id="3100">Inferno (Platinum)</String>
+  <!-- Bej3App::InitAchievements:20 -->
+  <String id="3101">Clear 2,000 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:20 -->
+  <String id="3102">Cleared 2,000 Flame Gems</String>
+  <!-- Bej3App::InitAchievements:20 -->
+  <String id="3103">Stellar (Bronze)</String>
+  <!-- Bej3App::InitAchievements:22 -->
+  <String id="3104">Clear 25 Star Gems</String>
+  <!-- Bej3App::InitAchievements:22 -->
+  <String id="3105">Cleared 25 Star Gems</String>
+  <!-- Bej3App::InitAchievements:22 -->
+  <String id="3106">Stellar (Silver)</String>
+  <!-- Bej3App::InitAchievements:23 -->
+  <String id="3107">Clear 125 Star Gems</String>
+  <!-- Bej3App::InitAchievements:23 -->
+  <String id="3108">Cleared 125 Star Gems</String>
+  <!-- Bej3App::InitAchievements:23 -->
+  <String id="3109">Stellar (Gold)</String>
+  <!-- Bej3App::InitAchievements:24 -->
+  <String id="3110">Clear 400 Star Gems</String>
+  <!-- Bej3App::InitAchievements:24 -->
+  <String id="3111">Cleared 400 Star Gems</String>
+  <!-- Bej3App::InitAchievements:24 -->
+  <String id="3112">Stellar (Platinum)</String>
+  <!-- Bej3App::InitAchievements:25 -->
+  <String id="3113">Clear 750 Star Gems</String>
+  <!-- Bej3App::InitAchievements:25 -->
+  <String id="3114">Cleared 750 Star Gems</String>
+  <!-- Bej3App::InitAchievements:25 -->
+  <String id="3115">Chromatic (Bronze)</String>
+  <!-- Bej3App::InitAchievements:27 -->
+  <String id="3116">Clear 25 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:27 -->
+  <String id="3117">Cleared 25 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:27 -->
+  <String id="3118">Chromatic (Silver)</String>
+  <!-- Bej3App::InitAchievements:28 -->
+  <String id="3119">Clear 125 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:28 -->
+  <String id="3120">Cleared 125 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:28 -->
+  <String id="3121">Chromatic (Gold)</String>
+  <!-- Bej3App::InitAchievements:29 -->
+  <String id="3122">Clear 400 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:29 -->
+  <String id="3123">Cleared 400 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:29 -->
+  <String id="3124">Chromatic (Platinum)</String>
+  <!-- Bej3App::InitAchievements:30 -->
+  <String id="3125">Clear 750 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:30 -->
+  <String id="3126">Cleared 750 Hypercubes</String>
+  <!-- Bej3App::InitAchievements:30 -->
+  <String id="3127">Blaster (Bronze)</String>
+  <!-- Bej3App::InitAchievements:32 -->
+  <String id="3128">Destroy 30 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:32 -->
+  <String id="3129">Destroyed 30 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:32 -->
+  <String id="3130">Blaster (Silver)</String>
+  <!-- Bej3App::InitAchievements:33 -->
+  <String id="3131">Destroy 40 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:33 -->
+  <String id="3132">Destroyed 40 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:33 -->
+  <String id="3133">Blaster (Gold)</String>
+  <!-- Bej3App::InitAchievements:34 -->
+  <String id="3134">Destroy 50 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:34 -->
+  <String id="3135">Destroyed 50 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:34 -->
+  <String id="3136">Blaster (Platinum)</String>
+  <!-- Bej3App::InitAchievements:35 -->
+  <String id="3137">Destroy 60 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:35 -->
+  <String id="3138">Destroyed 60 Gems in a single move</String>
+  <!-- Bej3App::InitAchievements:35 -->
+  <String id="3139">Bejeweler (Bronze)</String>
+  <!-- Bej3App::InitAchievements:37 -->
+  <String id="3140">Finish a Classic game with a score over 50,000</String>
+  <!-- Bej3App::InitAchievements:37 -->
+  <String id="3141">Finished a Classic game with a score over 50,000</String>
+  <!-- Bej3App::InitAchievements:37 -->
+  <String id="3142">Bejeweler (Silver)</String>
+  <!-- Bej3App::InitAchievements:38 -->
+  <String id="3143">Finish a Classic game with a score over 150,000</String>
+  <!-- Bej3App::InitAchievements:38 -->
+  <String id="3144">Finished a Classic game with a score over 150,000</String>
+  <!-- Bej3App::InitAchievements:38 -->
+  <String id="3145">Bejeweler (Gold)</String>
+  <!-- Bej3App::InitAchievements:39 -->
+  <String id="3146">Finish a Classic game with a score over 300,000</String>
+  <!-- Bej3App::InitAchievements:39 -->
+  <String id="3147">Finished a Classic game with a score over 300,000</String>
+  <!-- Bej3App::InitAchievements:39 -->
+  <String id="3148">Bejeweler (Platinum)</String>
+  <!-- Bej3App::InitAchievements:40 -->
+  <String id="3149">Finish a Classic game with a score over 500,000</String>
+  <!-- Bej3App::InitAchievements:40 -->
+  <String id="3150">Finished a Classic game with a score over 500,000</String>
+  <!-- Bej3App::InitAchievements:40 -->
+  <String id="3151">Diamond, Mine (Bronze)</String>
+  <!-- Bej3App::InitAchievements:42 -->
+  <String id="3152">Score 100,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:42 -->
+  <String id="3153">Scored 100,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:42 -->
+  <String id="3154">Diamond, Mine (Silver)</String>
+  <!-- Bej3App::InitAchievements:43 -->
+  <String id="3155">Score 300,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:43 -->
+  <String id="3156">Scored 300,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:43 -->
+  <String id="3157">Diamond, Mine (Gold)</String>
+  <!-- Bej3App::InitAchievements:44 -->
+  <String id="3158">Score 500,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:44 -->
+  <String id="3159">Scored 500,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:44 -->
+  <String id="3160">Diamond, Mine (Platinum)</String>
+  <!-- Bej3App::InitAchievements:45 -->
+  <String id="3161">Score 750,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:45 -->
+  <String id="3162">Scored 750,000 points in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:45 -->
+  <String id="3163">Relic Hunter (Bronze)</String>
+  <!-- Bej3App::InitAchievements:47 -->
+  <String id="3164">Collect 5 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:47 -->
+  <String id="3165">Collected 5 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:47 -->
+  <String id="3166">Relic Hunter (Silver)</String>
+  <!-- Bej3App::InitAchievements:48 -->
+  <String id="3167">Collect 8 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:48 -->
+  <String id="3168">Collected 8 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:48 -->
+  <String id="3169">Relic Hunter (Gold)</String>
+  <!-- Bej3App::InitAchievements:49 -->
+  <String id="3170">Collect 12 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:49 -->
+  <String id="3171">Collected 12 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:49 -->
+  <String id="3172">Relic Hunter (Platinum)</String>
+  <!-- Bej3App::InitAchievements:50 -->
+  <String id="3173">Collect 15 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:50 -->
+  <String id="3174">Collected 15 artifacts in Diamond Mine</String>
+  <!-- Bej3App::InitAchievements:50 -->
+  <String id="3175">Annihilator</String>
+  <!-- Bej3App::InitAchievements:52 -->
+  <String id="3176">Match two Hypercubes together</String>
+  <!-- Bej3App::InitAchievements:52 -->
+  <String id="3177">Matched two Hypercubes together</String>
+  <!-- Bej3App::InitAchievements:52 -->
+  <String id="3178">Superstar</String>
+  <!-- Bej3App::InitAchievements:53 -->
+  <String id="3179">Line up 6 Gems in a row</String>
+  <!-- Bej3App::InitAchievements:53 -->
+  <String id="3180">Created a Supernova Gem</String>
+  <!-- Bej3App::InitAchievements:53 -->
+  <String id="3181">Levelord</String>
+  <!-- Bej3App::InitAchievements:54 -->
+  <String id="3182">Reach level 10 in Classic Mode</String>
+  <!-- Bej3App::InitAchievements:54 -->
+  <String id="3183">Reached level 10 in Classic Mode</String>
+  <!-- Bej3App::InitAchievements:54 -->
+  <!-- File:      Bej3App.cpp -->
+  <String id="73">QUIT</String>
+  <!-- Bej3App::AskQuit:1291 -->
+  <String id="74">Do you want to quit Bejeweled 3?</String>
+  <!-- Bej3App::AskQuit:1291 -->
+  <String id="3184">Resume a saved game or start a new one? Your saved game will be lost if you start a new one.</String>
+  <!-- Bej3App::DoSavedGameCheck:1320 -->
+  <String id="3185">RESUME GAME</String>
+  <!-- Bej3App::DoSavedGameCheck:1325 -->
+  <String id="3186">NEW GAME</String>
+  <!-- Bej3App::DoSavedGameCheck:1327 -->
+  <String id="3187">CANCEL</String>
+  <!-- Bej3App::DoSavedGameCheck:1330 -->
+  <String id="3643">RESUME GAME?</String>
+  <!-- Bej3App::DoSavedGameCheck:1341 -->
+  <String id="3188">LAUNCH BEJEWELED BLITZ?</String>
+  <!-- Bej3App::GoToBlitz:1992 -->
+  <String id="3189">Minimize Bejeweled and launch Bejeweled Blitz?</String>
+  <!-- Bej3App::GoToBlitz:1993 -->
+  <String id="3190">LAUNCH BLITZ</String>
+  <!-- Bej3App::GoToBlitz:2003 -->
+  <String id="3191">CANCEL</String>
+  <!-- Bej3App::GoToBlitz:2004 -->
+  <String id="3192">GET BEJEWELED BLITZ FOR FREE?</String>
+  <!-- Bej3App::GoToBlitz:2026 -->
+  <String id="3193">Minimize Bejeweled and go to the Play Store to get Bejeweled Blitz for FREE?</String>
+  <!-- Bej3App::GoToBlitz:2027 -->
+  <String id="3194">GET BLITZ!</String>
+  <!-- Bej3App::GoToBlitz:2037 -->
+  <String id="3195">CANCEL</String>
+  <!-- Bej3App::GoToBlitz:2038 -->
+  <String id="3196">VISIT WEBSITE?</String>
+  <!-- Bej3App::OpenURLWithWarning:3349 -->
+  <String id="3197">Minimize Bejeweled and go to external website?</String>
+  <!-- Bej3App::OpenURLWithWarning:3350 -->
+  <String id="3198">VISIT WEBSITE</String>
+  <!-- Bej3App::OpenURLWithWarning:3356 -->
+  <String id="3199">CANCEL</String>
+  <!-- Bej3App::OpenURLWithWarning:3357 -->
+  <String id="3200">You must enter a valid name!</String>
+  <!-- Bej3App::DialogButtonDepress:4224 -->
+  <String id="86">DELETE USER?</String>
+  <!-- Bej3App::DialogButtonDepress:4275 -->
+  <String id="87">Are you sure you want to delete user&cr;&apos;%s&apos;</String>
+  <!-- Bej3App::DialogButtonDepress:4275 -->
+  <String id="3201">You must enter a valid name!</String>
+  <!-- Bej3App::ChangeProfileName:4520 -->
+  <String id="584">Poker</String>
+  <!-- Bej3App::UnlockEndlessMode:4634 -->
+  <String id="585">Butterflies</String>
+  <!-- Bej3App::UnlockEndlessMode:4635 -->
+  <String id="586">Ice Storm</String>
+  <!-- Bej3App::UnlockEndlessMode:4636 -->
+  <String id="587">Diamond Mine</String>
+  <!-- Bej3App::UnlockEndlessMode:4637 -->
+  <String id="3554">Score as many points as possible until there are no more moves.</String>
+  <!-- Bej3App::GetModeHint:5087 -->
+  <String id="3555">Score as many points as you can before the time runs out.</String>
+  <!-- Bej3App::GetModeHint:5092 -->
+  <String id="3556">Relax body and mind in this endless mode.</String>
+  <!-- Bej3App::GetModeHint:5096 -->
+  <String id="3557">Score as many points as possible until there are no more moves.</String>
+  <!-- Bej3App::GetModeHint:5102 -->
+  <String id="3558">Score as many points as you can before a Butterfly Gem reaches the top.</String>
+  <!-- Bej3App::GetModeHint:5109 -->
+  <String id="3206">Make poker hands with gem matches to earn a high score before your luck runs out!</String>
+  <!-- Bej3App::GetModeHint:5114 -->
+  <String id="3207">Ice storm description goes here</String>
+  <!-- Bej3App::GetModeHint:5119 -->
+  <String id="3208">CLASSIC</String>
+  <!-- Bej3App::GetModeHeading:5133 -->
+  <String id="3209">ZEN</String>
+  <!-- Bej3App::GetModeHeading:5137 -->
+  <String id="3210">DIAMOND MINE</String>
+  <!-- Bej3App::GetModeHeading:5141 -->
+  <String id="3211">LIGHTNING</String>
+  <!-- Bej3App::GetModeHeading:5146 -->
+  <String id="3212">BUTTERFLIES</String>
+  <!-- Bej3App::GetModeHeading:5151 -->
+  <String id="3213">POKER</String>
+  <!-- Bej3App::GetModeHeading:5156 -->
+  <String id="3214">ICESTORM</String>
+  <!-- Bej3App::GetModeHeading:5161 -->
+  <String id="3644">CLASSIC</String>
+  <!-- Bej3App::GetModeHeading:5353 -->
+  <String id="3645">ZEN</String>
+  <!-- Bej3App::GetModeHeading:5358 -->
+  <String id="3646">DIAMOND MINE</String>
+  <!-- Bej3App::GetModeHeading:5363 -->
+  <String id="3647">LIGHTNING</String>
+  <!-- Bej3App::GetModeHeading:5369 -->
+  <String id="3648">BUTTERFLIES</String>
+  <!-- Bej3App::GetModeHeading:5375 -->
+  <String id="3649">POKER</String>
+  <!-- Bej3App::GetModeHeading:5381 -->
+  <String id="3650">ICESTORM</String>
+  <!-- Bej3App::GetModeHeading:5387 -->
+  <String id="3215">MORE GAMES</String>
+  <!-- Bej3App::DoMoreGamesDialog:5419 -->
+  <String id="3216">Oops! We were unable to detect an active Internet connection. Please check your network settings and try again later.</String>
+  <!-- Bej3App::DoMoreGamesDialog:5419 -->
+  <String id="3217">BACK</String>
+  <!-- Bej3App::DoMoreGamesDialog:5421 -->
+  <String id="3559">MAIN MENU</String>
+  <!-- Bej3App::DoMoreGamesDialog:5424 -->
+  <!-- File:      Bej3Button.cpp -->
+  <String id="3218">OK</String>
+  <!-- Bej3Button::DrawHintOkButton:514 -->
+  <String id="3560">OK</String>
+  <!-- Bej3Button::DrawHintOkButton:541 -->
+  <!-- File:      Bej3Expander.cpp -->
+  <String id="3219">OK</String>
+  <!-- Bej3Expander::ButtonDepress:134 -->
+  <!-- File:      Board.cpp -->
+  <String id="3561">Good</String>
+  <!-- Line 588 -->
+  <String id="3562">Excellent</String>
+  <!-- Line 589 -->
+  <String id="3563">Awesome</String>
+  <!-- Line 590 -->
+  <String id="3564">Spectacular</String>
+  <!-- Line 591 -->
+  <String id="3565">Extraordinary</String>
+  <!-- Line 592 -->
+  <String id="3566">Unbelievable</String>
+  <!-- Line 593 -->
+  <String id="3567">Blazing Speed</String>
+  <!-- Line 594 -->
+  <String id="3220">HINT</String>
+  <!-- Board::InitUI:755 -->
+  <String id="3568">MENU</String>
+  <!-- Board::InitUI:769 -->
+  <String id="541">LEVEL %d</String>
+  <!-- Board::HyperspaceEvent:3130 -->
+  <String id="94">TIME UP</String>
+  <!-- Board::GameOverAnnounce:3277 -->
+  <String id="95">GAME OVER</String>
+  <!-- Board::GameOverAnnounce:3282 -->
+  <String id="96">FLAME GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8753 -->
+  <String id="3221">You made a FLAME GEM by matching 4 Gems in a row. Match it for an explosion!</String>
+  <!-- Board::CheckForTutorialDialogs:8754 -->
+  <String id="98">STAR GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8757 -->
+  <String id="3222">You made a STAR GEM by creating two intersecting matches!</String>
+  <!-- Board::CheckForTutorialDialogs:8758 -->
+  <String id="100">HYPERCUBE</String>
+  <!-- Board::CheckForTutorialDialogs:8761 -->
+  <String id="3223">You made a HYPERCUBE by matching 5 Gems in a row. Swap it to trigger!</String>
+  <!-- Board::CheckForTutorialDialogs:8762 -->
+  <String id="102">SUPERNOVA GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8765 -->
+  <String id="3224">You made a SUPERNOVA GEM by matching 6+ Gems in a row. Match it to release the force of a million suns.&nbsp;</String>
+  <!-- Board::CheckForTutorialDialogs:8766 -->
+  <String id="104">MULTIPLIER GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8769 -->
+  <String id="3225">You have received a MULTIPLIER GEM! Match it to multiply your score for the rest of the game.</String>
+  <!-- Board::CheckForTutorialDialogs:8770 -->
+  <String id="106">COIN</String>
+  <!-- Board::CheckForTutorialDialogs:8773 -->
+  <String id="3226">You have received a COIN! Collect them to buy Boosts to power you up!</String>
+  <!-- Board::CheckForTutorialDialogs:8774 -->
+  <String id="108">TIME BONUS</String>
+  <!-- Board::CheckForTutorialDialogs:8777 -->
+  <String id="3227">You have received a TIME GEM! Collect them to extend your game after the timer bar empties!</String>
+  <!-- Board::CheckForTutorialDialogs:8778 -->
+  <String id="110">VERTICAL MATCH</String>
+  <!-- Board::CheckForTutorialDialogs:8781 -->
+  <String id="3228">Making a VERTICAL MATCH will destroy an ice column. Destroy more ice columns to increase your multiplier bonus!</String>
+  <!-- Board::CheckForTutorialDialogs:8782 -->
+  <String id="112">DARK ROCK</String>
+  <!-- Board::CheckForTutorialDialogs:8785 -->
+  <String id="3229">Dark rocks can&apos;t be destroyed by normal matching. Use special Gems to destroy them!</String>
+  <!-- Board::CheckForTutorialDialogs:8786 -->
+  <String id="3230">Poker skull</String>
+  <!-- Board::CheckForTutorialDialogs:8789 -->
+  <String id="3231">Destroy the skull by filling the skull bar!</String>
+  <!-- Board::CheckForTutorialDialogs:8790 -->
+  <String id="3651">FLAME GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8835 -->
+  <String id="3652">^9B1062^You made a ^F48D07^FLAME GEM^9B1062^ by matching 4 Gems in a row. Match it for an explosion!</String>
+  <!-- Board::CheckForTutorialDialogs:8836 -->
+  <String id="3653">STAR GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8839 -->
+  <String id="3654">^9B1062^You made a ^F48D07^STAR GEM^9B1062^ by creating two intersecting matches!</String>
+  <!-- Board::CheckForTutorialDialogs:8840 -->
+  <String id="3655">HYPERCUBE</String>
+  <!-- Board::CheckForTutorialDialogs:8843 -->
+  <String id="3656">^9B1062^You made a ^F48D07^HYPERCUBE^9B1062^ by matching 5 Gems in a row. Swap it to trigger!</String>
+  <!-- Board::CheckForTutorialDialogs:8844 -->
+  <String id="3657">SUPERNOVA GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8847 -->
+  <String id="3658">^9B1062^You made a ^F48D07^SUPERNOVA GEM^9B1062^ by matching 6+ Gems in a row. Match it to release the force of a million suns.&nbsp;</String>
+  <!-- Board::CheckForTutorialDialogs:8848 -->
+  <String id="3659">MULTIPLIER GEM</String>
+  <!-- Board::CheckForTutorialDialogs:8851 -->
+  <String id="3660">^9B1062^You have received a ^F48D07^MULTIPLIER GEM^9B1062^! Match it to multiply your score for the rest of the game.</String>
+  <!-- Board::CheckForTutorialDialogs:8852 -->
+  <String id="3661">COIN</String>
+  <!-- Board::CheckForTutorialDialogs:8855 -->
+  <String id="3662">^9B1062^You have received a ^F48D07^COIN^9B1062^! Collect them to buy Boosts to power you up!</String>
+  <!-- Board::CheckForTutorialDialogs:8856 -->
+  <String id="3663">TIME BONUS</String>
+  <!-- Board::CheckForTutorialDialogs:8859 -->
+  <String id="3664">^9B1062^You have received a ^F48D07^TIME GEM^9B1062^! Collect them to extend your game after the timer bar empties!</String>
+  <!-- Board::CheckForTutorialDialogs:8860 -->
+  <String id="3665">VERTICAL MATCH</String>
+  <!-- Board::CheckForTutorialDialogs:8863 -->
+  <String id="3666">^9B1062^Making a ^F48D07^VERTICAL MATCH^9B1062^ will destroy an ice column. Destroy more ice columns to increase your multiplier bonus!</String>
+  <!-- Board::CheckForTutorialDialogs:8864 -->
+  <String id="3667">DARK ROCK</String>
+  <!-- Board::CheckForTutorialDialogs:8867 -->
+  <String id="3668">^9B1062^Dark rocks can&apos;t be destroyed by normal matching. Use special Gems to destroy them!</String>
+  <!-- Board::CheckForTutorialDialogs:8868 -->
+  <String id="3669">Poker skull</String>
+  <!-- Board::CheckForTutorialDialogs:8871 -->
+  <String id="3670">^9B1062^Destroy the skull by filling the skull bar!</String>
+  <!-- Board::CheckForTutorialDialogs:8872 -->
+  <String id="114">Illegal Move</String>
+  <!-- Board::UpdateSwapping:9049 -->
+  <String id="115">Each swap must create a row of three or more identical gems.</String>
+  <!-- Board::UpdateSwapping:9050 -->
+  <String id="116">OK</String>
+  <!-- Board::UpdateSwapping:9050 -->
+  <String id="3671">CONTINUE</String>
+  <!-- Board::UpdateSwapping:9137 -->
+  <String id="117">SUPERNOVA GEM</String>
+  <!-- Board::GetTooltipText:9734 -->
+  <String id="118">Created by matching 6+ Gems in a row, this powerful Gem explodes with the force of a million suns when matched.</String>
+  <!-- Board::GetTooltipText:9735 -->
+  <String id="119">FLAME GEM</String>
+  <!-- Board::GetTooltipText:9739 -->
+  <String id="120">Created by forming 4 Gems of the same color in a line. Explodes when matched!</String>
+  <!-- Board::GetTooltipText:9740 -->
+  <String id="121">STAR GEM</String>
+  <!-- Board::GetTooltipText:9746 -->
+  <String id="122">Created by making two intersecting matches. Match it to fire lightning 4 ways!</String>
+  <!-- Board::GetTooltipText:9747 -->
+  <String id="123">HYPERCUBE</String>
+  <!-- Board::GetTooltipText:9752 -->
+  <String id="124">Created by matching 5 Gems in a line. Swap it with a Gem to zap all Gems of the same color onscreen.</String>
+  <!-- Board::GetTooltipText:9753 -->
+  <String id="125">MULTIPLIER GEM</String>
+  <!-- Board::GetTooltipText:9758 -->
+  <String id="126">Randomly drops onto your board. Match it to increase your score multiplier by 1!</String>
+  <!-- Board::GetTooltipText:9759 -->
+  <String id="127">DETONATOR</String>
+  <!-- Board::GetTooltipText:9764 -->
+  <String id="128">Click to detonate all Special Gems on the board.</String>
+  <!-- Board::GetTooltipText:9765 -->
+  <String id="129">SCRAMBLER</String>
+  <!-- Board::GetTooltipText:9770 -->
+  <String id="130">Click to scramble all Gems on the board.</String>
+  <!-- Board::GetTooltipText:9771 -->
+  <String id="131">COIN</String>
+  <!-- Board::GetTooltipText:9776 -->
+  <String id="132">Clear this Gem to collect the coin inside! Save money to buy Boosts!</String>
+  <!-- Board::GetTooltipText:9777 -->
+  <String id="133">BUTTERFLIES</String>
+  <!-- Board::GetTooltipText:9782 -->
+  <String id="134">Match butterflies with like-colored Gems to free them.</String>
+  <!-- Board::GetTooltipText:9783 -->
+  <String id="135">TIME GEM</String>
+  <!-- Board::GetTooltipText:9788 -->
+  <String id="136">Match this Gem to add %s seconds to the clock!</String>
+  <!-- Board::GetTooltipText:9789 -->
+  <String id="137">TIME BOMB</String>
+  <!-- Board::GetTooltipText:9795 -->
+  <String id="138">Match this Gem before the counter reaches zero!</String>
+  <!-- Board::GetTooltipText:9796 -->
+  <String id="139">LEVEL&cr;COMPLETE</String>
+  <!-- Board::UpdateGame:10373 -->
+  <String id="140">GET READY</String>
+  <!-- Board::DoUpdate:11547 -->
+  <String id="141">GO!</String>
+  <!-- Board::DoUpdate:11559 -->
+  <String id="3569">%s</String>
+  <!-- Board::DrawHUDText:13830 -->
+  <String id="3232">Level %s</String>
+  <!-- Board::DrawHUDText:13848 -->
+  <String id="142">GEMS</String>
+  <!-- Board::DrawCountPopups:14329 -->
+  <String id="143">CASCADES</String>
+  <!-- Board::DrawCountPopups:14387 -->
+  <String id="144">x%d</String>
+  <!-- Board::DrawPointMultiplier:14467 -->
+  <String id="145">x%d</String>
+  <!-- Board::DrawPointMultiplier:14477 -->
+  <String id="146">x%d</String>
+  <!-- Board::DrawPointMultiplier:14489 -->
+  <String id="147">PAUSED</String>
+  <!-- Board::DrawPauseText:14748 -->
+  <String id="148">%d:%02d</String>
+  <!-- Board::DrawTimer:15290 -->
+  <String id="3234">SPEED</String>
+  <!-- Board::DrawGameElements:15516 -->
+  <String id="3235">+%d</String>
+  <!-- Board::DrawGameElements:15527 -->
+  <String id="151">%d:%02d</String>
+  <!-- Board::DrawGameElements:15831 -->
+  <String id="3236">RESTART GAME?</String>
+  <!-- Board::RestartGameRequest:17743 -->
+  <String id="3237">Abandon the current game and start again? Your current game will be lost.</String>
+  <!-- Board::RestartGameRequest:17744 -->
+  <String id="3238">RESTART GAME</String>
+  <!-- Board::RestartGameRequest:17752 -->
+  <String id="3239">CANCEL</String>
+  <!-- Board::RestartGameRequest:17756 -->
+  <String id="157">%s of %s</String>
+  <!-- Board::DrawScore:18063 -->
+  <!-- File:      ButterflyBoard.cpp -->
+  <String id="3672">GAME OVER</String>
+  <!-- ButterflyBoard::GameOverAnnounce:948 -->
+  <String id="158">x%d COMBO</String>
+  <!-- ButterflyBoard::AddPoints:1077 -->
+  <!-- File:      ButterflyEndLevelDialog.cpp -->
+  <String id="159">Butterflies Freed</String>
+  <!-- ButterflyEndLevelDialog::DrawStatsLabels:28 -->
+  <String id="160">Best Move</String>
+  <!-- ButterflyEndLevelDialog::DrawStatsLabels:29 -->
+  <String id="161">Best Butterfly Combo</String>
+  <!-- ButterflyEndLevelDialog::DrawStatsLabels:30 -->
+  <String id="162">Total Time</String>
+  <!-- ButterflyEndLevelDialog::DrawStatsLabels:31 -->
+  <String id="163">%d:%02d</String>
+  <!-- ButterflyEndLevelDialog::DrawStatsText:40 -->
+  <!-- File:      ChangePictureDialog.cpp -->
+  <String id="3240">SELECT PICTURE</String>
+  <!-- Line 13 -->
+  <String id="3241">Choose from Library</String>
+  <!-- Line 37 -->
+  <String id="3242">Take picture using camera</String>
+  <!-- Line 44 -->
+  <!-- File:      ClassicBoard.cpp -->
+  <String id="164">NO MORE&cr;MOVES</String>
+  <!-- ClassicBoard::GameOverAnnounce:172 -->
+  <!-- File:      ClassicEndLevelDialog.cpp -->
+  <String id="165">Level Achieved</String>
+  <!-- ClassicEndLevelDialog::DrawStatsLabels:26 -->
+  <String id="166">Best Move</String>
+  <!-- ClassicEndLevelDialog::DrawStatsLabels:27 -->
+  <String id="167">Longest Cascade</String>
+  <!-- ClassicEndLevelDialog::DrawStatsLabels:28 -->
+  <String id="168">Total Time</String>
+  <!-- ClassicEndLevelDialog::DrawStatsLabels:29 -->
+  <String id="169">%d:%02d</String>
+  <!-- ClassicEndLevelDialog::DrawStatsText:38 -->
+  <!-- File:      CreditsMenu.cpp -->
+  <String id="3243">CREDITS</String>
+  <!-- Line 41 -->
+  <String id="3244">BACK</String>
+  <!-- Line 61 -->
+  <String id="3570">Bejeweled© 2018 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</String>
+  <!-- CreditsMenu::ButtonDepress:181 -->
+  <String id="3800">Android Team</String>
+  <String id="3801">Production</String>
+  <String id="3802">Tanya Emmert,Farah Nasreen,Suresh Manthena,Cristina Rocha,Arjun Balaram.</String>
+  <String id="3803">Programming</String>
+  <String id="3804">Yash Dhadiwal,Praveen Reddy KV,Vijay Kumar R,Bharathi Pothuganti,Gaurav Dhadiwal,Ilango Balakrishnan</String>
+  <String id="3805">Quality Assurance</String>
+  <String id="3806">Keith Laverty,Venkata Krishna KV,Pradeep Kasoju,Kiranmayee Pendyala,Abraham Jayasheelan Gandham,Rohit Singari,Jees Joy Zacharia,Deepak Bhat,Sanjay Darapureddy,Rajasekhar Varma</String>
+  <String id="3807">Special Thanks</String>
+  <String id="3808">Phil Bolus,Somu Thevar,Akhila Reddy Suram,Mohd.Abdul Nadeem,Deepak Kumar Saka</String>
+
+  <String id="3245">iOS Team</String>
+  <!-- CreditsMenu::ButtonDepress:189 -->
+  <String id="3246">Production</String>
+  <!-- CreditsMenu::ButtonDepress:191 -->
+  <String id="3247">Game Design</String>
+  <!-- CreditsMenu::ButtonDepress:193 -->
+  <String id="3266">David Bishop,Antubel Moreda,Kevin O&apos;Hara</String>
+  <!-- CreditsMenu::ButtonDepress:194 -->
+  <String id="3248">Programming</String>
+  <!-- CreditsMenu::ButtonDepress:195 -->
+  <String id="3267">Neil Donnelly,Yang Han,Stuart Johnson,Alanna Kelly,Robert Lester,Paolo Maninetti,Paul O&apos;Donnell,PJ O&apos;Halloran,Christian Schinkoethe,Narinder Singh Basran</String>
+  <!-- CreditsMenu::ButtonDepress:196 -->
+  <String id="3249">Art</String>
+  <!-- CreditsMenu::ButtonDepress:197 -->
+  <String id="3250">Writing</String>
+  <!-- CreditsMenu::ButtonDepress:199 -->
+  <String id="3269">David Bishop,Borja Guillan,Antubel Moreda</String>
+  <!-- CreditsMenu::ButtonDepress:200 -->
+  <String id="3251">Quality Assurance</String>
+  <!-- CreditsMenu::ButtonDepress:201 -->
+  <String id="3270">Adam Beck,David Cain,Didier Canovas,David Cleaveley,Aaron Collum,Colm Gallagher,Stephen Geddes,Kar Hay Ho,Brian Lelas,Keith Laverty,Carlos Losada,Philip Plunkett,Ildefonso Ranchal,Carl Sidebotham,Viacheslav Zakhariev</String>
+  <!-- CreditsMenu::ButtonDepress:202 -->
+  <String id="3252">Localization</String>
+  <!-- CreditsMenu::ButtonDepress:203 -->
+  <String id="3271">Antonio Asensio Pérez,Karl Byrne,Mark Coffey,Jean De Merey,Shinobu Koiwa,Anthony Mackey,Silvie McCullough,John Paul Newman,Lorenzo Penati,Jessica Schuster,Jonathon Young</String>
+  <!-- CreditsMenu::ButtonDepress:204 -->
+  <String id="3253">Special Thanks</String>
+  <!-- CreditsMenu::ButtonDepress:205 -->
+  <String id="3272">Ed Allard,Sharon Archbold,Sameer Baroova,Aoife Brennan,Paul Breslin,Bob Chamberlain,John Coleman,Valeria Colnaghi,Giordano Contestabile,Meriem Djazouli,Meredith Dorrance,Eddie Dowse,Plamen Dragozov,Brian Fiete,Kieran Gleeson,John Halloran,Gillian Hayes,Heather Hazen,Nicole LeMaster,Linda McGee,Cormac Mulhall,Kate O&apos;Brien,Cathy Orr,Stiw Puljic,Marie-Alana Ragan,Guillaume Richard,David Roberts,Jennifer Staunton,Andrew Stein,John Vechey,David Ward,Ember Wardrop</String>
+  <!-- CreditsMenu::ButtonDepress:206 -->
+  <String id="3254">PC/Mac Team</String>
+  <!-- CreditsMenu::ButtonDepress:207 -->
+  <String id="3255">Production</String>
+  <!-- CreditsMenu::ButtonDepress:209 -->
+  <String id="3273">Michael Guillory,Jason Kapalka,Sukhbir Sidhu</String>
+  <!-- CreditsMenu::ButtonDepress:210 -->
+  <String id="3256">Game Design</String>
+  <!-- CreditsMenu::ButtonDepress:211 -->
+  <String id="3274">Brian Fiete,Jason Kapalka,Josh Langley,Jeremy Bilas</String>
+  <!-- CreditsMenu::ButtonDepress:212 -->
+  <String id="3257">Programming</String>
+  <!-- CreditsMenu::ButtonDepress:213 -->
+  <String id="3275">Jeremy Bilas,Brian Fiete,Chris Hargrove,Josh Langley,Joe Mobley,Matt Scott,Jacob VanWingen</String>
+  <!-- CreditsMenu::ButtonDepress:214 -->
+  <String id="3258">Art</String>
+  <!-- CreditsMenu::ButtonDepress:215 -->
+  <String id="3276">Jim Abraham,Misael Armendariz,Gene Blakefield,Marcia Broderick,Tysen Henderson,Matt Holmberg,Jordan Kotzebue,Josh Langley,Derek McCaughan,Bill Olmstead,Rick Schmitz,Rich Werner</String>
+  <!-- CreditsMenu::ButtonDepress:216 -->
+  <String id="3259">Audio</String>
+  <!-- CreditsMenu::ButtonDepress:217 -->
+  <String id="3277">Alexander Brandon (Funky Rustic),Peter Hajba,Gregory Hinde,Jason Kapalka,Zachary Throne</String>
+  <!-- CreditsMenu::ButtonDepress:218 -->
+  <String id="3260">Writing</String>
+  <!-- CreditsMenu::ButtonDepress:219 -->
+  <String id="3278">Stephen Notley</String>
+  <!-- CreditsMenu::ButtonDepress:220 -->
+  <String id="3261">Quality Assurance</String>
+  <!-- CreditsMenu::ButtonDepress:221 -->
+  <String id="3279">Sharon Bruhn,David Chan,Bob Church,David Cole,Bill Dennes,Jon Fleming,Michael Guillory,Abigail Houghton,Ed Miller,Mike Racioppi,DJ Stiner,Chad Zoellner</String>
+  <!-- CreditsMenu::ButtonDepress:222 -->
+  <String id="3262">Localization</String>
+  <!-- CreditsMenu::ButtonDepress:223 -->
+  <String id="3263">Release Management</String>
+  <!-- CreditsMenu::ButtonDepress:225 -->
+  <String id="3281">Irene Cheung,Daniel Landeck,Eric Olson,Nick Tomilson</String>
+  <!-- CreditsMenu::ButtonDepress:226 -->
+  <String id="3264">Special Thanks</String>
+  <!-- CreditsMenu::ButtonDepress:227 -->
+  <String id="3282">Ed Allard,Yvette Camacho,Garth Chouteau,Leigh Daughtridge,Glenn Drover,Cristina Estrada-Eligio,Liz Harris,Amy Hevron,Curtis Kuhn,Nicole LeMaster,Kong Lu,Cathy Orr,Kelley Poston,Ron Powers,David Roberts,Ben Rotholtz,John Vechey,Eve Warmflash,Paula Wong,PopCap Beta Testers</String>
+  <!-- CreditsMenu::ButtonDepress:228 -->
+  <String id="3283">Thank you for playing!</String>
+  <!-- CreditsMenu::ButtonDepress:231 -->
+  <!-- File:      DigBoard.cpp -->
+  <String id="170">+%d SECOND MEGA BONUS</String>
+  <!-- DigBoard::DoTimeBonus:424 -->
+  <String id="171">+%d SECOND BONUS</String>
+  <!-- DigBoard::DoTimeBonus:434 -->
+  <!-- File:      DigGoal.cpp -->
+  <String id="542">CLEARED!</String>
+  <!-- DigGoal::DrawDigBarAnim:3518 -->
+  <String id="544">ALL CLEAR</String>
+  <!-- DigGoal::DrawDigBarAnim:3537 -->
+  <String id="184">ARTIFACT</String>
+  <!-- DigGoal::GetTooltipText:5038 -->
+  <String id="185">Uncover this object for bonus points.</String>
+  <!-- DigGoal::GetTooltipText:5039 -->
+  <String id="186">GOLD</String>
+  <!-- DigGoal::GetTooltipText:5048 -->
+  <String id="187">Dig up gold to score points.</String>
+  <!-- DigGoal::GetTooltipText:5049 -->
+  <String id="188">DIAMONDS</String>
+  <!-- DigGoal::GetTooltipText:5054 -->
+  <String id="189">Dig up diamonds to score points.</String>
+  <!-- DigGoal::GetTooltipText:5055 -->
+  <String id="190">HYPERCUBE</String>
+  <!-- DigGoal::GetTooltipText:5065 -->
+  <String id="191">Uncover this buried Hypercube in order to use it.</String>
+  <!-- DigGoal::GetTooltipText:5066 -->
+  <String id="192">DIRT</String>
+  <!-- DigGoal::GetTooltipText:5075 -->
+  <String id="193">Match a Gem adjacent to this block to break it up.</String>
+  <!-- DigGoal::GetTooltipText:5076 -->
+  <String id="194">ROCKS</String>
+  <!-- DigGoal::GetTooltipText:5082 -->
+  <String id="195">Match 2 Gems adjacent to this block to break it up.</String>
+  <!-- DigGoal::GetTooltipText:5083 -->
+  <String id="196">STONES</String>
+  <!-- DigGoal::GetTooltipText:5089 -->
+  <String id="197">Match 3 Gems adjacent to this block to break it up.</String>
+  <!-- DigGoal::GetTooltipText:5090 -->
+  <String id="198">DARK ROCK</String>
+  <!-- DigGoal::GetTooltipText:5096 -->
+  <String id="199">This block can be destroyed only by blasting it with Special Gems.</String>
+  <!-- DigGoal::GetTooltipText:5097 -->
+  <String id="200">BOULDER</String>
+  <!-- DigGoal::GetTooltipText:5103 -->
+  <String id="201">Match 4 Gems adjacent to this block to break it up.</String>
+  <!-- DigGoal::GetTooltipText:5104 -->
+  <String id="202">BOULDER</String>
+  <!-- DigGoal::GetTooltipText:5111 -->
+  <String id="203">Match Multiple Gems adjacent to this block to break it up.</String>
+  <!-- DigGoal::GetTooltipText:5112 -->
+  <!-- File:      DigGoalEndLevelDialog.cpp -->
+  <String id="204">Max Depth</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsLabels:82 -->
+  <String id="205">Total Time</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsLabels:83 -->
+  <String id="206">Best Move</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsLabels:84 -->
+  <String id="207">Best Treasure</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsLabels:85 -->
+  <String id="208">%s m</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:106 -->
+  <String id="209">%d:%02d</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:108 -->
+  <String id="210">$%s</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:110 -->
+  <String id="211">No Treasures</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:113 -->
+  <String id="212">$%s</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:125 -->
+  <String id="213">(%s)</String>
+  <!-- DigGoalEndLevelDialog::DrawStatsText:126 -->
+  <String id="214">Treasure Found:</String>
+  <!-- DigGoalEndLevelDialog::DrawFrames:161 -->
+  <String id="215">Gold Collected</String>
+  <!-- DigGoalEndLevelDialog::Update:205 -->
+  <String id="216">Diamonds Collected</String>
+  <!-- DigGoalEndLevelDialog::Update:205 -->
+  <String id="217">Artifacts Collected</String>
+  <!-- DigGoalEndLevelDialog::Update:205 -->
+  <String id="218">$%s</String>
+  <!-- DigGoalEndLevelDialog::Update:209 -->
+  <String id="219">$%s</String>
+  <!-- DigGoalEndLevelDialog::Update:220 -->
+  <String id="220">Treasure Excavated:</String>
+  <!-- DigGoalEndLevelDialog::Draw:276 -->
+  <String id="221">$%s</String>
+  <!-- DigGoalEndLevelDialog::Draw:284 -->
+  <String id="223">$%s</String>
+  <!-- DigGoalEndLevelDialog::Draw:331 -->
+  <String id="222">%d%%</String>
+  <!-- DigGoalEndLevelDialog::Draw:336 -->
+  <!-- File:      EditProfileDialog.cpp -->
+  <String id="3284">Choose a profile picture:</String>
+  <!-- Line 52 -->
+  <String id="3285">EDIT NAME</String>
+  <!-- Line 68 -->
+  <String id="3571">CANCEL</String>
+  <!-- Line 96 -->
+  <String id="3572">Player</String>
+  <!-- EditProfileDialog::Show:237 -->
+  <String id="83">ENTER NAME</String>
+  <!-- EditProfileDialog::ButtonDepress:404 -->
+  <String id="84">You must enter your name!</String>
+  <!-- EditProfileDialog::ButtonDepress:404 -->
+  <String id="85">OK</String>
+  <!-- EditProfileDialog::ButtonDepress:404 -->
+  <String id="3573">CONTINUE</String>
+  <!-- EditProfileDialog::SetupForFirstShow:475 -->
+  <String id="3286">CONTINUE</String>
+  <!-- EditProfileDialog::SetupForFirstShow:480 -->
+  <String id="3574">Enter your name and select a picture to create a new player</String>
+  <!-- EditProfileDialog::SetupForFirstShow:485 -->
+  <String id="3287">EDIT PROFILE</String>
+  <!-- EditProfileDialog::SetupForFirstShow:504 -->
+  <String id="3288">BACK</String>
+  <!-- EditProfileDialog::SetupForFirstShow:505 -->
+  <String id="3575">EDIT PLAYER</String>
+  <!-- EditProfileDialog::SetupForFirstShow:509 -->
+  <String id="3673">WELCOME TO BEJEWELED HD!</String>
+  <!-- EditProfileDialog::SetupForFirstShow:509 -->
+  <String id="3576">SAVE</String>
+  <!-- EditProfileDialog::SetupForFirstShow:511 -->
+  <String id="3577">Tap on your name to edit it or change your picture by selecting a new one</String>
+  <!-- EditProfileDialog::SetupForFirstShow:517 -->
+  <String id="3674">EDIT PROFILE</String>
+  <!-- EditProfileDialog::SetupForFirstShow:541 -->
+  <String id="3675">OK</String>
+  <!-- EditProfileDialog::SetupForFirstShow:543 -->
+  <!-- File:      EndLevelDialog.cpp -->
+  <String id="230">x %d</String>
+  <!-- EndLevelDialog::DrawSpecialGemDisplay:192 -->
+  <String id="231">x %d</String>
+  <!-- EndLevelDialog::DrawSpecialGemDisplay:193 -->
+  <String id="232">x %d</String>
+  <!-- EndLevelDialog::DrawSpecialGemDisplay:194 -->
+  <String id="233">%d.</String>
+  <!-- EndLevelDialog::DrawHighScores:222 -->
+  <String id="234">Top Scores:</String>
+  <!-- EndLevelDialog::DrawLabeledHighScores:251 -->
+  <String id="235">Statistics</String>
+  <!-- EndLevelDialog::DrawLabeledStatsFrame:291 -->
+  <String id="236">Final Score:</String>
+  <!-- EndLevelDialog::Draw:332 -->
+  <!-- File:      GameDetailMenu.cpp -->
+  <String id="3578">FINAL SCORE</String>
+  <!-- GameDetailMenu::Init:53 -->
+  <String id="3289">BACK</String>
+  <!-- GameDetailMenu::Init:79 -->
+  <String id="3290">PLAY</String>
+  <!-- GameDetailMenu::SetMode:230 -->
+  <String id="3291">BACK</String>
+  <!-- GameDetailMenu::SetMode:231 -->
+  <String id="3292">PLAY AGAIN</String>
+  <!-- GameDetailMenu::SetMode:252 -->
+  <String id="3293">MAIN MENU</String>
+  <!-- GameDetailMenu::SetMode:253 -->
+  <String id="3294">Swipe for stats</String>
+  <!-- GameDetailMenu::SetUpSlideButtons:641 -->
+  <String id="3295">Swipe for top scores</String>
+  <!-- GameDetailMenu::SetUpSlideButtons:645 -->
+  <String id="3296">STATS</String>
+  <!-- GameDetailMenu::KeyChar:842 -->
+  <String id="3297">Level Achieved:</String>
+  <!-- GameDetailMenuContainer::SetMode:942 -->
+  <String id="3298">Best Move:</String>
+  <!-- GameDetailMenuContainer::SetMode:943 -->
+  <String id="3299">Longest Cascade:</String>
+  <!-- GameDetailMenuContainer::SetMode:944 -->
+  <String id="3300">Total Time:</String>
+  <!-- GameDetailMenuContainer::SetMode:945 -->
+  <String id="3301">SPECIAL GEMS</String>
+  <!-- GameDetailMenuContainer::SetMode:947 -->
+  <String id="3302">Max Depth:</String>
+  <!-- GameDetailMenuContainer::SetMode:953 -->
+  <String id="3303">Total Time:</String>
+  <!-- GameDetailMenuContainer::SetMode:954 -->
+  <String id="3304">Best Move:</String>
+  <!-- GameDetailMenuContainer::SetMode:955 -->
+  <String id="3305">Best Treasure:</String>
+  <!-- GameDetailMenuContainer::SetMode:956 -->
+  <String id="3306">TREASURE FOUND</String>
+  <!-- GameDetailMenuContainer::SetMode:958 -->
+  <String id="3307">Butterflies Freed:</String>
+  <!-- GameDetailMenuContainer::SetMode:965 -->
+  <String id="3308">Best Move:</String>
+  <!-- GameDetailMenuContainer::SetMode:966 -->
+  <String id="3309">Best Butterfly Combo:</String>
+  <!-- GameDetailMenuContainer::SetMode:967 -->
+  <String id="3310">Total Time:</String>
+  <!-- GameDetailMenuContainer::SetMode:968 -->
+  <String id="3311">SPECIAL GEMS</String>
+  <!-- GameDetailMenuContainer::SetMode:970 -->
+  <String id="3312">Best Hand:</String>
+  <!-- GameDetailMenuContainer::SetMode:978 -->
+  <String id="3313">Number of Hands:</String>
+  <!-- GameDetailMenuContainer::SetMode:979 -->
+  <String id="3314">Skulls Busted:</String>
+  <!-- GameDetailMenuContainer::SetMode:980 -->
+  <String id="3315">Skull Coin Flips:</String>
+  <!-- GameDetailMenuContainer::SetMode:981 -->
+  <String id="3316">SPECIAL GEMS</String>
+  <!-- GameDetailMenuContainer::SetMode:983 -->
+  <String id="3317">Highest Multiplier:</String>
+  <!-- GameDetailMenuContainer::SetMode:991 -->
+  <String id="3318">Best Move:</String>
+  <!-- GameDetailMenuContainer::SetMode:992 -->
+  <String id="3319">Longest Cascade:</String>
+  <!-- GameDetailMenuContainer::SetMode:993 -->
+  <String id="3320">Total Time:</String>
+  <!-- GameDetailMenuContainer::SetMode:994 -->
+  <String id="3321">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1018 -->
+  <String id="3322">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1019 -->
+  <String id="3323">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1020 -->
+  <String id="3324">%s m</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1032 -->
+  <String id="3490">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1073 -->
+  <String id="3491">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1074 -->
+  <String id="3492">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1075 -->
+  <String id="3493">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1079 -->
+  <String id="3494">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1080 -->
+  <String id="3495">%d%%</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1081 -->
+  <String id="3325">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1094 -->
+  <String id="3326">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1095 -->
+  <String id="3327">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1096 -->
+  <String id="3328">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1111 -->
+  <String id="3329">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1112 -->
+  <String id="3330">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1113 -->
+  <String id="3331">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1127 -->
+  <String id="3332">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1128 -->
+  <String id="3333">x %d</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1129 -->
+  <!-- File:      GiftGameDialog.cpp -->
+  <String id="3334">GIFT THIS APP</String>
+  <!-- Line 18 -->
+  <String id="3335">OK</String>
+  <!-- Line 25 -->
+  <String id="3336">No Thanks</String>
+  <!-- Line 29 -->
+  <!-- File:      HelpDialog.cpp -->
+  <String id="3337">HELP</String>
+  <!-- HelpWindow::PlayAnimation:276 -->
+  <String id="3579">HOW TO PLAY</String>
+  <!-- HelpWindow::PlayAnimation:282 -->
+  <String id="3338">Swipe for more help</String>
+  <!-- HelpWindow::PlayAnimation:295 -->
+  <String id="3339">Help</String>
+  <!-- HelpWindow::PlayAnimation:306 -->
+  <String id="3341">PLAY</String>
+  <!-- HelpDialog::SetHelpDialogState:414 -->
+  <String id="3342">BACK</String>
+  <!-- HelpDialog::SetHelpDialogState:419 -->
+  <String id="243">Score as many points as possible until there are no more moves.</String>
+  <!-- HelpDialog::SetupHelp:550 -->
+  <String id="244">Swap adjacent gems to make rows of three.</String>
+  <!-- HelpDialog::SetupHelp:554 -->
+  <String id="245">Match 4 or more gems to create Special Gems.</String>
+  <!-- HelpDialog::SetupHelp:558 -->
+  <String id="246">Make an L or T match to create a Star Gem!</String>
+  <!-- HelpDialog::SetupHelp:562 -->
+  <String id="248">Extra time is added to your next round, where point values increase!</String>
+  <!-- HelpDialog::SetupHelp:575 -->
+  <String id="249">Make matches quickly for a Speed Bonus. Max it out for Blazing Speed!</String>
+  <!-- HelpDialog::SetupHelp:579 -->
+  <String id="250">Match butterfly gems with like colored gems to release them.</String>
+  <!-- HelpDialog::SetupHelp:588 -->
+  <String id="251">Don&apos;t let any of the butterflies reach the spider!</String>
+  <!-- HelpDialog::SetupHelp:592 -->
+  <String id="252">Make poker hands with gem matches.</String>
+  <!-- HelpDialog::SetupHelp:601 -->
+  <String id="253">When Skulls appear, try to avoid the hands that they occupy.</String>
+  <!-- HelpDialog::SetupHelp:605 -->
+  <String id="254">Remove Skulls by filling the Eliminator bar. &nbsp;Better hands fill it faster.</String>
+  <!-- HelpDialog::SetupHelp:609 -->
+  <String id="255">Score as many points as you can before the ice reaches the top!</String>
+  <!-- HelpDialog::SetupHelp:614 -->
+  <String id="256">Make matches to push down the rising ice columns.</String>
+  <!-- HelpDialog::SetupHelp:618 -->
+  <String id="257">Make vertical matches to smash ice columns and earn mega bonus points.</String>
+  <!-- HelpDialog::SetupHelp:622 -->
+  <String id="258">Clearing ice fills the blue meter and increases your score multiplier.</String>
+  <!-- HelpDialog::SetupHelp:626 -->
+  <String id="259">Make matches directly next to the ground to dig down.</String>
+  <!-- HelpDialog::SetupHelp:634 -->
+  <String id="260">Clear all ground tiles down to the white line to advance.</String>
+  <!-- HelpDialog::SetupHelp:638 -->
+  <String id="261">Make matches next to gold, gems and artifacts to earn points.</String>
+  <!-- HelpDialog::SetupHelp:642 -->
+  <!-- File:      HighScoreMgr.cpp -->
+  <String id="263">Failed to read high score file!&cr;Please contact Customer Suppport at http://www.popcap.com/support.</String>
+  <!-- HighScoreMgr::Load:96 -->
+  <String id="264">Failed to create high score file!&cr;&cr;%s&cr;&cr;Please contact Customer Support at http://www.popcap.com/support.</String>
+  <!-- HighScoreMgr::Save:146 -->
+  <!-- File:      HighScoresMenu.cpp -->
+  <String id="3343">TOP SCORES</String>
+  <!-- Line 46 -->
+  <String id="3344">Swipe for more scores</String>
+  <!-- Line 56 -->
+  <String id="3345">BACK</String>
+  <!-- Line 97 -->
+  <!-- File:      HighScoresWidget.cpp -->
+  <String id="3346">TOP SCORES</String>
+  <!-- Line 30 -->
+  <!-- File:      HintDialog.cpp -->
+  <String id="3580">CONTINUE</String>
+  <!-- TextContainer::~TextContainer:65 -->
+  <String id="266">REPLAY</String>
+  <!-- TextContainer::~TextContainer:91 -->
+  <!-- File:      InfernoBoard.cpp -->
+  <String id="549">COOL&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1805 -->
+  <String id="550">CHILL&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1806 -->
+  <String id="551">FROSTY&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1807 -->
+  <String id="552">ICY&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1808 -->
+  <String id="553">GLACIAL&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1809 -->
+  <String id="554">POLAR&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1810 -->
+  <String id="555">ARCTIC&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1811 -->
+  <String id="556">SUB ZERO&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1812 -->
+  <String id="557">ICE ICE&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1813 -->
+  <String id="558">MAX&nbsp;</String>
+  <!-- InfernoBoard::IncrementColCleared:1814 -->
+  <String id="559">%sCOMBO</String>
+  <!-- InfernoBoard::IncrementColCleared:1817 -->
+  <String id="560">%dx</String>
+  <!-- InfernoBoard::IncrementColCleared:1821 -->
+  <String id="561">MULTIPLIER %dx</String>
+  <!-- InfernoBoard::RefreshMultiplierText:3359 -->
+  <!-- File:      InfernoEndLevelDialog.cpp -->
+  <String id="271">Highest Multiplier</String>
+  <!-- InfernoEndLevelDialog::DrawStatsLabels:21 -->
+  <String id="272">Best Column Combo</String>
+  <!-- InfernoEndLevelDialog::DrawStatsLabels:22 -->
+  <String id="273">Columns Crushed</String>
+  <!-- InfernoEndLevelDialog::DrawStatsLabels:23 -->
+  <String id="274">Total Time</String>
+  <!-- InfernoEndLevelDialog::DrawStatsLabels:24 -->
+  <String id="275">x%d</String>
+  <!-- InfernoEndLevelDialog::DrawStatsText:29 -->
+  <String id="276">%d:%02d</String>
+  <!-- InfernoEndLevelDialog::DrawStatsText:33 -->
+  <String id="277">FLAME x%d</String>
+  <!-- InfernoEndLevelDialog::Draw:63 -->
+  <String id="278">STAR x%d</String>
+  <!-- InfernoEndLevelDialog::Draw:64 -->
+  <String id="279">HYPER x%d</String>
+  <!-- InfernoEndLevelDialog::Draw:65 -->
+  <String id="280">COLUMN COMBO</String>
+  <!-- InfernoEndLevelDialog::Draw:68 -->
+  <String id="281">COLUMN CLEAR</String>
+  <!-- InfernoEndLevelDialog::Draw:69 -->
+  <String id="282">BASE</String>
+  <!-- InfernoEndLevelDialog::Draw:70 -->
+  <String id="283">%dk</String>
+  <!-- InfernoEndLevelDialog::Draw:104 -->
+  <String id="284">x%d</String>
+  <!-- InfernoEndLevelDialog::Draw:123 -->
+  <!-- File:      IntroDialog.cpp -->
+  <String id="3347">WELCOME TO BEJEWELED</String>
+  <!-- Line 19 -->
+  <String id="3348">CONTINUE</String>
+  <!-- Line 19 -->
+  <String id="3349">New to Bejeweled?</String>
+  <!-- Line 29 -->
+  <String id="3350">^700443^Start with ^7514BB^Classic^700443^.</String>
+  <!-- Line 34 -->
+  <String id="3351">Already a Bejeweled Pro?</String>
+  <!-- Line 40 -->
+  <String id="3352">^700443^Try all-new ^7514BB^Butterflies^700443^,&cr;dig for treasure in ^7514BB^Diamond Mine^700443^&cr;or relax body and mind in ^7514BB^Zen^700443^ mode.</String>
+  <!-- Line 45 -->
+  <!-- File:      LegalMenu.cpp -->
+  <String id="3353">LEGAL</String>
+  <!-- Line 20 -->
+  <String id="3354">USER SHARING</String>
+  <!-- Line 26 -->
+  <String id="3355">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <!-- Line 36 -->
+  <String id="3356">BACK</String>
+  <!-- Line 48 -->
+  <String id="3357">END USER LICENSE AGREEMENT</String>
+  <!-- Line 54 -->
+  <String id="3358">PRIVACY POLICY</String>
+  <!-- Line 60 -->
+  <String id="3359">TERMS OF SERVICE</String>
+  <!-- Line 66 -->
+  <String id="3360">USER SHARING</String>
+  <!-- LegalMenu::LinkUpAssets:83 -->
+  <String id="3361">If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</String>
+  <!-- LegalMenu::LinkUpAssets:87 -->
+  <String id="3362">If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</String>
+  <!-- LegalMenu::LinkUpAssets:91 -->
+  <String id="3581">http://tos.ea.com/legalapp/mobileeula/US/en/GM</String>
+  <!-- LegalMenu::ButtonDepress:140 -->
+  <String id="3582">http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</String>
+  <!-- LegalMenu::ButtonDepress:146 -->
+  <String id="3583">http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</String>
+  <!-- LegalMenu::ButtonDepress:152 -->
+  <!-- File:      MainMenu.cpp -->
+  <String id="3363">BLITZ</String>
+  <!-- MainMenu::InterfaceStateChanged:1007 -->
+  <String id="3364"></String>
+  <!-- MainMenu::InterfaceStateChanged:1007 -->
+  <String id="3365"></String>
+  <!-- MainMenu::InterfaceStateChanged:1007 -->
+  <String id="3366">ZEN</String>
+  <!-- MainMenu::InterfaceStateChanged:1013 -->
+  <String id="3367"></String>
+  <!-- MainMenu::InterfaceStateChanged:1013 -->
+  <String id="3368"></String>
+  <!-- MainMenu::InterfaceStateChanged:1013 -->
+  <String id="3369">DIAMOND</String>
+  <!-- MainMenu::InterfaceStateChanged:1019 -->
+  <String id="3370">MINE</String>
+  <!-- MainMenu::InterfaceStateChanged:1019 -->
+  <String id="3371"></String>
+  <!-- MainMenu::InterfaceStateChanged:1019 -->
+  <String id="3372">CLASSIC</String>
+  <!-- MainMenu::InterfaceStateChanged:1025 -->
+  <String id="3373"></String>
+  <!-- MainMenu::InterfaceStateChanged:1025 -->
+  <String id="3374"></String>
+  <!-- MainMenu::InterfaceStateChanged:1025 -->
+  <String id="3375">LIGHTNING</String>
+  <!-- MainMenu::InterfaceStateChanged:1032 -->
+  <String id="3376"></String>
+  <!-- MainMenu::InterfaceStateChanged:1032 -->
+  <String id="3377"></String>
+  <!-- MainMenu::InterfaceStateChanged:1032 -->
+  <String id="3378">BUTTERFLIES</String>
+  <!-- MainMenu::InterfaceStateChanged:1040 -->
+  <String id="3379"></String>
+  <!-- MainMenu::InterfaceStateChanged:1040 -->
+  <String id="3380"></String>
+  <!-- MainMenu::InterfaceStateChanged:1040 -->
+  <String id="3381">ICE STORM</String>
+  <!-- MainMenu::InterfaceStateChanged:1048 -->
+  <String id="3382"></String>
+  <!-- MainMenu::InterfaceStateChanged:1048 -->
+  <String id="3383"></String>
+  <!-- MainMenu::InterfaceStateChanged:1048 -->
+  <String id="3384">POKER</String>
+  <!-- MainMenu::InterfaceStateChanged:1056 -->
+  <String id="3385"></String>
+  <!-- MainMenu::InterfaceStateChanged:1056 -->
+  <String id="3386"></String>
+  <!-- MainMenu::InterfaceStateChanged:1056 -->
+  <String id="3399">Coming Soon</String>
+  <!-- MainMenuScrollContainer::ButtonDepress:1388 -->
+  <String id="3401">BACK</String>
+  <!-- MainMenuScrollContainer::ButtonDepress:1388 -->
+  <String id="3676">(Tap to edit profile)</String>
+  <!-- MainMenuScrollContainer::MakeButtonsFullyVisible:1495 -->
+  <!-- File:      MainMenuOptions.cpp -->
+  <String id="3402">PROFILE</String>
+  <!-- Line 46 -->
+  <String id="3403">OPTIONS</String>
+  <!-- Line 53 -->
+  <String id="3404">MORE GAMES</String>
+  <!-- Line 59 -->
+  <String id="3405">BACK</String>
+  <!-- Line 65 -->
+  <String id="3406">HELP</String>
+  <!-- Line 71 -->
+  <String id="3585">RECORDS</String>
+  <!-- Line 84 -->
+  <!-- File:      Menu.cpp -->
+  <String id="293">Play Classic</String>
+  <!-- Menu::InitWidgets:22 -->
+  <String id="294">Time Bonus</String>
+  <!-- Menu::InitWidgets:27 -->
+  <String id="295">Tug of War</String>
+  <!-- Menu::InitWidgets:32 -->
+  <String id="296">Play Zen</String>
+  <!-- Menu::InitWidgets:37 -->
+  <String id="297">Play Quests</String>
+  <!-- Menu::InitWidgets:42 -->
+  <String id="298">Secret Modes</String>
+  <!-- Menu::InitWidgets:47 -->
+  <String id="299">Quit</String>
+  <!-- Menu::InitWidgets:52 -->
+  <String id="300">Main Menu</String>
+  <!-- Menu::InitWidgets:57 -->
+  <!-- File:      MoreGamesDialog.cpp -->
+  <String id="3407">Loading, please wait...</String>
+  <!-- MyMoreGamesWidget::DrawBusy:40 -->
+  <String id="3408">Oops! We were unable to contact the network.&cr;Please try again later.</String>
+  <!-- MyMoreGamesWidget::DrawFailMessage:46 -->
+  <String id="3409">BACK</String>
+  <!-- MyListener::ImageUpdated:86 -->
+  <String id="3586">Love Bejeweled?</String>
+  <!-- MyListener::ImageUpdated:107 -->
+  <String id="3587">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <!-- MyListener::ImageUpdated:111 -->
+  <String id="3588">Be sure to follow us on Facebook and Twitter as well!</String>
+  <!-- MyListener::ImageUpdated:117 -->
+  <String id="3589">Go to</String>
+  <!-- MyListener::ImageUpdated:123 -->
+  <String id="3590">!!!!! Selection description goes here. !!!!!</String>
+  <!-- MyListener::ImageUpdated:127 -->
+  <String id="3591">CHECK OUT THESE OTHER POPCAP GAMES!</String>
+  <!-- MyListener::ImageUpdated:131 -->
+  <String id="3592">PopCap.com</String>
+  <!-- MyListener::ImageUpdated:144 -->
+  <String id="3593">RATE</String>
+  <!-- MyListener::ImageUpdated:150 -->
+  <String id="3594">GIFT</String>
+  <!-- MyListener::ImageUpdated:155 -->
+  <String id="3677">LOADING...</String>
+  <!-- MyListener::GameInfoAdded:253 -->
+  <String id="3413">MORE GAMES</String>
+  <!-- MoreGamesDialog::Draw:285 -->
+  <String id="3678">MORE&cr;GAMES BY&cr;POPCAP</String>
+  <!-- MyListener::GameInfoAdded:287 -->
+  <String id="3595">MORE GAMES</String>
+  <!-- MoreGamesDialog::HideCompleted:516 -->
+  <String id="3596">Oops! We were unable to contact the network. Please try again later.</String>
+  <!-- MoreGamesDialog::HideCompleted:516 -->
+  <String id="3597">BACK</String>
+  <!-- MoreGamesDialog::HideCompleted:518 -->
+  <String id="3598">MAIN MENU</String>
+  <!-- MoreGamesDialog::HideCompleted:521 -->
+  <!-- File:      MoveLimitBoard.cpp -->
+  <String id="301">Moves Left: %i</String>
+  <!-- MoveLimitBoard::DrawBottomFrame:112 -->
+  <!-- File:      NewUserDialog.cpp -->
+  <String id="303">WELCOME!</String>
+  <!-- Line 18 -->
+  <String id="3414">EDIT NAME</String>
+  <!-- Line 18 -->
+  <String id="305">Enter your name:</String>
+  <!-- Line 51 -->
+  <!-- File:      ObliterationBoard.cpp -->
+  <String id="306">Destroy 200 gems in 1 minute</String>
+  <!-- ObliterationBoard::ObliterationBoard:6 -->
+  <!-- File:      OptionsMenu.cpp -->
+  <String id="3415">Auto-Hint</String>
+  <!-- Line 38 -->
+  <String id="3416">Mute All Sounds</String>
+  <!-- Line 42 -->
+  <String id="3599">Mute All Sounds</String>
+  <!-- Line 44 -->
+  <String id="3417">Help</String>
+  <!-- Line 50 -->
+  <String id="3600">In-Game Help</String>
+  <!-- Line 55 -->
+  <String id="4000">PROMOTIONS</String>
+  <!-- Line 56 -->
+  <String id="3601">Music</String>
+  <!-- Line 71 -->
+  <String id="3602">Sound</String>
+  <!-- Line 75 -->
+  <String id="3603">Voices</String>
+  <!-- Line 79 -->
+  <String id="3604">HELP &amp; OPTIONS</String>
+  <!-- OptionsContainer::UpdateValues:416 -->
+  <String id="3419">ABOUT</String>
+  <!-- OptionsContainer::UpdateValues:429 -->
+  <String id="3605">CREDITS</String>
+  <!-- OptionsContainer::UpdateValues:436 -->
+  <String id="3421">LEGAL</String>
+  <!-- OptionsContainer::UpdateValues:442 -->
+  <String id="3606">BACK</String>
+  <!-- OptionsContainer::UpdateValues:448 -->
+  <String id="3679">HOW TO PLAY</String>
+  <!-- OptionsMenu::KeyChar:710 -->
+  <String id="3680">Score as many points as possible until there are no more moves.</String>
+  <!-- OptionsHelpContainer::SetupHelp:783 -->
+  <String id="3681">Swap adjacent gems to make rows of three.</String>
+  <!-- OptionsHelpContainer::SetupHelp:787 -->
+  <String id="3682">Match 4 or more gems to create Special Gems.</String>
+  <!-- OptionsHelpContainer::SetupHelp:791 -->
+  <String id="3683">Make an L or T match to create a Star Gem!</String>
+  <!-- OptionsHelpContainer::SetupHelp:795 -->
+  <String id="3684">Match Time Gems to earn extra time.</String>
+  <!-- OptionsHelpContainer::SetupHelp:804 -->
+  <String id="3685">Extra time is added to your next round, where point values increase!</String>
+  <!-- OptionsHelpContainer::SetupHelp:808 -->
+  <String id="3686">Make matches quickly for a Speed Bonus. Max it out for Blazing Speed!</String>
+  <!-- OptionsHelpContainer::SetupHelp:812 -->
+  <String id="3687">Match butterfly gems with like colored gems to release them.</String>
+  <!-- OptionsHelpContainer::SetupHelp:821 -->
+  <String id="3688">Don&apos;t let any of the butterflies reach the spider!</String>
+  <!-- OptionsHelpContainer::SetupHelp:825 -->
+  <String id="3689">Make poker hands with gem matches.</String>
+  <!-- OptionsHelpContainer::SetupHelp:834 -->
+  <String id="3690">When Skulls appear, try to avoid the hands that they occupy.</String>
+  <!-- OptionsHelpContainer::SetupHelp:838 -->
+  <String id="3691">Remove Skulls by filling the Eliminator bar. &nbsp;Better hands fill it faster.</String>
+  <!-- OptionsHelpContainer::SetupHelp:842 -->
+  <String id="3692">Score as many points as you can before the ice reaches the top!</String>
+  <!-- OptionsHelpContainer::SetupHelp:847 -->
+  <String id="3693">Make matches to push down the rising ice columns.</String>
+  <!-- OptionsHelpContainer::SetupHelp:851 -->
+  <String id="3694">Make vertical matches to smash ice columns and earn mega bonus points.</String>
+  <!-- OptionsHelpContainer::SetupHelp:855 -->
+  <String id="3695">Clearing ice fills the blue meter and increases your score multiplier.</String>
+  <!-- OptionsHelpContainer::SetupHelp:859 -->
+  <String id="3696">Make matches directly next to the ground to dig down.</String>
+  <!-- OptionsHelpContainer::SetupHelp:867 -->
+  <String id="3697">Clear all ground tiles down to the white line to advance.</String>
+  <!-- OptionsHelpContainer::SetupHelp:871 -->
+  <String id="3698">Make matches next to gold, gems and artifacts to earn points.</String>
+  <!-- OptionsHelpContainer::SetupHelp:875 -->
+  <!-- File:      OptionsSubMenu.cpp -->
+  <String id="3607">SETTINGS</String>
+  <!-- Line 41 -->
+  <!-- File:      PauseMenu.cpp -->
+  <String id="3608">HELP &amp; OPTIONS</String>
+  <!-- Line 33 -->
+  <String id="3422">RESTART</String>
+  <!-- Line 43 -->
+  <String id="3609">RESUME</String>
+  <!-- Line 50 -->
+  <String id="3423">HELP</String>
+  <!-- Line 54 -->
+  <String id="3610">RESTART</String>
+  <!-- Line 60 -->
+  <String id="3611">RESUME</String>
+  <!-- Line 67 -->
+  <String id="3424">MAIN MENU</String>
+  <!-- PauseMenu::SetMode:93 -->
+  <!-- File:      PlayMenu.cpp -->
+  <String id="352">SECRET GAME</String>
+  <!-- PlayMenu::Draw:385 -->
+  <String id="566">New to Bejeweled? Try Classic mode</String>
+  <!-- PlayMenu::Draw:401 -->
+  <String id="365">Play the original untimed game</String>
+  <!-- PlayMenu::ButtonMouseEnter:674 -->
+  <String id="366">Relax body and mind in this endless game</String>
+  <!-- PlayMenu::ButtonMouseEnter:679 -->
+  <String id="367">Collect Time Gems to charge up bonus rounds</String>
+  <!-- PlayMenu::ButtonMouseEnter:684 -->
+  <String id="368">Solve 40 different puzzling minigames</String>
+  <!-- PlayMenu::ButtonMouseEnter:689 -->
+  <String id="369">Match gems and make your best hand</String>
+  <!-- PlayMenu::ButtonMouseEnter:695 -->
+  <String id="370">Reach level %d of ^%S^Classic Mode^oldclr^ to unlock</String>
+  <!-- PlayMenu::ButtonMouseEnter:699 -->
+  <String id="371">Collect colorful jeweled butterflies</String>
+  <!-- PlayMenu::ButtonMouseEnter:708 -->
+  <String id="372">Reach level %d of ^%S^Zen Mode^oldclr^ to unlock</String>
+  <!-- PlayMenu::ButtonMouseEnter:712 -->
+  <String id="373">Hold back the rising ice columns</String>
+  <!-- PlayMenu::ButtonMouseEnter:721 -->
+  <String id="374">Score %s points in ^%S^Lightning Mode^oldclr^ to unlock</String>
+  <!-- PlayMenu::ButtonMouseEnter:725 -->
+  <String id="375">Dig deep to unearth buried treasure</String>
+  <!-- PlayMenu::ButtonMouseEnter:734 -->
+  <String id="376">Reveal the first Relic in ^%S^Quest Mode^oldclr^ to unlock</String>
+  <!-- PlayMenu::ButtonMouseEnter:738 -->
+  <!-- File:      PokerBoard.cpp -->
+  <String id="588">Pair</String>
+  <!-- PokerBoard::LoadContent:101 -->
+  <String id="589">Spectrum</String>
+  <!-- PokerBoard::LoadContent:102 -->
+  <String id="590">Two Pair</String>
+  <!-- PokerBoard::LoadContent:103 -->
+  <String id="591">3 of a Kind</String>
+  <!-- PokerBoard::LoadContent:104 -->
+  <String id="592">Full House</String>
+  <!-- PokerBoard::LoadContent:105 -->
+  <String id="593">4 of a Kind</String>
+  <!-- PokerBoard::LoadContent:106 -->
+  <String id="594">Flush</String>
+  <!-- PokerBoard::LoadContent:107 -->
+  <String id="377">Need %s or better</String>
+  <!-- PokerBoard::DrawGameElements:423 -->
+  <String id="597">SKULL</String>
+  <!-- PokerBoard::DrawOverlay:473 -->
+  <String id="378">+%s</String>
+  <!-- PokerBoard::DrawOverlay:574 -->
+  <String id="379">+%s</String>
+  <!-- PokerBoard::DrawOverlay:591 -->
+  <String id="384">SAFE!</String>
+  <!-- PokerBoard::Update:1360 -->
+  <String id="385">No Score</String>
+  <!-- PokerBoard::TallyScore:1614 -->
+  <String id="386">PAIR</String>
+  <!-- PokerBoard::UpdateTooltip:1831 -->
+  <String id="387">SPECTRUM</String>
+  <!-- PokerBoard::UpdateTooltip:1832 -->
+  <String id="388">2 PAIR</String>
+  <!-- PokerBoard::UpdateTooltip:1833 -->
+  <String id="389">3 OF A KIND</String>
+  <!-- PokerBoard::UpdateTooltip:1834 -->
+  <String id="390">FULL HOUSE</String>
+  <!-- PokerBoard::UpdateTooltip:1835 -->
+  <String id="391">4 OF A KIND</String>
+  <!-- PokerBoard::UpdateTooltip:1836 -->
+  <String id="392">FLUSH</String>
+  <!-- PokerBoard::UpdateTooltip:1837 -->
+  <String id="393">A hand containing two matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1842 -->
+  <String id="394">A hand consisting of no matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1843 -->
+  <String id="395">A hand containing two pairs of matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1844 -->
+  <String id="396">A hand containing three matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1845 -->
+  <String id="397">A hand containing a set of two and a set of three matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1846 -->
+  <String id="398">A hand containing four matching cards.</String>
+  <!-- PokerBoard::UpdateTooltip:1847 -->
+  <String id="399">A hand in which all five cards are the same.</String>
+  <!-- PokerBoard::UpdateTooltip:1848 -->
+  <String id="400">&cr;&cr;^FF5555^Avoid this hand, or try your luck against the Skull Coin!</String>
+  <!-- PokerBoard::UpdateTooltip:1854 -->
+  <String id="568">SKULL ELIMINATOR</String>
+  <!-- PokerBoard::UpdateTooltip:1870 -->
+  <String id="3426">Fill this bar by scoring the best hands possible. When full, it will eliminate a Skull from the scoreboard.</String>
+  <!-- PokerBoard::UpdateTooltip:1870 -->
+  <!-- File:      PokerEndLevelDialog.cpp -->
+  <String id="401">Best Hand</String>
+  <!-- PokerEndLevelDialog::DrawStatsLabels:40 -->
+  <String id="402">Number of Hands</String>
+  <!-- PokerEndLevelDialog::DrawStatsLabels:41 -->
+  <String id="403">Skulls Busted</String>
+  <!-- PokerEndLevelDialog::DrawStatsLabels:42 -->
+  <String id="404">Skull Coin Flips</String>
+  <!-- PokerEndLevelDialog::DrawStatsLabels:43 -->
+  <String id="405">Pair</String>
+  <!-- PokerEndLevelDialog::Draw:124 -->
+  <String id="406">Spectrum</String>
+  <!-- PokerEndLevelDialog::Draw:125 -->
+  <String id="407">Two Pair</String>
+  <!-- PokerEndLevelDialog::Draw:126 -->
+  <String id="408">3 of a Kind</String>
+  <!-- PokerEndLevelDialog::Draw:127 -->
+  <String id="409">Full House</String>
+  <!-- PokerEndLevelDialog::Draw:128 -->
+  <String id="410">4 of a Kind</String>
+  <!-- PokerEndLevelDialog::Draw:129 -->
+  <String id="411">Flush</String>
+  <!-- PokerEndLevelDialog::Draw:130 -->
+  <!-- File:      Profile.cpp -->
+  <String id="412">There is already a user named %s</String>
+  <!-- Profile::CreateProfile:951 -->
+  <String id="413">SAME NAME</String>
+  <!-- Profile::CreateProfile:952 -->
+  <String id="414">OK</String>
+  <!-- Profile::CreateProfile:952 -->
+  <!-- File:      ProfileMenu.cpp -->
+  <String id="3427">EDIT PROFILE</String>
+  <!-- ProfileMenuBase::HideCompleted:164 -->
+  <String id="3428">BACK</String>
+  <!-- ProfileMenuBase::HideCompleted:170 -->
+  <String id="3429">STATS</String>
+  <!-- ProfileMenu::Hide:592 -->
+  <String id="3430">TOP SCORES</String>
+  <!-- ProfileMenu::Hide:593 -->
+  <String id="3431">BADGES</String>
+  <!-- ProfileMenu::Hide:594 -->
+  <String id="3612">BADGES</String>
+  <!-- ProfileMenuContainer::GetSectionHeading:773 -->
+  <String id="3613">STATS</String>
+  <!-- ProfileMenuContainer::GetSectionHeading:777 -->
+  <String id="3614">%s TOP SCORES</String>
+  <!-- ProfileMenuContainer::GetSectionHeading:785 -->
+  <String id="3699">ELITE BADGES</String>
+  <!-- ProfileMenuContainer::GetSectionHeading:820 -->
+  <String id="3432">STATS</String>
+  <!-- ProfileMenuButton::Draw:943 -->
+  <String id="3433">TOP SCORES</String>
+  <!-- ProfileMenuButtonStats::LinkUpAssets:1265 -->
+  <!-- File:      QuestBoard.cpp -->
+  <String id="415">&cr;^FFD0FF^- more -</String>
+  <!-- QuestBoard::DrawMenuWidget:686 -->
+  <String id="416">&cr;^FF80FF^- more -</String>
+  <!-- QuestBoard::DrawMenuWidget:688 -->
+  <String id="417">QUEST&cr;COMPLETED</String>
+  <!-- QuestBoard::Update:1058 -->
+  <!-- File:      QuestHelpDialog.cpp -->
+  <String id="418">OK</String>
+  <!-- Line 28 -->
+  <String id="419">%d:%02d</String>
+  <!-- QuestHelpDialog::Draw:74 -->
+  <!-- File:      QuestMenu.cpp -->
+  <String id="420">New Relic Unlocked!</String>
+  <!-- QuestMenu::Update:593 -->
+  <String id="570">Quest Orb</String>
+  <!-- QuestMenu::Update:741 -->
+  <String id="571">Fill in all four Quest Orbs to reveal the Relic.</String>
+  <!-- QuestMenu::Update:741 -->
+  <String id="421">QUEST MODE&cr;COMPLETE</String>
+  <!-- QuestMenu::Update:1027 -->
+  <String id="422">QUESTS REMAINING</String>
+  <!-- QuestMenu::Update:1072 -->
+  <String id="423">There are still %d quests to complete!</String>
+  <!-- QuestMenu::Update:1073 -->
+  <String id="424">There is still %d quest to complete!</String>
+  <!-- QuestMenu::Update:1073 -->
+  <String id="425">Complete quests to restore the&cr;Lost Relics of Bejeweled</String>
+  <!-- QuestMenu::Draw:1222 -->
+  <String id="426">%d%%</String>
+  <!-- QuestMenu::Draw:1249 -->
+  <!-- File:      RankBarWidget.cpp -->
+  <String id="427">Rank: %d</String>
+  <!-- RankBarWidget::Draw:310 -->
+  <String id="3615">Rank %d: %s</String>
+  <!-- RankBarWidget::GetRankName:408 -->
+  <!-- File:      RankUpDialog.cpp -->
+  <String id="429">RANK UP</String>
+  <!-- Line 13 -->
+  <String id="3069">CONTINUE</String>
+  <!-- Line 31 -->
+  <String id="431">You have been promoted to:</String>
+  <!-- Line 55 -->
+  <!-- File:      RateGameDialog.cpp -->
+  <String id="3434">LOVE BEJEWELED?</String>
+  <!-- Line 17 -->
+  <String id="3435">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <!-- Line 18 -->
+  <String id="3436">RATE NOW!</String>
+  <!-- Line 25 -->
+  <String id="3437">NO</String>
+  <!-- Line 29 -->
+  <String id="3438">LATER</String>
+  <!-- Line 33 -->
+  <!-- File:      RecordsScreen.cpp -->
+  <String id="434">Classic</String>
+  <!-- HighScoresTab::HighScoresTab:50 -->
+  <String id="435">Lightning</String>
+  <!-- HighScoresTab::HighScoresTab:51 -->
+  <String id="436">Poker</String>
+  <!-- HighScoresTab::HighScoresTab:52 -->
+  <String id="437">Butterflies</String>
+  <!-- HighScoresTab::HighScoresTab:53 -->
+  <String id="438">Ice Storm</String>
+  <!-- HighScoresTab::HighScoresTab:54 -->
+  <String id="439">Diamond Mine</String>
+  <!-- HighScoresTab::HighScoresTab:55 -->
+  <String id="440">CLASSIC</String>
+  <!-- HighScoresTab::Draw:87 -->
+  <String id="441">LIGHTNING</String>
+  <!-- HighScoresTab::Draw:88 -->
+  <String id="442">POKER</String>
+  <!-- HighScoresTab::Draw:89 -->
+  <String id="443">BUTTERFLIES</String>
+  <!-- HighScoresTab::Draw:90 -->
+  <String id="444">ICE STORM</String>
+  <!-- HighScoresTab::Draw:91 -->
+  <String id="445">DIAMOND MINE</String>
+  <!-- HighScoresTab::Draw:92 -->
+  <String id="446">Player</String>
+  <!-- HighScoresTab::Draw:108 -->
+  <String id="447">Points</String>
+  <!-- HighScoresTab::Draw:109 -->
+  <String id="448">%d.</String>
+  <!-- HighScoresTab::Draw:135 -->
+  <String id="449">Gems Matched:&cr;</String>
+  <!-- StatsTab::Draw:241 -->
+  <String id="450">Flame Gems:&cr;</String>
+  <!-- StatsTab::Draw:242 -->
+  <String id="451">Star Gems:&cr;</String>
+  <!-- StatsTab::Draw:243 -->
+  <String id="452">Hypercubes:&cr;</String>
+  <!-- StatsTab::Draw:244 -->
+  <String id="453">Favorite Gem Color:</String>
+  <!-- StatsTab::Draw:245 -->
+  <String id="454">N/A</String>
+  <!-- StatsTab::Draw:249 -->
+  <String id="455">^FF0000^Red</String>
+  <!-- StatsTab::Draw:253 -->
+  <String id="456">^FFFFFF^White</String>
+  <!-- StatsTab::Draw:254 -->
+  <String id="457">^00FF00^Green</String>
+  <!-- StatsTab::Draw:255 -->
+  <String id="458">^FFFF00^Yellow</String>
+  <!-- StatsTab::Draw:256 -->
+  <String id="459">^FF00FF^Purple</String>
+  <!-- StatsTab::Draw:257 -->
+  <String id="460">^FF9900^Orange</String>
+  <!-- StatsTab::Draw:258 -->
+  <String id="461">^0099FF^Blue</String>
+  <!-- StatsTab::Draw:259 -->
+  <String id="462">Zen Mode High Score:&cr;</String>
+  <!-- StatsTab::Draw:290 -->
+  <String id="463">Quest Mode Completion:&cr;</String>
+  <!-- StatsTab::Draw:291 -->
+  <String id="464">%s%%</String>
+  <!-- StatsTab::Draw:308 -->
+  <String id="465">All-Time Best Move:&cr;</String>
+  <!-- StatsTab::Draw:316 -->
+  <String id="466">Total Time Played:</String>
+  <!-- StatsTab::Draw:317 -->
+  <String id="572">%i second</String>
+  <!-- StatsTab::Draw:326 -->
+  <String id="595">%i seconds</String>
+  <!-- StatsTab::Draw:328 -->
+  <String id="573">%i minute</String>
+  <!-- StatsTab::Draw:335 -->
+  <String id="596">%i minutes</String>
+  <!-- StatsTab::Draw:337 -->
+  <String id="574">%.1f hours</String>
+  <!-- StatsTab::Draw:341 -->
+  <String id="471">&nbsp;pts&cr;</String>
+  <!-- StatsTab::Draw:347 -->
+  <String id="472">High Scores</String>
+  <!-- RecordsScreen::RecordsScreen:369 -->
+  <String id="473">Badges</String>
+  <!-- RecordsScreen::RecordsScreen:370 -->
+  <String id="474">Stats</String>
+  <!-- RecordsScreen::RecordsScreen:371 -->
+  <!-- File:      RubyReaperBoard.cpp -->
+  <String id="475">Collect 30 red gems before time runs out! Clear yellow gems to gain more time.</String>
+  <!-- RubyReaperBoard::RubyReaperBoard:6 -->
+  <!-- File:      SecretMenu.cpp -->
+  <String id="476">Back</String>
+  <!-- SecretMenu::InitWidgets:22 -->
+  <String id="477">SECRET GAMES</String>
+  <!-- SecretMenu::Draw:57 -->
+  <!-- File:      SpeedBoard.cpp -->
+  <String id="478">TIME UP</String>
+  <!-- SpeedBoard::GameOverAnnounce:283 -->
+  <String id="479">+%d sec</String>
+  <!-- SpeedBoard::PieceTallied:346 -->
+  <String id="480">TIME UP</String>
+  <!-- SpeedBoard::GameOver:559 -->
+  <String id="481">+%d:%02d</String>
+  <!-- SpeedBoard::DrawFrame2:1073 -->
+  <String id="482">Last Hurrah</String>
+  <!-- SpeedBoard::DrawFrame2:1112 -->
+  <!-- File:      SpeedEndLevelDialog.cpp -->
+  <String id="483">Highest Multiplier</String>
+  <!-- SpeedEndLevelDialog::DrawStatsLabels:26 -->
+  <String id="484">Best Move</String>
+  <!-- SpeedEndLevelDialog::DrawStatsLabels:27 -->
+  <String id="485">Longest Cascade</String>
+  <!-- SpeedEndLevelDialog::DrawStatsLabels:28 -->
+  <String id="486">Total Time</String>
+  <!-- SpeedEndLevelDialog::DrawStatsLabels:29 -->
+  <String id="487">x%d</String>
+  <!-- SpeedEndLevelDialog::DrawStatsText:34 -->
+  <String id="488">%d:%02d</String>
+  <!-- SpeedEndLevelDialog::DrawStatsText:38 -->
+  <String id="489">FLAME x%d</String>
+  <!-- SpeedEndLevelDialog::Draw:75 -->
+  <String id="490">STAR x%d</String>
+  <!-- SpeedEndLevelDialog::Draw:76 -->
+  <String id="491">HYPER x%d</String>
+  <!-- SpeedEndLevelDialog::Draw:77 -->
+  <String id="492">TIME +%d:%02d</String>
+  <!-- SpeedEndLevelDialog::Draw:78 -->
+  <String id="493">SPEED</String>
+  <!-- SpeedEndLevelDialog::Draw:80 -->
+  <String id="494">SPECIAL</String>
+  <!-- SpeedEndLevelDialog::Draw:81 -->
+  <String id="495">MATCHES</String>
+  <!-- SpeedEndLevelDialog::Draw:82 -->
+  <String id="496">%dk</String>
+  <!-- SpeedEndLevelDialog::Draw:119 -->
+  <String id="497">Last</String>
+  <!-- SpeedEndLevelDialog::Draw:138 -->
+  <String id="498">x%d</String>
+  <!-- SpeedEndLevelDialog::Draw:138 -->
+  <!-- File:      StatsMenu.cpp -->
+  <String id="3439">STATS</String>
+  <!-- Line 32 -->
+  <String id="3440">BACK</String>
+  <!-- Line 41 -->
+  <String id="3496">Gems Matched:</String>
+  <!-- StatsMenu::ButtonDepress:189 -->
+  <String id="3497">Flame Gems:</String>
+  <!-- StatsMenu::ButtonDepress:194 -->
+  <String id="3498">Star Gems:</String>
+  <!-- StatsMenu::ButtonDepress:199 -->
+  <String id="3499">Hypercubes:</String>
+  <!-- StatsMenu::ButtonDepress:204 -->
+  <String id="3500">Favorite Gem Color:</String>
+  <!-- StatsMenu::ButtonDepress:213 -->
+  <String id="3441">Current Zen Score:</String>
+  <!-- StatsMenu::ButtonDepress:232 -->
+  <String id="3501">All-Time Best Move:&cr;</String>
+  <!-- StatsMenu::ButtonDepress:242 -->
+  <String id="3502">Total Time Played:</String>
+  <!-- StatsMenu::ButtonDepress:247 -->
+  <String id="3503">N/A</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:373 -->
+  <String id="3504">Red</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:376 -->
+  <String id="3505">White</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:377 -->
+  <String id="3506">Green</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:378 -->
+  <String id="3507">Yellow</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:379 -->
+  <String id="3508">Purple</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:380 -->
+  <String id="3509">Orange</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:381 -->
+  <String id="3510">Blue</String>
+  <!-- StatsMenuContainer::GetFavouriteGemColour:382 -->
+  <!-- File:      TimeLimitBoard.cpp -->
+  <String id="499">+%d SECOND BONUS</String>
+  <!-- TimeLimitBoard::DoQuestBonus:58 -->
+  <String id="500">-%d SECONDS PENALTY</String>
+  <!-- TimeLimitBoard::DoQuestPenalty:67 -->
+  <!-- File:      UnlockDialog.cpp -->
+  <String id="501">New Mode Unlocked</String>
+  <!-- Line 17 -->
+  <String id="502">OK</String>
+  <!-- Line 22 -->
+  <String id="503">You Have Unlocked a New Mode:</String>
+  <!-- UnlockDialog::Draw:45 -->
+  <String id="504">Now available on the game menu.</String>
+  <!-- UnlockDialog::Draw:51 -->
+  <!-- File:      UserSelectionDialog.cpp -->
+  <String id="505">SELECT A USER</String>
+  <!-- Line 15 -->
+  <String id="508">(Add A New User)</String>
+  <!-- UserSelectionDialog::ResetListWidget:100 -->
+  <!-- File:      WelcomeDialog.cpp -->
+  <String id="511">Enter your name.</String>
+  <!-- Line 28 -->
+  <!-- File:      ZenBoard.cpp -->
+  <String id="512">MAX SCORE</String>
+  <!-- ZenBoard::DrawScore:191 -->
+  <String id="513">Zen Options</String>
+  <!-- ZenBoard::Update:1208 -->
+  <String id="514">Customize your Zen experience here!</String>
+  <!-- ZenBoard::Update:1208 -->
+  <String id="3442">ZEN OPTIONS</String>
+  <!-- ZenBoard::InitUI:1321 -->
+  <String id="3700">ZEN EFFECTS</String>
+  <!-- ZenBoard::InitUI:1322 -->
+  <!-- File:      ZenInfoDialog.cpp -->
+  <String id="3443">ZEN</String>
+  <!-- Line 20 -->
+  <String id="3444">CONTINUE</String>
+  <!-- Line 20 -->
+  <String id="3445">Relax as you play this endless mode</String>
+  <!-- Line 48 -->
+  <String id="3446">Chill out with soothing ambient sounds</String>
+  <!-- Line 55 -->
+  <String id="3447">Boost your brain with positive mantras</String>
+  <!-- Line 63 -->
+  <String id="3448">Release stress with breathing modulation</String>
+  <!-- Line 71 -->
+  <String id="3449">Headphones are recommended</String>
+  <!-- Line 79 -->
+  <!-- File:      ZenOptionsDialog.cpp -->
+  <String id="515">Enable</String>
+  <!-- Line 100 -->
+  <String id="516">Visual Indicator</String>
+  <!-- Line 110 -->
+  <String id="517">Speed</String>
+  <!-- Line 111 -->
+  <String id="518">Volume</String>
+  <!-- Line 112 -->
+  <String id="519">Sound</String>
+  <!-- Line 116 -->
+  <String id="520">Volume</String>
+  <!-- Line 117 -->
+  <String id="521">Subliminal</String>
+  <!-- Line 121 -->
+  <String id="522">Mantra</String>
+  <!-- Line 122 -->
+  <String id="523">Visibility</String>
+  <!-- Line 126 -->
+  <String id="524">Speed</String>
+  <!-- Line 131 -->
+  <String id="525">Pattern</String>
+  <!-- Line 138 -->
+  <String id="526">Volume</String>
+  <!-- Line 139 -->
+  <String id="538">Low volume recommended</String>
+  <!-- Line 141 -->
+  <String id="576">for</String>
+  <!-- Line 149 -->
+  <String id="539">for</String>
+  <!-- Line 151 -->
+  <String id="540">important safety information</String>
+  <!-- Line 153 -->
+  <String id="527">Breath Modulation</String>
+  <!-- Line 231 -->
+  <String id="528">Ambient Sounds</String>
+  <!-- Line 232 -->
+  <String id="529">Mantras</String>
+  <!-- Line 233 -->
+  <String id="530">Binaural Beats</String>
+  <!-- Line 234 -->
+  <String id="531">Audio and visual feedback helps you modulate your breathing rate and assists in creating a sense of calm and relaxation.</String>
+  <!-- Line 275 -->
+  <String id="532">Replace the game music with white noise or other environmental audio tracks for greater relaxation and focus.</String>
+  <!-- Line 276 -->
+  <String id="533">Various positive textual affirmations are displayed onscreen as you play, helping to focus your thoughts on beneficial areas for meditation.</String>
+  <!-- Line 277 -->
+  <String id="534">Headphones required!&cr;Slightly different frequencies played in each ear can help your brain enter different states.</String>
+  <!-- Line 278 -->
+  <String id="535">Visual Indicator: ON</String>
+  <!-- Line 290 -->
+  <String id="577">Random</String>
+  <!-- Line 295 -->
+  <String id="536">&nbsp;(Subliminal)</String>
+  <!-- Line 304 -->
+  <String id="578">Random</String>
+  <!-- Line 408 -->
+  <String id="579">Click here</String>
+  <!-- Line 470 -->
+  <String id="580">SAFETY INFORMATION</String>
+  <!-- ZenOptionsDialog::ShowBinauralWarning:513 -->
+  <String id="581">Certain people may experience mood changes, dizziness, muscle twitches, hallucinations, drowsiness, inattention and other health effects when listening to binaural beats with headphones.&cr;&cr;If you experience any of these symptoms while playing this mode, IMMEDIATELY remove the headphones, discontinue use and consult your doctor.</String>
+  <!-- ZenOptionsDialog::ShowBinauralWarning:514 -->
+  <String id="582">OK</String>
+  <!-- ZenOptionsDialog::ShowBinauralWarning:515 -->
+  <String id="583">ENABLE</String>
+  <!-- ZenOptionsDialog::ShowBinauralWarning:522 -->
+  <!-- File:      ZenOptionsInfoDialog.cpp -->
+  <String id="3450">BACK</String>
+  <!-- Line 16 -->
+  <!-- File:      ZenOptionsMenu.cpp -->
+  <String id="3616">Replace the game music with environmental audio tracks for greater relaxation and focus.</String>
+  <!-- Line 54 -->
+  <String id="3701">Volume</String>
+  <!-- Line 61 -->
+  <String id="3617">Choose your Sound</String>
+  <!-- Line 87 -->
+  <String id="3618">Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</String>
+  <!-- Line 94 -->
+  <String id="3702">Subliminal</String>
+  <!-- Line 113 -->
+  <String id="3703">Visibility</String>
+  <!-- Line 125 -->
+  <String id="3619">Choose your Mantra</String>
+  <!-- Line 141 -->
+  <String id="3620">Audio and visual feedback help modulate your breathing and create a sense of relaxation.</String>
+  <!-- Line 148 -->
+  <String id="3621">Enable</String>
+  <!-- Line 161 -->
+  <String id="3704">Visual Indicator</String>
+  <!-- Line 182 -->
+  <String id="3705">Speed</String>
+  <!-- Line 195 -->
+  <String id="3622">Replace the game music with environmental audio tracks for greater relaxation and focus.</String>
+  <!-- Line 206 -->
+  <String id="3706">Volume</String>
+  <!-- Line 207 -->
+  <String id="3623">Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</String>
+  <!-- Line 265 -->
+  <String id="3707">Volume</String>
+  <!-- Line 274 -->
+  <String id="3708">Subliminal</String>
+  <!-- Line 325 -->
+  <String id="3624">Audio and visual feedback help modulate your breathing and create a sense of relaxation.</String>
+  <!-- Line 338 -->
+  <String id="3709">Visibility</String>
+  <!-- Line 346 -->
+  <String id="3625">Enable</String>
+  <!-- Line 353 -->
+  <String id="3710">Visual Indicator</String>
+  <!-- Line 375 -->
+  <String id="3711">Speed</String>
+  <!-- Line 396 -->
+  <String id="3712">Volume</String>
+  <!-- Line 408 -->
+  <String id="3461">None</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:691 -->
+  <String id="3462">Random</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:692 -->
+  <String id="3463">Ocean Surf</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:693 -->
+  <String id="3464">Crickets</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:694 -->
+  <String id="3465">Rain Leaves</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:695 -->
+  <String id="3466">Waterfall</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:696 -->
+  <String id="3467">Coastal</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:697 -->
+  <String id="3468">Forest</String>
+  <!-- ZenOptionsContainer::GetAmbienceName:698 -->
+  <String id="3469">None</String>
+  <!-- ZenOptionsContainer::GetMantraName:743 -->
+  <String id="3470">General</String>
+  <!-- ZenOptionsContainer::GetMantraName:744 -->
+  <String id="3471">Positive Thinking</String>
+  <!-- ZenOptionsContainer::GetMantraName:745 -->
+  <String id="3472">Quit Bad Habits</String>
+  <!-- ZenOptionsContainer::GetMantraName:746 -->
+  <String id="3473">Prosperity</String>
+  <!-- ZenOptionsContainer::GetMantraName:747 -->
+  <String id="3474">Self-Confidence</String>
+  <!-- ZenOptionsContainer::GetMantraName:748 -->
+  <String id="3475">Weight Loss</String>
+  <!-- ZenOptionsContainer::GetMantraName:749 -->
+  <String id="3713">None</String>
+  <!-- ZenOptionsContainer::GetMantraName:780 -->
+  <String id="3714">General</String>
+  <!-- ZenOptionsContainer::GetMantraName:781 -->
+  <String id="3715">Positive&cr;Thinking</String>
+  <!-- ZenOptionsContainer::GetMantraName:782 -->
+  <String id="3716">Quit Bad&cr;Habits</String>
+  <!-- ZenOptionsContainer::GetMantraName:783 -->
+  <String id="3717">Prosperity</String>
+  <!-- ZenOptionsContainer::GetMantraName:784 -->
+  <String id="3718">Self-&cr;Confidence</String>
+  <!-- ZenOptionsContainer::GetMantraName:785 -->
+  <String id="3719">Weight Loss</String>
+  <!-- ZenOptionsContainer::GetMantraName:786 -->
+  <String id="3517">Visibility</String>
+  <!-- ZenOptionsContainer::LinkUpAssets:907 -->
+  <String id="3518">Speed</String>
+  <!-- ZenOptionsContainer::LinkUpAssets:912 -->
+  <String id="3519">Visibility</String>
+  <!-- ZenOptionsContainer::CheckboxChecked:1003 -->
+  <String id="3520">Speed</String>
+  <!-- ZenOptionsContainer::CheckboxChecked:1008 -->
+  <String id="3476">ZEN OPTIONS</String>
+  <!-- ZenOptionsMenu::Init:1068 -->
+  <String id="3626">Ambient&cr;Sounds</String>
+  <!-- ZenOptionsMenu::Init:1087 -->
+  <String id="3627">Mantras</String>
+  <!-- ZenOptionsMenu::Init:1092 -->
+  <String id="3628">Breathing&cr;Modulation</String>
+  <!-- ZenOptionsMenu::Init:1097 -->
+  <String id="3629">MAIN MENU</String>
+  <!-- ZenOptionsMenu::Init:1104 -->
+  <String id="3630">RESUME</String>
+  <!-- ZenOptionsMenu::Init:1113 -->
+  <String id="3631">ZEN OPTIONS</String>
+  <!-- ZenOptionsMenu::Init:1125 -->
+  <String id="3632">Customise your Zen Experience!</String>
+  <!-- ZenOptionsMenu::Init:1135 -->
+  <String id="3720">Customise your&cr;Zen experience</String>
+  <!-- ZenOptionsMenu::Init:1139 -->
+  <String id="3633">AMBIENT SOUNDS</String>
+  <!-- ZenOptionsMenu::Init:1141 -->
+  <String id="3634">MANTRAS</String>
+  <!-- ZenOptionsMenu::Init:1147 -->
+  <String id="3721">ZEN EFFECTS</String>
+  <!-- ZenOptionsMenu::Init:1151 -->
+  <String id="3635">BREATHING MODULATION</String>
+  <!-- ZenOptionsMenu::Init:1153 -->
+  <String id="3636">BACK</String>
+  <!-- ZenOptionsMenu::Init:1159 -->
+  <String id="3637">RESUME</String>
+  <!-- ZenOptionsMenu::Init:1165 -->
+  <String id="3483">Zen Options</String>
+  <!-- ZenOptionsMenu::SetMode:1454 -->
+  <String id="3484">Ambient Sounds</String>
+  <!-- ZenOptionsMenu::SetMode:1458 -->
+  <String id="3485">Mantras</String>
+  <!-- ZenOptionsMenu::SetMode:1462 -->
+  <String id="3486">Breathing Modulation</String>
+  <!-- ZenOptionsMenu::SetMode:1466 -->
+  <!-- File:     BadgeMenu.cpp -->
+  <String id="3722">BADGE COLLECTION</String>
+  <!-- Line 143 -->
+  <String id="3724">ELITE BADGES</String>
+  <!-- BadgeMenu::Update:1723 -->
+  <String id="3725">BADGES</String>
+  <!-- BadgeMenu::Update:1725 -->
+  <!-- File:     BadgeWidget.cpp -->
+  <String id="3726">%s^FFFFFF^ &quot;%s&quot; Badge</String>
+  <!-- BadgeWidget::Draw:286 -->
+  <!-- File:     Bej3App.cpp -->
+  <String id="3727">GAME CENTER</String>
+  <!-- Bej3App::GameCenterButtonPressed:5710 -->
+  <String id="3728">Unable to log into Game Center.</String>
+  <!-- Bej3App::GameCenterButtonPressed:5710 -->
+  <String id="3729">BACK</String>
+  <!-- Bej3App::GameCenterButtonPressed:5710 -->
+  <!-- File:     RateGameDialog.cpp -->
+  <String id="3723">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <!-- Line 21 -->
+  <!-- File:    BadgeMenu.cpp -->
+  <String id="71">%s%s%s Badge</String>
+  <!-- BadgeMenu::DrawOverlay:706 -->
+  <!-- File:    Bej3App.cpp -->
+  <String id="75">RESUME?</String>
+  <!-- Bej3App::DoSavedGameCheck:1339 -->
+  <!-- File:    MainMenu.cpp -->
+  <String id="3584">Welcome Back,</String>
+  <!-- MainMenuProfile::LinkUpAssets:1549 -->
+  <String id="3734">Welcome,</String>
+  <!-- MainMenuProfile::LinkUpAssets:1551 -->
+  <!-- File:   ArrowGem.cpp -->
+  <String id="3750">BACK</String>
+  <!-- Line 21 -->
+  <!-- File:   Badge.cpp -->
+  <String id="3730">Bronze&nbsp;</String>
+  <!-- Badge::GetBadgeLevelName:115 -->
+  <String id="3731">Silver&nbsp;</String>
+  <!-- Badge::GetBadgeLevelName:116 -->
+  <String id="3732">Gold&nbsp;</String>
+  <!-- Badge::GetBadgeLevelName:117 -->
+  <String id="3733">Platinum&nbsp;</String>
+  <!-- Badge::GetBadgeLevelName:118 -->
+  <!-- File:   Bej3App.cpp -->
+  <String id="3751">Match Time Gems to earn extra time in this fast-paced High Score mode.</String>
+  <!-- Bej3App::GetModeHint:5186 -->
+  <!-- File:   Board.cpp -->
+  <String id="3752">SCORE MULTIPLIER</String>
+  <!-- Board::CheckForTutorialDialogs:8823 -->
+  <String id="3753">You have increased the SCORE MULTIPLIER by extending your game! Keep increasing the MULTIPLIER to score big points!</String>
+  <!-- Board::CheckForTutorialDialogs:8824 -->
+  <String id="3754">SCORE MULTIPLIER</String>
+  <!-- Board::CheckForTutorialDialogs:8871 -->
+  <String id="3755">^9B1062^You have increased the ^F48D07^SCORE MULTIPLIER^9B1062^ by extending your game! Keep increasing the ^F48D07^MULTIPLIER^9B1062^ to score big points!</String>
+  <!-- Board::CheckForTutorialDialogs:8872 -->
+  <String id="3756">SPEED +%d</String>
+  <!-- Board::DrawSpeedBonus:15876 -->
+  <!-- File:   CreditsMenu.cpp -->
+  <String id="3265">Viktorya Hollings,Miikka Luotio,Jim McDonagh,Nate Robinson,JP Vaughan,Phil Bolus,Lorien Gremore,Rebecca Mayfield,Yang Han</String>
+  <!-- CreditsMenu::ButtonDepress:182 -->
+  <String id="3268">Stephen Byrne,Lee Davies,Jonathan Lynch,Riana McKeith,Jen Pearce</String>
+  <!-- CreditsMenu::ButtonDepress:188 -->
+  <String id="3280">Karl Byrne,Jean De Merey,Anthony Mackey,John Paul Newman,Lorenzo Penati,Antonio Asensio Pérez,Jessica Schuster,Jonathon Young</String>
+  <!-- CreditsMenu::ButtonDepress:214 -->
+  <!-- File:   GameDetailMenu.cpp -->
+  <String id="3757">%02i:%02i</String>
+  <!-- GameDetailMenuContainer::GetStatsFromBoard:1193 -->
+  <!-- File:   HelpDialog.cpp -->
+  <String id="3736">SPEED</String>
+  <!-- HelpWindow::Draw:294 -->
+  <String id="3737">+%d</String>
+  <!-- HelpWindow::Draw:306 -->
+  <String id="3758">Blazing Speed</String>
+  <!-- HelpWindow::Draw:348 -->
+  <!-- File:   MainMenu.cpp -->
+  <String id="3738">ACTION</String>
+  <!-- MainMenu::InterfaceStateChanged:1137 -->
+  <String id="3739"></String>
+  <!-- MainMenu::InterfaceStateChanged:1137 -->
+  <String id="3740"></String>
+  <!-- MainMenu::InterfaceStateChanged:1137 -->
+  <String id="3741">PUZZLE</String>
+  <!-- MainMenu::InterfaceStateChanged:1143 -->
+  <String id="3742"></String>
+  <!-- MainMenu::InterfaceStateChanged:1143 -->
+  <String id="3743"></String>
+  <!-- MainMenu::InterfaceStateChanged:1143 -->
+  <String id="3744">BACK</String>
+  <!-- MainMenu::InterfaceStateChanged:1149 -->
+  <String id="3745"></String>
+  <!-- MainMenu::InterfaceStateChanged:1149 -->
+  <String id="3746"></String>
+  <!-- MainMenu::InterfaceStateChanged:1149 -->
+  <String id="3747">BACK</String>
+  <!-- MainMenu::InterfaceStateChanged:1156 -->
+  <String id="3748"></String>
+  <!-- MainMenu::InterfaceStateChanged:1156 -->
+  <String id="3749"></String>
+  <!-- MainMenu::InterfaceStateChanged:1156 -->
+  <!-- File:   PokerBoard.cpp -->
+  <String id="3759">Need %s or better</String>
+  <!-- PokerBoard::DrawGameElements:491 -->
+  <!-- File:  GameDetailMenu.cpp -->
+  <String id="3760">SPECIAL GEMS</String>
+  <!-- GameDetailMenuContainer::SetMode:1066 -->
+  <!-- File:  HelpDialog.cpp -->
+  <String id="3761">SPEED</String>
+  <!-- HelpWindow::Draw:298 -->
+  <String id="3762">SPEED +%d</String>
+  <!-- HelpWindow::Draw:300 -->
+  <String id="247">Match Time Gems to earn extra time in this fast-paced High Score mode.</String>
+  <!-- HelpDialog::SetupHelp:747 -->
+  <!-- File:  MainMenu.cpp -->
+  <String id="3763">COMING</String>
+  <!-- MainMenu::InterfaceStateChanged:1125 -->
+  <String id="3764">SOON</String>
+  <!-- MainMenu::InterfaceStateChanged:1125 -->
+  <String id="3765"></String>
+  <!-- MainMenu::InterfaceStateChanged:1125 -->
+  <String id="3766">BONUS</String>
+  <!-- MainMenu::InterfaceStateChanged:1177 -->
+  <String id="3767">GAMES</String>
+  <!-- MainMenu::InterfaceStateChanged:1177 -->
+  <String id="3768"></String>
+  <!-- MainMenu::InterfaceStateChanged:1177 -->
+  <String id="3769"></String>
+  <!-- MainMenu::InterfaceStateChanged:1184 -->
+  <String id="3770"></String>
+  <!-- MainMenu::InterfaceStateChanged:1184 -->
+  <String id="3771"></String>
+  <!-- MainMenuScrollContainer::LinkUpAssets:1256 -->
+  <String id="3772"></String>
+  <!-- MainMenuScrollContainer::LinkUpAssets:1257 -->
+  <String id="3773">GET</String>
+  <!-- MainMenuScrollContainer::LinkUpAssets:1261 -->
+  <String id="3774">BLITZ</String>
+  <!-- MainMenuScrollContainer::LinkUpAssets:1262 -->
+  <String id="3775"></String>
+  <!-- MainMenuScrollContainer::LinkUpAssets:1263 -->
+  <String id="3400">We&apos;re working tirelessly to bring you yet another exciting way to play Bejeweled.</String>
+  <!-- MainMenuScrollContainer::ButtonDepress:1457 -->
+  <!-- File:  PokerBoard.cpp -->
+  <String id="3776">HAND</String>
+  <!-- PokerBoard::Init:289 -->
+
+  <String id="3777">%d MATCH CHAIN</String>
+  <!-- Plural -->
+  <String id="3778">%d MATCH CHAIN</String>
+  <!-- Singular -->
+  <String id="3779">%d MATCH CHAIN</String>
+  <!-- Plural -->
+  <String id="3780">%d MATCH CHAIN</String>
+  <!-- Singular -->
+
+  <!-- !AUTOGEN -->
+  <String id="4001">HIGHSCORES</String>
+  <String id="4002">BREAKDOWN</String>
+  <String id="4003">POINTS BREAKDOWN</String>
+  <String id="4004">Matches</String>
+  <String id="4005">Specials</String>
+  <String id="4006">Speed</String>
+
+  <String id="5001">Remove Ads</String>
+  <String id="5002">In-App Purchase Disabled</String>
+  <String id="5003">Please change your device restrictions to make a purchase.</String>
+  <String id="5004">Error</String>
+  <String id="5005">Unable to process your request at this time.</String>
+  <String id="5006">Purchase Successful!</String>
+  <String id="5007">Thank you for supporting Bejeweled! All third-party ads have been removed!</String>
+  <String id="5008">Cancel</String>
+  <String id="5009">OK</String>
+
+  <String id="5010">Restore Successful!</String>
+  <String id="5011">Your Purchases have been restored.</String>
+  <String id="5012">Restore Failed</String>
+  <String id="5013">Restore purchases could not be completed.  Please check your connection and try again.</String>
+  <String id="5014">RESTORE PURCHASES</String>
+  <String id="5015">No Purchase Found</String>
+  <String id="5016">No purchase information could be retrieved for this Apple ID.</String>
+  <String id="5017">Enter Code</String>
+  <String id="5018">Redemption Failed</String>
+  <String id="5019">Code redemption failed. Please contact customer support.</String>
+  <String id="5020">Redemption Successful</String>
+  <String id="5021">Code redemption successful!</String>
+
+
+  <String id="5022">A hand containing two</String>
+  <String id="5023">matching cards.</String>
+  <String id="5024">A hand consisting of</String>
+  <String id="5025">no matching cards.</String>
+  <String id="5026">A hand containing two</String>
+  <String id="5027">pairs of matching cards.</String>
+  <String id="5028">A hand containing three</String>
+  <String id="5029">matching cards.</String>
+  <String id="5030">A hand containing a set of two</String>
+  <String id="5031">and a set of three matching cards.</String>
+  <String id="5032">A hand containing four</String>
+  <String id="5033">matching cards.</String>
+  <String id="5034">A hand in which all</String>
+  <String id="5035">five cards are the same.</String>
+
+  <String id="5036">Need %s or better</String>
+  <String id="5037">GAME OVER</String>
+  <String id="5038">EXAMPLES</String>
+  <String id="5039">HANDS LIST</String>
+  <String id="5040">RESUME</String>
+  <String id="5041">Swipe for more examples</String>
+  <String id="5042">Score</String>
+  <String id="5043">Swipe for more</String>
+  <String id="5044">Tap for more info</String>
+  <String id="5045">( Tap to dismiss )</String>
+  <String id="5046">1 Free Play</String>
+  <String id="5047">Next Play</String>
+  <String id="5048">UNLOCK</String>
+  <String id="5049">UNLOCK POKER</String>
+  <String id="5050">Your free play of Poker is ready! Play now!</String>
+  <String id="5051">If you are experiencing problems with your game please visit</String>
+  <String id="5052">for assistance!</String>
+
+
+  <String id="5053">DISABLE SHARE USAGE</String>
+  <String id="5054">ENABLE SHARE USAGE</String>
+  <String id="5055">USAGE SHARING</String>
+  <String id="5056">YES</String>
+  <String id="5057">NO</String>
+  <String id="5058">EA collects data from your device to provide and improve our products and services, update software, dynamically serve content, provide product support, communicate with you, and personalize your experience with EA. To limit collection of data from your device to that necessary to operate this game, disable device usage data sharing. CHANGES WILL BE REFLECTED IN YOUR NEXT GAME PLAY SESSION. Disable usage sharing?</String>
+  <String id="5059">Sharing of usage statistics has been disabled for the game. EA collects data from your device to provide and improve our products and services, update software, dynamically serve content, provide product support, communicate with you, and personalize your experience with EA. To limit collection of data from your device to that necessary to operate this game, disable device usage data sharing. CHANGES WILL BE REFLECTED IN YOUR NEXT GAME PLAY SESSION. Enable share usage?</String>
+
+  <String id="5060">%d Free Plays</String>
+  <String id="5061">Skip ad</String>
+  <String id="5062">Skip ad in %d</String>
+  <String id="5063">HANDS</String>
+  <String id="5064">Thank you! Enjoy Poker mode!</String>
+  <String id="5065">Thank you! Enjoy playing Bejeweled!</String>
+
+  <String id="5066">CONTINUE?</String>
+  <String id="5067">CONTINUE</String>
+  <String id="5068">Keep playing with %d extra seconds on the game timer.</String>
+  <String id="5069">View an ad and earn %d extra seconds on the game timer.</String>
+  <String id="5070">Purchase %d extra seconds and a Hypercube, or view an ad to get %d extra seconds.</String>
+  <String id="5071">CONTINUE</String>
+  <String id="5072">PURCHASE</String>
+  <String id="5073">VIEW AD</String>
+  <String id="5074">NO THANKS</String>
+  <String id="5075">Thanks! Enjoy your extra time in Diamond Mine.</String>
+
+  <String id="5076">Upgrade for free to HD?</String>
+  <String id="5077">We notice you're playing the iPhone version on your iPad. Would you like to install the optimized Bejeweled HD App from the App Store for free? Purchases and progress do not transfer between apps.</String>
+  <String id="5078">Upgrade</String>
+  <String id="5079">Remind Me Later</String>
+  <String id="5080">No Thanks</String>
+
+  <String id="5081">Tap to</String>
+  <String id="5082">Unlock</String>
+  <String id="5083">Unlock Poker</String>
+  <String id="3809">Sign In</String>
+  <String id="3810">Sign out</String>
+  <String id="3811">Sign in to enable Achievements and play across multiple devices. Keep playing, gain XP and compare your scores with friends' and Bejeweled players worldwide!</String>
+  <String id="3812">Being signed in will enable synchronizing your Achievements across multiple devices, and help compare scores with that of friends' and Bejeweled players worldwide!</String>
+  <String id="3813">Oops! We were unable to detect an active Internet connection. Please check your network settings and try again later.</String>
+  <String id="3814">Store Not Reachable</String>
+  <String id="3815">STORE</String>
+  <String id="3816">More Games for Free</String>
+  <String id="3817">Sign in failed. Please try again.</String>
+  <String id="3818">Game Services</String>
+  <String id="3819">Unable to login to Game Services</String>
+  <String id="3820">No purchases have been made to restore.</String>
+  <String id="3821">GOOGLE SIGN IN</String>
+  <String id="3822">Sign in to Google Game Services</String>
+  <String id="3823">Restore failed</String>
+  <String id="3824">Purchases have been restored</String>
+  <String id="3825">Purchase Cancelled</String>
+  <String id="3826">Your purchase has been cancelled</String>
+  <String id="3827">Sign out of Google Game Services</String>
+  <String id="3828">LOCKED</String>
+  <String id="3829">Coming Soon</String>
+  <String id="3830">1 minute of Endless Fun</String>
+  <String id="3831">Play Bejeweled Blitz Free!</String>
+  <String id="3832">The World's # 1 Puzzle Game</String>
+  <String id="3833">Play now for free</String>
+  <String id="3834">Match and detonate gems in 60 action-packed seconds and compete with Facebook friends!</String>
+  <String id="15049">UNLOCK LIGHTNING</String>
+  <String id="13363">STARS</String>
+  <String id="13773">GET</String>
+  <String id="13774">STARS</String>
+  <String id="13188">LAUNCH BEJEWELED STARS?</String>
+  <String id="13189">Minimize Bejeweled and launch Bejeweled Stars?</String>
+  <String id="13190">LAUNCH STARS</String>
+  <String id="13192">GET BEJEWELED STARS FOR FREE?</String>
+  <String id="13193">Minimize Bejeweled and go to the Play Store to get Bejeweled Stars for FREE?</String>
+  <String id="13194">GET STARS!</String>
+  <String id="13195">Play Now</String>
+  <String id="13196">Unlock Modes</String>
+  <String id="13197">Buy Game Modes</String>
+  <String id="13198">Unlock Modes</String>
+  <String id="13199">View an ad and earn a board shuffle</String>
+  <String id="13200">Use a free board shuffle</String>
+  <String id="13201">View an ad and save the butterfly!</String>
+  <String id="13202">Save the butterfly and continue</String>
+  <String id="13203">Owned</String>
+  <String id="13204">All Modes</String>
+  <String id="13205">Game Store</String>
+  <String id="13206">You should have at least one active Google account on your device.</String>
+  <String id="13207">Coming Soon</String>
+
+  <String id="1999">Boost</String>
+  <String id="2000">Super Boost</String>
+    <String id="2001">Watch an Ad to gain a boost</String>
+  <String id="2002">Buy 10</String>
+  <String id="2003">Get 1</String>
+  <String id="2004">Scramble</String>
+  <String id="2005">Randomly shuffle the gems on the board.</String>
+  <String id="2006">Powergem</String>
+  <String id="2007">Randomly place a hypercube on the board!</String>
+  <!-- Unused -->
+  <String id="2008">Blast Gem</String>
+  <String id="2009">Select a gem to turn it into a blast gem.  When swapped, it will trigger all special gems to explode!</String>
+  <String id="2010">Digger</String>
+  <String id="2011">This boost digs through the bottom layer of the mine.</String>
+  <String id="2012">Freeze</String>
+  <String id="2013">Freeze the butterflies for two turns.</String>
+  <String id="2014">Reset</String>
+  <String id="2015">Move all butterflies to the bottom of the game board.</String>
+  <String id="2016">Randomly generate a powerful gem on the board.</String>
+  <!-- Unused -->
+  <String id="2017">Time Extender</String>
+  <String id="2018">Increase the time bonus of any time gems on the board.</String>
+  <String id="2019">There are no more moves! Do you want to use a shuffle tool and continue playing?</String>
+  <String id="2020">Wild Card</String>
+  <String id="2021">Adds a wild card to your hand.</String>
+  <String id="2022">View an ad and continue playing.</String>
+  <String id="2023">Keep playing with another chance to win big.</String>
+  <String id="2024">No Time Gems</String>
+  <String id="2025">This boost increases the bonus time of any time gems on the board.  Try to use it when time gems are available.</String>
+  <String id="2026">Add 20 seconds to the clock!</String>
+  <String id="2027">Turn a gem into a Hyper Cube or an Exploding Gem!</String>
+  <String id="2028">Get more boosts in the Store!</String>
+  <String id="2029">Boosts Sale</String>
+  <String id="2030">Redeem</String>
+  <String id="2031">Unlock the Treasure Chest to earn a free Super Boost!</String>
+  <String id="2032">Unlock Treasure Chests with Keys.</String>
+  <String id="2033">Match a gem with a key to unlock a Treasure Chest!</String>
+  <String id="2034">Use Boosts to increase your score!</String>
+  <String id="2035">Classic Boost Pack</String>
+  <String id="2036">Butterfly Boost Pack</String>
+  <String id="2037">Diamond Boost Pack</String>
+  <String id="2038">Lightning Boost Pack</String>
+  <String id="2039">Poker Boost Pack</String>
+  <String id="2040">Super Boost Pack</String>
+  <String id="2041">Free Boost In:</String>
+  <String id="2042">There is no more time! Do you want to use a time boost and continue playing?</String>
+  <String id="2043">Unable to connect. Please check internet settings, and ensure that you are logged into Google Play.</String>
+  <String id="2044">Icestorm Boost Pack</String>
+  <String id="2045">Freeze Time</String>
+  <String id="2046">Temporarily stop the board from freezing.</String>
+  <String id="2047">View an ad and continue fighting the Ice Storm!</String>
+  <String id="2048">Continue fighting the Ice Storm!</String>
+  <String id="2049">Unlockables</String>
+  <String id="2050">Boost Packs</String>
+</Properties>

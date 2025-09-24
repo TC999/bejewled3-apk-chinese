@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Properties version="1.0" language="en" country="US" lookandfeel="NORMAL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+
+<!-- Filename Strings -->
+
+	<!-- Affirmations -->
+	<String id="General.txt">General</String>
+	<String id="Positive thinking.txt">Positive thinking</String>
+	<String id="Prosperity.txt">Prosperity</String>
+	<String id="Quit Bad Habits.txt">Quit Bad Habits</String>
+	<String id="Self Confidence.txt">Self Confidence</String>
+	<String id="Weight Loss.txt">Weight Loss</String>
+
+	<!-- Ambient -->
+	<String id="Coastal.ogg">Coastal</String>
+	<String id="Crickets.ogg">Crickets</String>
+	<String id="Forest.ogg">Forest</String>
+	<String id="Ocean Surf.ogg">Ocean Surf</String>
+	<String id="Rain Leaves.ogg">Rain Leaves</String>
+	<String id="Waterfall.ogg">Waterfall</String>
+
+	<!-- Binaural -->
+	<String id="Alpha Pattern.sbg">Alpha Pattern</String>
+	<String id="Beta Pattern.sbg">Beta Pattern</String>
+	<String id="Chakra Circle.sbg">Chakra Circle</String>
+	<String id="Chill Cycle.sbg">Chill Cycle</String>
+	<String id="Delta Pattern.sbg">Delta Pattern</String>
+	<String id="Euphoria.sbg">Euphoria</String>
+	<String id="Lucid Dream.sbg">Lucid Dream</String>
+	<String id="Meditation.sbg">Meditation</String>
+	<String id="Mood Lifter.sbg">Mood Lifter</String>
+	<String id="Pain Suppressor.sbg">Pain Suppressor</String>
+	<String id="Sleepy Time.sbg">Sleepy Time</String>
+
+</Properties>
