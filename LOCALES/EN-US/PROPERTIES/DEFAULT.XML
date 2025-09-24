@@ -2090,100 +2090,103 @@
   <!-- ZenOptionsContainer::CheckboxChecked:1003 -->
   <String id="3520">Speed</String>
   <!-- ZenOptionsContainer::CheckboxChecked:1008 -->
-  <String id="3476">ZEN OPTIONS</String>
+  <String id="3476">禅模式选项</String>
   <!-- ZenOptionsMenu::Init:1068 -->
-  <String id="3626">Ambient&cr;Sounds</String>
+  <String id="3626">环境
+音效</String>
   <!-- ZenOptionsMenu::Init:1087 -->
-  <String id="3627">Mantras</String>
+  <String id="3627">口号</String>
   <!-- ZenOptionsMenu::Init:1092 -->
-  <String id="3628">Breathing&cr;Modulation</String>
+  <String id="3628">呼吸
+调节</String>
   <!-- ZenOptionsMenu::Init:1097 -->
-  <String id="3629">MAIN MENU</String>
+  <String id="3629">主菜单</String>
   <!-- ZenOptionsMenu::Init:1104 -->
-  <String id="3630">RESUME</String>
+  <String id="3630">继续</String>
   <!-- ZenOptionsMenu::Init:1113 -->
-  <String id="3631">ZEN OPTIONS</String>
+  <String id="3631">禅模式选项</String>
   <!-- ZenOptionsMenu::Init:1125 -->
-  <String id="3632">Customise your Zen Experience!</String>
+  <String id="3632">自定义您的禅模式体验！</String>
   <!-- ZenOptionsMenu::Init:1135 -->
-  <String id="3720">Customise your&cr;Zen experience</String>
+  <String id="3720">自定义您的
+禅模式体验</String>
   <!-- ZenOptionsMenu::Init:1139 -->
-  <String id="3633">AMBIENT SOUNDS</String>
+  <String id="3633">环境音效</String>
   <!-- ZenOptionsMenu::Init:1141 -->
-  <String id="3634">MANTRAS</String>
+  <String id="3634">口号</String>
   <!-- ZenOptionsMenu::Init:1147 -->
-  <String id="3721">ZEN EFFECTS</String>
+  <String id="3721">禅模式效果</String>
   <!-- ZenOptionsMenu::Init:1151 -->
-  <String id="3635">BREATHING MODULATION</String>
+  <String id="3635">呼吸调节</String>
   <!-- ZenOptionsMenu::Init:1153 -->
-  <String id="3636">BACK</String>
+  <String id="3636">返回</String>
   <!-- ZenOptionsMenu::Init:1159 -->
-  <String id="3637">RESUME</String>
+  <String id="3637">继续</String>
   <!-- ZenOptionsMenu::Init:1165 -->
-  <String id="3483">Zen Options</String>
+  <String id="3483">禅模式选项</String>
   <!-- ZenOptionsMenu::SetMode:1454 -->
-  <String id="3484">Ambient Sounds</String>
+  <String id="3484">环境音效</String>
   <!-- ZenOptionsMenu::SetMode:1458 -->
-  <String id="3485">Mantras</String>
+  <String id="3485">口号</String>
   <!-- ZenOptionsMenu::SetMode:1462 -->
-  <String id="3486">Breathing Modulation</String>
+  <String id="3486">呼吸调节</String>
   <!-- ZenOptionsMenu::SetMode:1466 -->
   <!-- File:     BadgeMenu.cpp -->
-  <String id="3722">BADGE COLLECTION</String>
+  <String id="3722">徽章收藏</String>
   <!-- Line 143 -->
-  <String id="3724">ELITE BADGES</String>
+  <String id="3724">精英徽章</String>
   <!-- BadgeMenu::Update:1723 -->
-  <String id="3725">BADGES</String>
+  <String id="3725">徽章</String>
   <!-- BadgeMenu::Update:1725 -->
   <!-- File:     BadgeWidget.cpp -->
-  <String id="3726">%s^FFFFFF^ &quot;%s&quot; Badge</String>
+  <String id="3726">%s^FFFFFF^ "%s"徽章</String>
   <!-- BadgeWidget::Draw:286 -->
   <!-- File:     Bej3App.cpp -->
-  <String id="3727">GAME CENTER</String>
+  <String id="3727">游戏中心</String>
   <!-- Bej3App::GameCenterButtonPressed:5710 -->
-  <String id="3728">Unable to log into Game Center.</String>
+  <String id="3728">无法登录游戏中心。</String>
   <!-- Bej3App::GameCenterButtonPressed:5710 -->
-  <String id="3729">BACK</String>
+  <String id="3729">返回</String>
   <!-- Bej3App::GameCenterButtonPressed:5710 -->
   <!-- File:     RateGameDialog.cpp -->
-  <String id="3723">We think Bejeweled is a gem of a game! Give it a rating to let us know what you think!</String>
+  <String id="3723">我们认为宝石迷阵是一款精彩绝伦的游戏！请给它评分，让我们知道您的想法！</String>
   <!-- Line 21 -->
   <!-- File:    BadgeMenu.cpp -->
-  <String id="71">%s%s%s Badge</String>
+  <String id="71">%s%s%s徽章</String>
   <!-- BadgeMenu::DrawOverlay:706 -->
   <!-- File:    Bej3App.cpp -->
-  <String id="75">RESUME?</String>
+  <String id="75">继续游戏？</String>
   <!-- Bej3App::DoSavedGameCheck:1339 -->
   <!-- File:    MainMenu.cpp -->
-  <String id="3584">Welcome Back,</String>
+  <String id="3584">欢迎回来，</String>
   <!-- MainMenuProfile::LinkUpAssets:1549 -->
-  <String id="3734">Welcome,</String>
+  <String id="3734">欢迎，</String>
   <!-- MainMenuProfile::LinkUpAssets:1551 -->
   <!-- File:   ArrowGem.cpp -->
-  <String id="3750">BACK</String>
+  <String id="3750">返回</String>
   <!-- Line 21 -->
   <!-- File:   Badge.cpp -->
-  <String id="3730">Bronze&nbsp;</String>
+  <String id="3730">铜级&nbsp;</String>
   <!-- Badge::GetBadgeLevelName:115 -->
-  <String id="3731">Silver&nbsp;</String>
+  <String id="3731">银级&nbsp;</String>
   <!-- Badge::GetBadgeLevelName:116 -->
-  <String id="3732">Gold&nbsp;</String>
+  <String id="3732">金级&nbsp;</String>
   <!-- Badge::GetBadgeLevelName:117 -->
-  <String id="3733">Platinum&nbsp;</String>
+  <String id="3733">白金级&nbsp;</String>
   <!-- Badge::GetBadgeLevelName:118 -->
   <!-- File:   Bej3App.cpp -->
-  <String id="3751">Match Time Gems to earn extra time in this fast-paced High Score mode.</String>
+  <String id="3751">在这个快节奏的高分模式中，匹配时间宝石以获得额外时间。</String>
   <!-- Bej3App::GetModeHint:5186 -->
   <!-- File:   Board.cpp -->
-  <String id="3752">SCORE MULTIPLIER</String>
+  <String id="3752">得分倍数</String>
   <!-- Board::CheckForTutorialDialogs:8823 -->
-  <String id="3753">You have increased the SCORE MULTIPLIER by extending your game! Keep increasing the MULTIPLIER to score big points!</String>
+  <String id="3753">您通过延长游戏时间增加了得分倍数！继续增加倍数以获得高分！</String>
   <!-- Board::CheckForTutorialDialogs:8824 -->
-  <String id="3754">SCORE MULTIPLIER</String>
+  <String id="3754">得分倍数</String>
   <!-- Board::CheckForTutorialDialogs:8871 -->
-  <String id="3755">^9B1062^You have increased the ^F48D07^SCORE MULTIPLIER^9B1062^ by extending your game! Keep increasing the ^F48D07^MULTIPLIER^9B1062^ to score big points!</String>
+  <String id="3755">^9B1062^您通过延长游戏时间增加了^F48D07^得分倍数^9B1062^！继续增加^F48D07^倍数^9B1062^以获得高分！</String>
   <!-- Board::CheckForTutorialDialogs:8872 -->
-  <String id="3756">SPEED +%d</String>
+  <String id="3756">速度 +%d</String>
   <!-- Board::DrawSpeedBonus:15876 -->
   <!-- File:   CreditsMenu.cpp -->
   <String id="3265">Viktorya Hollings,Miikka Luotio,Jim McDonagh,Nate Robinson,JP Vaughan,Phil Bolus,Lorien Gremore,Rebecca Mayfield,Yang Han</String>
@@ -2196,60 +2199,60 @@
   <String id="3757">%02i:%02i</String>
   <!-- GameDetailMenuContainer::GetStatsFromBoard:1193 -->
   <!-- File:   HelpDialog.cpp -->
-  <String id="3736">SPEED</String>
+  <String id="3736">速度</String>
   <!-- HelpWindow::Draw:294 -->
   <String id="3737">+%d</String>
   <!-- HelpWindow::Draw:306 -->
-  <String id="3758">Blazing Speed</String>
+  <String id="3758">极速</String>
   <!-- HelpWindow::Draw:348 -->
   <!-- File:   MainMenu.cpp -->
-  <String id="3738">ACTION</String>
+  <String id="3738">动作</String>
   <!-- MainMenu::InterfaceStateChanged:1137 -->
   <String id="3739"></String>
   <!-- MainMenu::InterfaceStateChanged:1137 -->
   <String id="3740"></String>
   <!-- MainMenu::InterfaceStateChanged:1137 -->
-  <String id="3741">PUZZLE</String>
+  <String id="3741">解谜</String>
   <!-- MainMenu::InterfaceStateChanged:1143 -->
   <String id="3742"></String>
   <!-- MainMenu::InterfaceStateChanged:1143 -->
   <String id="3743"></String>
   <!-- MainMenu::InterfaceStateChanged:1143 -->
-  <String id="3744">BACK</String>
+  <String id="3744">返回</String>
   <!-- MainMenu::InterfaceStateChanged:1149 -->
   <String id="3745"></String>
   <!-- MainMenu::InterfaceStateChanged:1149 -->
   <String id="3746"></String>
   <!-- MainMenu::InterfaceStateChanged:1149 -->
-  <String id="3747">BACK</String>
+  <String id="3747">返回</String>
   <!-- MainMenu::InterfaceStateChanged:1156 -->
   <String id="3748"></String>
   <!-- MainMenu::InterfaceStateChanged:1156 -->
   <String id="3749"></String>
   <!-- MainMenu::InterfaceStateChanged:1156 -->
   <!-- File:   PokerBoard.cpp -->
-  <String id="3759">Need %s or better</String>
+  <String id="3759">需要%s或更好</String>
   <!-- PokerBoard::DrawGameElements:491 -->
   <!-- File:  GameDetailMenu.cpp -->
-  <String id="3760">SPECIAL GEMS</String>
+  <String id="3760">特殊宝石</String>
   <!-- GameDetailMenuContainer::SetMode:1066 -->
   <!-- File:  HelpDialog.cpp -->
-  <String id="3761">SPEED</String>
+  <String id="3761">速度</String>
   <!-- HelpWindow::Draw:298 -->
-  <String id="3762">SPEED +%d</String>
+  <String id="3762">速度 +%d</String>
   <!-- HelpWindow::Draw:300 -->
-  <String id="247">Match Time Gems to earn extra time in this fast-paced High Score mode.</String>
+  <String id="247">在这个快节奏的高分模式中，匹配时间宝石以获得额外时间。</String>
   <!-- HelpDialog::SetupHelp:747 -->
   <!-- File:  MainMenu.cpp -->
-  <String id="3763">COMING</String>
+  <String id="3763">即将</String>
   <!-- MainMenu::InterfaceStateChanged:1125 -->
-  <String id="3764">SOON</String>
+  <String id="3764">推出</String>
   <!-- MainMenu::InterfaceStateChanged:1125 -->
   <String id="3765"></String>
   <!-- MainMenu::InterfaceStateChanged:1125 -->
-  <String id="3766">BONUS</String>
+  <String id="3766">奖励</String>
   <!-- MainMenu::InterfaceStateChanged:1177 -->
-  <String id="3767">GAMES</String>
+  <String id="3767">游戏</String>
   <!-- MainMenu::InterfaceStateChanged:1177 -->
   <String id="3768"></String>
   <!-- MainMenu::InterfaceStateChanged:1177 -->
@@ -2261,230 +2264,230 @@
   <!-- MainMenuScrollContainer::LinkUpAssets:1256 -->
   <String id="3772"></String>
   <!-- MainMenuScrollContainer::LinkUpAssets:1257 -->
-  <String id="3773">GET</String>
+  <String id="3773">获取</String>
   <!-- MainMenuScrollContainer::LinkUpAssets:1261 -->
-  <String id="3774">BLITZ</String>
+  <String id="3774">闪电战</String>
   <!-- MainMenuScrollContainer::LinkUpAssets:1262 -->
   <String id="3775"></String>
   <!-- MainMenuScrollContainer::LinkUpAssets:1263 -->
-  <String id="3400">We&apos;re working tirelessly to bring you yet another exciting way to play Bejeweled.</String>
+  <String id="3400">我们正在不懈努力，为您带来另一种激动人心的宝石迷阵玩法。</String>
   <!-- MainMenuScrollContainer::ButtonDepress:1457 -->
   <!-- File:  PokerBoard.cpp -->
-  <String id="3776">HAND</String>
+  <String id="3776">手牌</String>
   <!-- PokerBoard::Init:289 -->
 
-  <String id="3777">%d MATCH CHAIN</String>
+  <String id="3777">%d 匹配链</String>
   <!-- Plural -->
-  <String id="3778">%d MATCH CHAIN</String>
+  <String id="3778">%d 匹配链</String>
   <!-- Singular -->
-  <String id="3779">%d MATCH CHAIN</String>
+  <String id="3779">%d 匹配链</String>
   <!-- Plural -->
-  <String id="3780">%d MATCH CHAIN</String>
+  <String id="3780">%d 匹配链</String>
   <!-- Singular -->
 
   <!-- !AUTOGEN -->
-  <String id="4001">HIGHSCORES</String>
-  <String id="4002">BREAKDOWN</String>
-  <String id="4003">POINTS BREAKDOWN</String>
-  <String id="4004">Matches</String>
-  <String id="4005">Specials</String>
-  <String id="4006">Speed</String>
+  <String id="4001">高分记录</String>
+  <String id="4002">详细分析</String>
+  <String id="4003">分数明细</String>
+  <String id="4004">匹配</String>
+  <String id="4005">特殊宝石</String>
+  <String id="4006">速度</String>
 
-  <String id="5001">Remove Ads</String>
-  <String id="5002">In-App Purchase Disabled</String>
-  <String id="5003">Please change your device restrictions to make a purchase.</String>
-  <String id="5004">Error</String>
-  <String id="5005">Unable to process your request at this time.</String>
-  <String id="5006">Purchase Successful!</String>
-  <String id="5007">Thank you for supporting Bejeweled! All third-party ads have been removed!</String>
-  <String id="5008">Cancel</String>
-  <String id="5009">OK</String>
+  <String id="5001">移除广告</String>
+  <String id="5002">应用内购买已禁用</String>
+  <String id="5003">请更改设备限制以进行购买。</String>
+  <String id="5004">错误</String>
+  <String id="5005">目前无法处理您的请求。</String>
+  <String id="5006">购买成功！</String>
+  <String id="5007">感谢您支持宝石迷阵！所有第三方广告已被移除！</String>
+  <String id="5008">取消</String>
+  <String id="5009">确定</String>
 
-  <String id="5010">Restore Successful!</String>
-  <String id="5011">Your Purchases have been restored.</String>
-  <String id="5012">Restore Failed</String>
-  <String id="5013">Restore purchases could not be completed.  Please check your connection and try again.</String>
-  <String id="5014">RESTORE PURCHASES</String>
-  <String id="5015">No Purchase Found</String>
-  <String id="5016">No purchase information could be retrieved for this Apple ID.</String>
-  <String id="5017">Enter Code</String>
-  <String id="5018">Redemption Failed</String>
-  <String id="5019">Code redemption failed. Please contact customer support.</String>
-  <String id="5020">Redemption Successful</String>
-  <String id="5021">Code redemption successful!</String>
-
-
-  <String id="5022">A hand containing two</String>
-  <String id="5023">matching cards.</String>
-  <String id="5024">A hand consisting of</String>
-  <String id="5025">no matching cards.</String>
-  <String id="5026">A hand containing two</String>
-  <String id="5027">pairs of matching cards.</String>
-  <String id="5028">A hand containing three</String>
-  <String id="5029">matching cards.</String>
-  <String id="5030">A hand containing a set of two</String>
-  <String id="5031">and a set of three matching cards.</String>
-  <String id="5032">A hand containing four</String>
-  <String id="5033">matching cards.</String>
-  <String id="5034">A hand in which all</String>
-  <String id="5035">five cards are the same.</String>
-
-  <String id="5036">Need %s or better</String>
-  <String id="5037">GAME OVER</String>
-  <String id="5038">EXAMPLES</String>
-  <String id="5039">HANDS LIST</String>
-  <String id="5040">RESUME</String>
-  <String id="5041">Swipe for more examples</String>
-  <String id="5042">Score</String>
-  <String id="5043">Swipe for more</String>
-  <String id="5044">Tap for more info</String>
-  <String id="5045">( Tap to dismiss )</String>
-  <String id="5046">1 Free Play</String>
-  <String id="5047">Next Play</String>
-  <String id="5048">UNLOCK</String>
-  <String id="5049">UNLOCK POKER</String>
-  <String id="5050">Your free play of Poker is ready! Play now!</String>
-  <String id="5051">If you are experiencing problems with your game please visit</String>
-  <String id="5052">for assistance!</String>
+  <String id="5010">恢复成功！</String>
+  <String id="5011">您的购买已恢复。</String>
+  <String id="5012">恢复失败</String>
+  <String id="5013">无法完成购买恢复。请检查您的连接并重试。</String>
+  <String id="5014">恢复购买</String>
+  <String id="5015">未找到购买记录</String>
+  <String id="5016">无法为此Apple ID检索购买信息。</String>
+  <String id="5017">输入代码</String>
+  <String id="5018">兑换失败</String>
+  <String id="5019">代码兑换失败。请联系客户支持。</String>
+  <String id="5020">兑换成功</String>
+  <String id="5021">代码兑换成功！</String>
 
 
-  <String id="5053">DISABLE SHARE USAGE</String>
-  <String id="5054">ENABLE SHARE USAGE</String>
-  <String id="5055">USAGE SHARING</String>
-  <String id="5056">YES</String>
-  <String id="5057">NO</String>
-  <String id="5058">EA collects data from your device to provide and improve our products and services, update software, dynamically serve content, provide product support, communicate with you, and personalize your experience with EA. To limit collection of data from your device to that necessary to operate this game, disable device usage data sharing. CHANGES WILL BE REFLECTED IN YOUR NEXT GAME PLAY SESSION. Disable usage sharing?</String>
-  <String id="5059">Sharing of usage statistics has been disabled for the game. EA collects data from your device to provide and improve our products and services, update software, dynamically serve content, provide product support, communicate with you, and personalize your experience with EA. To limit collection of data from your device to that necessary to operate this game, disable device usage data sharing. CHANGES WILL BE REFLECTED IN YOUR NEXT GAME PLAY SESSION. Enable share usage?</String>
+  <String id="5022">一手包含两张</String>
+  <String id="5023">匹配的牌。</String>
+  <String id="5024">一手包含</String>
+  <String id="5025">没有匹配的牌。</String>
+  <String id="5026">一手包含两对</String>
+  <String id="5027">匹配的牌。</String>
+  <String id="5028">一手包含三张</String>
+  <String id="5029">匹配的牌。</String>
+  <String id="5030">一手包含一对</String>
+  <String id="5031">和一组三张匹配的牌。</String>
+  <String id="5032">一手包含四张</String>
+  <String id="5033">匹配的牌。</String>
+  <String id="5034">一手牌中所有五张</String>
+  <String id="5035">牌都是相同的。</String>
 
-  <String id="5060">%d Free Plays</String>
-  <String id="5061">Skip ad</String>
-  <String id="5062">Skip ad in %d</String>
-  <String id="5063">HANDS</String>
-  <String id="5064">Thank you! Enjoy Poker mode!</String>
-  <String id="5065">Thank you! Enjoy playing Bejeweled!</String>
+  <String id="5036">需要%s或更好</String>
+  <String id="5037">游戏结束</String>
+  <String id="5038">示例</String>
+  <String id="5039">手牌列表</String>
+  <String id="5040">继续</String>
+  <String id="5041">滑动查看更多示例</String>
+  <String id="5042">得分</String>
+  <String id="5043">滑动查看更多</String>
+  <String id="5044">点击了解更多信息</String>
+  <String id="5045">(点击关闭)</String>
+  <String id="5046">1次免费游戏</String>
+  <String id="5047">下一局</String>
+  <String id="5048">解锁</String>
+  <String id="5049">解锁扑克</String>
+  <String id="5050">您的扑克免费游戏已准备就绪！立即开始游戏！</String>
+  <String id="5051">如果您在游戏中遇到问题，请访问</String>
+  <String id="5052">获取帮助！</String>
 
-  <String id="5066">CONTINUE?</String>
-  <String id="5067">CONTINUE</String>
-  <String id="5068">Keep playing with %d extra seconds on the game timer.</String>
-  <String id="5069">View an ad and earn %d extra seconds on the game timer.</String>
-  <String id="5070">Purchase %d extra seconds and a Hypercube, or view an ad to get %d extra seconds.</String>
-  <String id="5071">CONTINUE</String>
-  <String id="5072">PURCHASE</String>
-  <String id="5073">VIEW AD</String>
-  <String id="5074">NO THANKS</String>
-  <String id="5075">Thanks! Enjoy your extra time in Diamond Mine.</String>
 
-  <String id="5076">Upgrade for free to HD?</String>
-  <String id="5077">We notice you're playing the iPhone version on your iPad. Would you like to install the optimized Bejeweled HD App from the App Store for free? Purchases and progress do not transfer between apps.</String>
-  <String id="5078">Upgrade</String>
-  <String id="5079">Remind Me Later</String>
-  <String id="5080">No Thanks</String>
+  <String id="5053">禁用共享使用数据</String>
+  <String id="5054">启用共享使用数据</String>
+  <String id="5055">使用数据共享</String>
+  <String id="5056">是</String>
+  <String id="5057">否</String>
+  <String id="5058">EA会从您的设备收集数据，以提供和改进我们的产品和服务、更新软件、动态提供内容、提供产品支持、与您沟通，并为您个性化EA体验。要将从设备收集的数据限制为运行此游戏所必需的数据，请禁用设备使用数据共享。更改将在您的下一个游戏会话中生效。是否禁用使用数据共享？</String>
+  <String id="5059">游戏的使用统计共享已被禁用。EA会从您的设备收集数据，以提供和改进我们的产品和服务、更新软件、动态提供内容、提供产品支持、与您沟通，并为您个性化EA体验。要将从设备收集的数据限制为运行此游戏所必需的数据，请禁用设备使用数据共享。更改将在您的下一个游戏会话中生效。是否启用使用数据共享？</String>
 
-  <String id="5081">Tap to</String>
-  <String id="5082">Unlock</String>
-  <String id="5083">Unlock Poker</String>
-  <String id="3809">Sign In</String>
-  <String id="3810">Sign out</String>
-  <String id="3811">Sign in to enable Achievements and play across multiple devices. Keep playing, gain XP and compare your scores with friends' and Bejeweled players worldwide!</String>
-  <String id="3812">Being signed in will enable synchronizing your Achievements across multiple devices, and help compare scores with that of friends' and Bejeweled players worldwide!</String>
-  <String id="3813">Oops! We were unable to detect an active Internet connection. Please check your network settings and try again later.</String>
-  <String id="3814">Store Not Reachable</String>
-  <String id="3815">STORE</String>
-  <String id="3816">More Games for Free</String>
-  <String id="3817">Sign in failed. Please try again.</String>
-  <String id="3818">Game Services</String>
-  <String id="3819">Unable to login to Game Services</String>
-  <String id="3820">No purchases have been made to restore.</String>
-  <String id="3821">GOOGLE SIGN IN</String>
-  <String id="3822">Sign in to Google Game Services</String>
-  <String id="3823">Restore failed</String>
-  <String id="3824">Purchases have been restored</String>
-  <String id="3825">Purchase Cancelled</String>
-  <String id="3826">Your purchase has been cancelled</String>
-  <String id="3827">Sign out of Google Game Services</String>
-  <String id="3828">LOCKED</String>
-  <String id="3829">Coming Soon</String>
-  <String id="3830">1 minute of Endless Fun</String>
-  <String id="3831">Play Bejeweled Blitz Free!</String>
-  <String id="3832">The World's # 1 Puzzle Game</String>
-  <String id="3833">Play now for free</String>
-  <String id="3834">Match and detonate gems in 60 action-packed seconds and compete with Facebook friends!</String>
-  <String id="15049">UNLOCK LIGHTNING</String>
-  <String id="13363">STARS</String>
-  <String id="13773">GET</String>
-  <String id="13774">STARS</String>
-  <String id="13188">LAUNCH BEJEWELED STARS?</String>
-  <String id="13189">Minimize Bejeweled and launch Bejeweled Stars?</String>
-  <String id="13190">LAUNCH STARS</String>
-  <String id="13192">GET BEJEWELED STARS FOR FREE?</String>
-  <String id="13193">Minimize Bejeweled and go to the Play Store to get Bejeweled Stars for FREE?</String>
-  <String id="13194">GET STARS!</String>
-  <String id="13195">Play Now</String>
-  <String id="13196">Unlock Modes</String>
-  <String id="13197">Buy Game Modes</String>
-  <String id="13198">Unlock Modes</String>
-  <String id="13199">View an ad and earn a board shuffle</String>
-  <String id="13200">Use a free board shuffle</String>
-  <String id="13201">View an ad and save the butterfly!</String>
-  <String id="13202">Save the butterfly and continue</String>
-  <String id="13203">Owned</String>
-  <String id="13204">All Modes</String>
-  <String id="13205">Game Store</String>
-  <String id="13206">You should have at least one active Google account on your device.</String>
-  <String id="13207">Coming Soon</String>
+  <String id="5060">%d次免费游戏</String>
+  <String id="5061">跳过广告</String>
+  <String id="5062">%d秒后可跳过广告</String>
+  <String id="5063">手牌</String>
+  <String id="5064">谢谢！享受扑克模式！</String>
+  <String id="5065">谢谢！享受宝石迷阵游戏！</String>
 
-  <String id="1999">Boost</String>
-  <String id="2000">Super Boost</String>
-    <String id="2001">Watch an Ad to gain a boost</String>
-  <String id="2002">Buy 10</String>
-  <String id="2003">Get 1</String>
-  <String id="2004">Scramble</String>
-  <String id="2005">Randomly shuffle the gems on the board.</String>
-  <String id="2006">Powergem</String>
-  <String id="2007">Randomly place a hypercube on the board!</String>
+  <String id="5066">继续？</String>
+  <String id="5067">继续</String>
+  <String id="5068">游戏计时器增加%d秒，继续游戏。</String>
+  <String id="5069">观看广告获得%d秒游戏时间。</String>
+  <String id="5070">购买%d秒游戏时间和一个超级方块，或观看广告获得%d秒游戏时间。</String>
+  <String id="5071">继续</String>
+  <String id="5072">购买</String>
+  <String id="5073">观看广告</String>
+  <String id="5074">不用了，谢谢</String>
+  <String id="5075">谢谢！享受您在钻石矿场的额外时间。</String>
+
+  <String id="5076">免费升级到高清版本？</String>
+  <String id="5077">我们注意到您在iPad上运行iPhone版本。您想从App Store免费安装优化的宝石迷阵高清应用程序吗？购买记录和进度不会在应用程序之间转移。</String>
+  <String id="5078">升级</String>
+  <String id="5079">稍后提醒我</String>
+  <String id="5080">不用了，谢谢</String>
+
+  <String id="5081">点击</String>
+  <String id="5082">解锁</String>
+  <String id="5083">解锁扑克</String>
+  <String id="3809">登录</String>
+  <String id="3810">退出登录</String>
+  <String id="3811">登录以启用成就功能并跨多设备游戏。继续游戏，获得经验值，并与好友和全球宝石迷阵玩家比较分数！</String>
+  <String id="3812">登录后可以跨多设备同步您的成就，并帮助您与好友和全球宝石迷阵玩家比较分数！</String>
+  <String id="3813">哎呀！我们无法检测到活跃的互联网连接。请检查您的网络设置，稍后再试。</String>
+  <String id="3814">无法连接到商店</String>
+  <String id="3815">商店</String>
+  <String id="3816">更多免费游戏</String>
+  <String id="3817">登录失败。请重试。</String>
+  <String id="3818">游戏服务</String>
+  <String id="3819">无法登录到游戏服务</String>
+  <String id="3820">没有可恢复的购买记录。</String>
+  <String id="3821">谷歌登录</String>
+  <String id="3822">登录到谷歌游戏服务</String>
+  <String id="3823">恢复失败</String>
+  <String id="3824">购买记录已恢复</String>
+  <String id="3825">购买已取消</String>
+  <String id="3826">您的购买已取消</String>
+  <String id="3827">退出谷歌游戏服务</String>
+  <String id="3828">已锁定</String>
+  <String id="3829">即将推出</String>
+  <String id="3830">1分钟无限乐趣</String>
+  <String id="3831">免费玩宝石迷阵闪电战！</String>
+  <String id="3832">全球排名第一的益智游戏</String>
+  <String id="3833">立即免费玩</String>
+  <String id="3834">在60秒充满动作的游戏中匹配并引爆宝石，与Facebook好友竞争！</String>
+  <String id="15049">解锁闪电模式</String>
+  <String id="13363">星星</String>
+  <String id="13773">获取</String>
+  <String id="13774">星星</String>
+  <String id="13188">启动宝石迷阵星星版？</String>
+  <String id="13189">最小化宝石迷阵并启动宝石迷阵星星版？</String>
+  <String id="13190">启动星星版</String>
+  <String id="13192">免费获取宝石迷阵星星版？</String>
+  <String id="13193">最小化宝石迷阵并前往应用商店免费获取宝石迷阵星星版？</String>
+  <String id="13194">获取星星版！</String>
+  <String id="13195">立即游玩</String>
+  <String id="13196">解锁模式</String>
+  <String id="13197">购买游戏模式</String>
+  <String id="13198">解锁模式</String>
+  <String id="13199">观看广告获得棋盘重排</String>
+  <String id="13200">使用免费棋盘重排</String>
+  <String id="13201">观看广告拯救蝴蝶！</String>
+  <String id="13202">拯救蝴蝶并继续游戏</String>
+  <String id="13203">已拥有</String>
+  <String id="13204">所有模式</String>
+  <String id="13205">游戏商店</String>
+  <String id="13206">您的设备上应至少有一个活跃的Google账户。</String>
+  <String id="13207">即将推出</String>
+
+  <String id="1999">增强</String>
+  <String id="2000">超级增强</String>
+    <String id="2001">观看广告获得增强</String>
+  <String id="2002">购买10个</String>
+  <String id="2003">获得1个</String>
+  <String id="2004">随机重排</String>
+  <String id="2005">随机打乱棋盘上的宝石。</String>
+  <String id="2006">超级宝石</String>
+  <String id="2007">在棋盘上随机放置一个超级方块！</String>
   <!-- Unused -->
-  <String id="2008">Blast Gem</String>
-  <String id="2009">Select a gem to turn it into a blast gem.  When swapped, it will trigger all special gems to explode!</String>
-  <String id="2010">Digger</String>
-  <String id="2011">This boost digs through the bottom layer of the mine.</String>
-  <String id="2012">Freeze</String>
-  <String id="2013">Freeze the butterflies for two turns.</String>
-  <String id="2014">Reset</String>
-  <String id="2015">Move all butterflies to the bottom of the game board.</String>
-  <String id="2016">Randomly generate a powerful gem on the board.</String>
+  <String id="2008">爆炸宝石</String>
+  <String id="2009">选择一个宝石将其转变为爆炸宝石。当交换时，它将触发所有特殊宝石爆炸！</String>
+  <String id="2010">挖掘者</String>
+  <String id="2011">这个增强道具可以挖穿矿场的底层。</String>
+  <String id="2012">冻结</String>
+  <String id="2013">冻结蝴蝶两回合。</String>
+  <String id="2014">重置</String>
+  <String id="2015">将所有蝴蝶移动到游戏棋盘的底部。</String>
+  <String id="2016">在棋盘上随机生成一个强力宝石。</String>
   <!-- Unused -->
-  <String id="2017">Time Extender</String>
-  <String id="2018">Increase the time bonus of any time gems on the board.</String>
-  <String id="2019">There are no more moves! Do you want to use a shuffle tool and continue playing?</String>
-  <String id="2020">Wild Card</String>
-  <String id="2021">Adds a wild card to your hand.</String>
-  <String id="2022">View an ad and continue playing.</String>
-  <String id="2023">Keep playing with another chance to win big.</String>
-  <String id="2024">No Time Gems</String>
-  <String id="2025">This boost increases the bonus time of any time gems on the board.  Try to use it when time gems are available.</String>
-  <String id="2026">Add 20 seconds to the clock!</String>
-  <String id="2027">Turn a gem into a Hyper Cube or an Exploding Gem!</String>
-  <String id="2028">Get more boosts in the Store!</String>
-  <String id="2029">Boosts Sale</String>
-  <String id="2030">Redeem</String>
-  <String id="2031">Unlock the Treasure Chest to earn a free Super Boost!</String>
-  <String id="2032">Unlock Treasure Chests with Keys.</String>
-  <String id="2033">Match a gem with a key to unlock a Treasure Chest!</String>
-  <String id="2034">Use Boosts to increase your score!</String>
-  <String id="2035">Classic Boost Pack</String>
-  <String id="2036">Butterfly Boost Pack</String>
-  <String id="2037">Diamond Boost Pack</String>
-  <String id="2038">Lightning Boost Pack</String>
-  <String id="2039">Poker Boost Pack</String>
-  <String id="2040">Super Boost Pack</String>
-  <String id="2041">Free Boost In:</String>
-  <String id="2042">There is no more time! Do you want to use a time boost and continue playing?</String>
-  <String id="2043">Unable to connect. Please check internet settings, and ensure that you are logged into Google Play.</String>
-  <String id="2044">Icestorm Boost Pack</String>
-  <String id="2045">Freeze Time</String>
-  <String id="2046">Temporarily stop the board from freezing.</String>
-  <String id="2047">View an ad and continue fighting the Ice Storm!</String>
-  <String id="2048">Continue fighting the Ice Storm!</String>
-  <String id="2049">Unlockables</String>
-  <String id="2050">Boost Packs</String>
+  <String id="2017">时间延长器</String>
+  <String id="2018">增加棋盘上任何时间宝石的时间奖励。</String>
+  <String id="2019">没有更多可移动的宝石了！您想使用重排工具并继续游戏吗？</String>
+  <String id="2020">百搭牌</String>
+  <String id="2021">在您的手牌中添加一张百搭牌。</String>
+  <String id="2022">观看广告继续游戏。</String>
+  <String id="2023">继续游戏，还有机会赢得大奖。</String>
+  <String id="2024">没有时间宝石</String>
+  <String id="2025">这个增强道具会增加棋盘上任何时间宝石的奖励时间。请在有时光宝石可用时使用它。</String>
+  <String id="2026">增加20秒游戏时间！</String>
+  <String id="2027">将宝石转变为超级方块或爆炸宝石！</String>
+  <String id="2028">在商店获取更多增强道具！</String>
+  <String id="2029">增强道具促销</String>
+  <String id="2030">兑换</String>
+  <String id="2031">解锁宝箱获得免费超级增强！</String>
+  <String id="2032">使用钥匙解锁宝箱。</String>
+  <String id="2033">将宝石与钥匙匹配以解锁宝箱！</String>
+  <String id="2034">使用增强道具提高分数！</String>
+  <String id="2035">经典增强包</String>
+  <String id="2036">蝴蝶增强包</String>
+  <String id="2037">钻石增强包</String>
+  <String id="2038">闪电增强包</String>
+  <String id="2039">扑克增强包</String>
+  <String id="2040">超级增强包</String>
+  <String id="2041">免费增强道具将于：</String>
+  <String id="2042">时间用完了！您想使用时间增强道具并继续游戏吗？</String>
+  <String id="2043">无法连接。请检查网络设置，并确保您已登录Google Play。</String>
+  <String id="2044">冰风暴增强包</String>
+  <String id="2045">冻结时间</String>
+  <String id="2046">暂时阻止棋盘冻结。</String>
+  <String id="2047">观看广告继续对抗冰风暴！</String>
+  <String id="2048">继续对抗冰风暴！</String>
+  <String id="2049">可解锁内容</String>
+  <String id="2050">增强包</String>
 </Properties>
