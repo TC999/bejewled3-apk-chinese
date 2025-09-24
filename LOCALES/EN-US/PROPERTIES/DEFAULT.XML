@@ -994,78 +994,78 @@
   <!-- EndLevelDialog::DrawSpecialGemDisplay:194 -->
   <String id="233">%d.</String>
   <!-- EndLevelDialog::DrawHighScores:222 -->
-  <String id="234">Top Scores:</String>
+  <String id="234">最高分：</String>
   <!-- EndLevelDialog::DrawLabeledHighScores:251 -->
-  <String id="235">Statistics</String>
+  <String id="235">统计数据</String>
   <!-- EndLevelDialog::DrawLabeledStatsFrame:291 -->
-  <String id="236">Final Score:</String>
+  <String id="236">最终分数：</String>
   <!-- EndLevelDialog::Draw:332 -->
   <!-- File:      GameDetailMenu.cpp -->
-  <String id="3578">FINAL SCORE</String>
+  <String id="3578">最终分数</String>
   <!-- GameDetailMenu::Init:53 -->
-  <String id="3289">BACK</String>
+  <String id="3289">返回</String>
   <!-- GameDetailMenu::Init:79 -->
-  <String id="3290">PLAY</String>
+  <String id="3290">开始游戏</String>
   <!-- GameDetailMenu::SetMode:230 -->
-  <String id="3291">BACK</String>
+  <String id="3291">返回</String>
   <!-- GameDetailMenu::SetMode:231 -->
-  <String id="3292">PLAY AGAIN</String>
+  <String id="3292">再次游戏</String>
   <!-- GameDetailMenu::SetMode:252 -->
-  <String id="3293">MAIN MENU</String>
+  <String id="3293">主菜单</String>
   <!-- GameDetailMenu::SetMode:253 -->
-  <String id="3294">Swipe for stats</String>
+  <String id="3294">滑动查看统计数据</String>
   <!-- GameDetailMenu::SetUpSlideButtons:641 -->
-  <String id="3295">Swipe for top scores</String>
+  <String id="3295">滑动查看最高分</String>
   <!-- GameDetailMenu::SetUpSlideButtons:645 -->
-  <String id="3296">STATS</String>
+  <String id="3296">统计</String>
   <!-- GameDetailMenu::KeyChar:842 -->
-  <String id="3297">Level Achieved:</String>
+  <String id="3297">达成关卡：</String>
   <!-- GameDetailMenuContainer::SetMode:942 -->
-  <String id="3298">Best Move:</String>
+  <String id="3298">最佳移动：</String>
   <!-- GameDetailMenuContainer::SetMode:943 -->
-  <String id="3299">Longest Cascade:</String>
+  <String id="3299">最长连锁：</String>
   <!-- GameDetailMenuContainer::SetMode:944 -->
-  <String id="3300">Total Time:</String>
+  <String id="3300">总时间：</String>
   <!-- GameDetailMenuContainer::SetMode:945 -->
-  <String id="3301">SPECIAL GEMS</String>
+  <String id="3301">特殊宝石</String>
   <!-- GameDetailMenuContainer::SetMode:947 -->
-  <String id="3302">Max Depth:</String>
+  <String id="3302">最大深度：</String>
   <!-- GameDetailMenuContainer::SetMode:953 -->
-  <String id="3303">Total Time:</String>
+  <String id="3303">总时间：</String>
   <!-- GameDetailMenuContainer::SetMode:954 -->
-  <String id="3304">Best Move:</String>
+  <String id="3304">最佳移动：</String>
   <!-- GameDetailMenuContainer::SetMode:955 -->
-  <String id="3305">Best Treasure:</String>
+  <String id="3305">最佳宝藏：</String>
   <!-- GameDetailMenuContainer::SetMode:956 -->
-  <String id="3306">TREASURE FOUND</String>
+  <String id="3306">发现宝藏</String>
   <!-- GameDetailMenuContainer::SetMode:958 -->
-  <String id="3307">Butterflies Freed:</String>
+  <String id="3307">释放的蝴蝶：</String>
   <!-- GameDetailMenuContainer::SetMode:965 -->
-  <String id="3308">Best Move:</String>
+  <String id="3308">最佳移动：</String>
   <!-- GameDetailMenuContainer::SetMode:966 -->
-  <String id="3309">Best Butterfly Combo:</String>
+  <String id="3309">最佳蝴蝶连击：</String>
   <!-- GameDetailMenuContainer::SetMode:967 -->
-  <String id="3310">Total Time:</String>
+  <String id="3310">总时间：</String>
   <!-- GameDetailMenuContainer::SetMode:968 -->
-  <String id="3311">SPECIAL GEMS</String>
+  <String id="3311">特殊宝石</String>
   <!-- GameDetailMenuContainer::SetMode:970 -->
-  <String id="3312">Best Hand:</String>
+  <String id="3312">最佳手牌：</String>
   <!-- GameDetailMenuContainer::SetMode:978 -->
-  <String id="3313">Number of Hands:</String>
+  <String id="3313">手牌数量：</String>
   <!-- GameDetailMenuContainer::SetMode:979 -->
-  <String id="3314">Skulls Busted:</String>
+  <String id="3314">击碎的头骨：</String>
   <!-- GameDetailMenuContainer::SetMode:980 -->
-  <String id="3315">Skull Coin Flips:</String>
+  <String id="3315">头骨硬币翻转：</String>
   <!-- GameDetailMenuContainer::SetMode:981 -->
-  <String id="3316">SPECIAL GEMS</String>
+  <String id="3316">特殊宝石</String>
   <!-- GameDetailMenuContainer::SetMode:983 -->
-  <String id="3317">Highest Multiplier:</String>
+  <String id="3317">最高乘数：</String>
   <!-- GameDetailMenuContainer::SetMode:991 -->
-  <String id="3318">Best Move:</String>
+  <String id="3318">最佳移动：</String>
   <!-- GameDetailMenuContainer::SetMode:992 -->
-  <String id="3319">Longest Cascade:</String>
+  <String id="3319">最长连锁：</String>
   <!-- GameDetailMenuContainer::SetMode:993 -->
-  <String id="3320">Total Time:</String>
+  <String id="3320">总时间：</String>
   <!-- GameDetailMenuContainer::SetMode:994 -->
   <String id="3321">x %d</String>
   <!-- GameDetailMenuContainer::GetStatsFromBoard:1018 -->
@@ -1106,7 +1106,7 @@
   <String id="3333">x %d</String>
   <!-- GameDetailMenuContainer::GetStatsFromBoard:1129 -->
   <!-- File:      GiftGameDialog.cpp -->
-  <String id="3334">GIFT THIS APP</String>
+  <String id="3334">赠送此应用</String>
   <!-- Line 18 -->
   <String id="3335">OK</String>
   <!-- Line 25 -->
