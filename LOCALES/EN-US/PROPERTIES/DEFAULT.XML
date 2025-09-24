@@ -1921,163 +1921,166 @@
   <String id="3449">建议使用耳机</String>
   <!-- Line 79 -->
   <!-- File:      ZenOptionsDialog.cpp -->
-  <String id="515">Enable</String>
+  <String id="515">启用</String>
   <!-- Line 100 -->
-  <String id="516">Visual Indicator</String>
+  <String id="516">视觉指示器</String>
   <!-- Line 110 -->
-  <String id="517">Speed</String>
+  <String id="517">速度</String>
   <!-- Line 111 -->
-  <String id="518">Volume</String>
+  <String id="518">音量</String>
   <!-- Line 112 -->
-  <String id="519">Sound</String>
+  <String id="519">音效</String>
   <!-- Line 116 -->
-  <String id="520">Volume</String>
+  <String id="520">音量</String>
   <!-- Line 117 -->
-  <String id="521">Subliminal</String>
+  <String id="521">潜意识</String>
   <!-- Line 121 -->
-  <String id="522">Mantra</String>
+  <String id="522">口号</String>
   <!-- Line 122 -->
-  <String id="523">Visibility</String>
+  <String id="523">可见度</String>
   <!-- Line 126 -->
-  <String id="524">Speed</String>
+  <String id="524">速度</String>
   <!-- Line 131 -->
-  <String id="525">Pattern</String>
+  <String id="525">模式</String>
   <!-- Line 138 -->
-  <String id="526">Volume</String>
+  <String id="526">音量</String>
   <!-- Line 139 -->
-  <String id="538">Low volume recommended</String>
+  <String id="538">建议低音量</String>
   <!-- Line 141 -->
-  <String id="576">for</String>
+  <String id="576">为</String>
   <!-- Line 149 -->
-  <String id="539">for</String>
+  <String id="539">为</String>
   <!-- Line 151 -->
-  <String id="540">important safety information</String>
+  <String id="540">重要安全信息</String>
   <!-- Line 153 -->
-  <String id="527">Breath Modulation</String>
+  <String id="527">呼吸调节</String>
   <!-- Line 231 -->
-  <String id="528">Ambient Sounds</String>
+  <String id="528">环境音效</String>
   <!-- Line 232 -->
-  <String id="529">Mantras</String>
+  <String id="529">口号</String>
   <!-- Line 233 -->
-  <String id="530">Binaural Beats</String>
+  <String id="530">双脑节拍</String>
   <!-- Line 234 -->
-  <String id="531">Audio and visual feedback helps you modulate your breathing rate and assists in creating a sense of calm and relaxation.</String>
+  <String id="531">音频和视觉反馈帮助您调节呼吸频率，营造平静与放松的感觉。</String>
   <!-- Line 275 -->
-  <String id="532">Replace the game music with white noise or other environmental audio tracks for greater relaxation and focus.</String>
+  <String id="532">将游戏音乐替换为白噪音或其他环境音轨，以获得更好的放松和专注效果。</String>
   <!-- Line 276 -->
-  <String id="533">Various positive textual affirmations are displayed onscreen as you play, helping to focus your thoughts on beneficial areas for meditation.</String>
+  <String id="533">游戏时屏幕上会显示各种积极的文本肯定，帮助您将思绪集中在冥想的有益方面。</String>
   <!-- Line 277 -->
-  <String id="534">Headphones required!&cr;Slightly different frequencies played in each ear can help your brain enter different states.</String>
+  <String id="534">需要耳机！&cr;每只耳朵播放略有不同的频率，可帮助大脑进入不同状态。</String>
   <!-- Line 278 -->
-  <String id="535">Visual Indicator: ON</String>
+  <String id="535">视觉指示器：开启</String>
   <!-- Line 290 -->
-  <String id="577">Random</String>
+  <String id="577">随机</String>
   <!-- Line 295 -->
-  <String id="536">&nbsp;(Subliminal)</String>
+  <String id="536">&nbsp;(潜意识)</String>
   <!-- Line 304 -->
-  <String id="578">Random</String>
+  <String id="578">随机</String>
   <!-- Line 408 -->
-  <String id="579">Click here</String>
+  <String id="579">点击这里</String>
   <!-- Line 470 -->
-  <String id="580">SAFETY INFORMATION</String>
+  <String id="580">安全信息</String>
   <!-- ZenOptionsDialog::ShowBinauralWarning:513 -->
-  <String id="581">Certain people may experience mood changes, dizziness, muscle twitches, hallucinations, drowsiness, inattention and other health effects when listening to binaural beats with headphones.&cr;&cr;If you experience any of these symptoms while playing this mode, IMMEDIATELY remove the headphones, discontinue use and consult your doctor.</String>
+  <String id="581">某些人在使用耳机收听双脑节拍时，可能会出现情绪变化、头晕、肌肉抽搐、幻觉、嗜睡、注意力不集中和其他健康问题。&cr;&cr;如果您在玩此模式时出现任何这些症状，请立即取下耳机，停止使用并咨询医生。</String>
   <!-- ZenOptionsDialog::ShowBinauralWarning:514 -->
-  <String id="582">OK</String>
+  <String id="582">确定</String>
   <!-- ZenOptionsDialog::ShowBinauralWarning:515 -->
-  <String id="583">ENABLE</String>
+  <String id="583">启用</String>
   <!-- ZenOptionsDialog::ShowBinauralWarning:522 -->
   <!-- File:      ZenOptionsInfoDialog.cpp -->
-  <String id="3450">BACK</String>
+  <String id="3450">返回</String>
   <!-- Line 16 -->
   <!-- File:      ZenOptionsMenu.cpp -->
-  <String id="3616">Replace the game music with environmental audio tracks for greater relaxation and focus.</String>
+  <String id="3616">将游戏音乐替换为环境音轨，以获得更好的放松和专注效果。</String>
   <!-- Line 54 -->
-  <String id="3701">Volume</String>
+  <String id="3701">音量</String>
   <!-- Line 61 -->
-  <String id="3617">Choose your Sound</String>
+  <String id="3617">选择您的音效</String>
   <!-- Line 87 -->
-  <String id="3618">Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</String>
+  <String id="3618">屏幕上会显示积极的文本肯定，帮助您专注于冥想的有益方面。</String>
   <!-- Line 94 -->
-  <String id="3702">Subliminal</String>
+  <String id="3702">潜意识</String>
   <!-- Line 113 -->
-  <String id="3703">Visibility</String>
+  <String id="3703">可见度</String>
   <!-- Line 125 -->
-  <String id="3619">Choose your Mantra</String>
+  <String id="3619">选择您的口号</String>
   <!-- Line 141 -->
-  <String id="3620">Audio and visual feedback help modulate your breathing and create a sense of relaxation.</String>
+  <String id="3620">音频和视觉反馈帮助调节呼吸，创造放松的感觉。</String>
   <!-- Line 148 -->
-  <String id="3621">Enable</String>
+  <String id="3621">启用</String>
   <!-- Line 161 -->
-  <String id="3704">Visual Indicator</String>
+  <String id="3704">视觉指示器</String>
   <!-- Line 182 -->
-  <String id="3705">Speed</String>
+  <String id="3705">速度</String>
   <!-- Line 195 -->
-  <String id="3622">Replace the game music with environmental audio tracks for greater relaxation and focus.</String>
+  <String id="3622">将游戏音乐替换为环境音轨，以获得更好的放松和专注效果。</String>
   <!-- Line 206 -->
-  <String id="3706">Volume</String>
+  <String id="3706">音量</String>
   <!-- Line 207 -->
-  <String id="3623">Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</String>
+  <String id="3623">屏幕上会显示积极的文本肯定，帮助您专注于冥想的有益方面。</String>
   <!-- Line 265 -->
-  <String id="3707">Volume</String>
+  <String id="3707">音量</String>
   <!-- Line 274 -->
-  <String id="3708">Subliminal</String>
+  <String id="3708">潜意识</String>
   <!-- Line 325 -->
-  <String id="3624">Audio and visual feedback help modulate your breathing and create a sense of relaxation.</String>
+  <String id="3624">音频和视觉反馈帮助调节呼吸，创造放松的感觉。</String>
   <!-- Line 338 -->
-  <String id="3709">Visibility</String>
+  <String id="3709">可见度</String>
   <!-- Line 346 -->
-  <String id="3625">Enable</String>
+  <String id="3625">启用</String>
   <!-- Line 353 -->
-  <String id="3710">Visual Indicator</String>
+  <String id="3710">视觉指示器</String>
   <!-- Line 375 -->
-  <String id="3711">Speed</String>
+  <String id="3711">速度</String>
   <!-- Line 396 -->
-  <String id="3712">Volume</String>
+  <String id="3712">音量</String>
   <!-- Line 408 -->
-  <String id="3461">None</String>
+  <String id="3461">无</String>
   <!-- ZenOptionsContainer::GetAmbienceName:691 -->
-  <String id="3462">Random</String>
+  <String id="3462">随机</String>
   <!-- ZenOptionsContainer::GetAmbienceName:692 -->
-  <String id="3463">Ocean Surf</String>
+  <String id="3463">海浪</String>
   <!-- ZenOptionsContainer::GetAmbienceName:693 -->
-  <String id="3464">Crickets</String>
+  <String id="3464">蟋蟀</String>
   <!-- ZenOptionsContainer::GetAmbienceName:694 -->
-  <String id="3465">Rain Leaves</String>
+  <String id="3465">雨声落叶</String>
   <!-- ZenOptionsContainer::GetAmbienceName:695 -->
-  <String id="3466">Waterfall</String>
+  <String id="3466">瀑布</String>
   <!-- ZenOptionsContainer::GetAmbienceName:696 -->
-  <String id="3467">Coastal</String>
+  <String id="3467">海岸</String>
   <!-- ZenOptionsContainer::GetAmbienceName:697 -->
-  <String id="3468">Forest</String>
+  <String id="3468">森林</String>
   <!-- ZenOptionsContainer::GetAmbienceName:698 -->
-  <String id="3469">None</String>
+  <String id="3469">无</String>
   <!-- ZenOptionsContainer::GetMantraName:743 -->
-  <String id="3470">General</String>
+  <String id="3470">通用</String>
   <!-- ZenOptionsContainer::GetMantraName:744 -->
-  <String id="3471">Positive Thinking</String>
+  <String id="3471">积极思考</String>
   <!-- ZenOptionsContainer::GetMantraName:745 -->
-  <String id="3472">Quit Bad Habits</String>
+  <String id="3472">戒除坏习惯</String>
   <!-- ZenOptionsContainer::GetMantraName:746 -->
-  <String id="3473">Prosperity</String>
+  <String id="3473">繁荣</String>
   <!-- ZenOptionsContainer::GetMantraName:747 -->
-  <String id="3474">Self-Confidence</String>
+  <String id="3474">自信</String>
   <!-- ZenOptionsContainer::GetMantraName:748 -->
-  <String id="3475">Weight Loss</String>
+  <String id="3475">减肥</String>
   <!-- ZenOptionsContainer::GetMantraName:749 -->
-  <String id="3713">None</String>
+  <String id="3713">无</String>
   <!-- ZenOptionsContainer::GetMantraName:780 -->
-  <String id="3714">General</String>
+  <String id="3714">通用</String>
   <!-- ZenOptionsContainer::GetMantraName:781 -->
-  <String id="3715">Positive&cr;Thinking</String>
+  <String id="3715">积极
+思考</String>
   <!-- ZenOptionsContainer::GetMantraName:782 -->
-  <String id="3716">Quit Bad&cr;Habits</String>
+  <String id="3716">戒除不良
+习惯</String>
   <!-- ZenOptionsContainer::GetMantraName:783 -->
-  <String id="3717">Prosperity</String>
+  <String id="3717">繁荣</String>
   <!-- ZenOptionsContainer::GetMantraName:784 -->
-  <String id="3718">Self-&cr;Confidence</String>
+  <String id="3718">自
+信</String>
   <!-- ZenOptionsContainer::GetMantraName:785 -->
-  <String id="3719">Weight Loss</String>
+  <String id="3719">减肥</String>
   <!-- ZenOptionsContainer::GetMantraName:786 -->
   <String id="3517">Visibility</String>
   <!-- ZenOptionsContainer::LinkUpAssets:907 -->
